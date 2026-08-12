@@ -1,0 +1,1 @@
+import{t as e}from"./supabase-DyZ_B-wm.js";async function t(t,n,r,i){try{e.from(`audit_log`).insert({action:t,entity:n,details:r,entity_id:i}).then(()=>{},()=>{})}catch{}}var n=t;async function r(t,n,r=`info`){try{e.from(`notifications`).insert({title:t,body:n,type:r,read:!1}).then(()=>{},()=>{})}catch{}}export{r as n,n as t};
