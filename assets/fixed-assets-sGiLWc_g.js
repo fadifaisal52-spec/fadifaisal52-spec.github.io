@@ -1,0 +1,1 @@
+import{t as e}from"./FixedAssets-p86PSpZ_.js";var t=e;export{t as component};

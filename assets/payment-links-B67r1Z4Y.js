@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-wZC1-KeO.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-Clgadt0Y.js";var t=e;export{t as component};
