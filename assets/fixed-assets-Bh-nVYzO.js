@@ -1,0 +1,1 @@
+import{t as e}from"./FixedAssets-bk4XuwAK.js";var t=e;export{t as component};

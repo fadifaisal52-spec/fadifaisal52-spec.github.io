@@ -1,1 +1,0 @@
-import{t as e}from"./FixedAssets-DMj97rhY.js";var t=e;export{t as component};
