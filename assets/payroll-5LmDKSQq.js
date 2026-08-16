@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-DXcUCNnd.js";var t=e;export{t as component};
