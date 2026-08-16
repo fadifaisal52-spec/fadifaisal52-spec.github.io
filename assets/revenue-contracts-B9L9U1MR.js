@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-Brep6KLe.js";var t=e;export{t as component};
