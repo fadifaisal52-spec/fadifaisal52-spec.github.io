@@ -1,0 +1,1 @@
+import{t as e}from"./TrialBalance-Cjgak84f.js";var t=e;export{t as component};
