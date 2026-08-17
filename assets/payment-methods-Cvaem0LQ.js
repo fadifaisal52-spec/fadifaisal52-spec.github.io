@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-CHDXC9e_.js";var t=e;export{t as component};

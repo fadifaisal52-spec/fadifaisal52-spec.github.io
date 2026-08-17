@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-CcgMpN1a.js";var t=e;export{t as component};

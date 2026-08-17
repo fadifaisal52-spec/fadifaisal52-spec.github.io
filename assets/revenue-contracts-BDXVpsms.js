@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-CcMy7_K4.js";var t=e;export{t as component};
