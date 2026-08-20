@@ -1,5 +1,5 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v4';
+const CACHE_NAME = 'shamel-v5';
 const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/manifest.json', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
 
 /* ---- Web Push notifications ---- */
@@ -44,7 +44,10 @@ self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE_URLS)).catch(() => {}),
   );
-  self.skipWaiting();
+});
+
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') self.skipWaiting();
 });
 
 self.addEventListener('activate', (event) => {
