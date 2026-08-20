@@ -41,6 +41,7 @@ self.addEventListener('notificationclick', (event) => {
 });
 
 self.addEventListener('install', (event) => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE_URLS)).catch(() => {}),
   );
@@ -55,6 +56,11 @@ self.addEventListener('activate', (event) => {
     caches.keys().then((keys) => Promise.all(keys.filter((k) => k !== CACHE_NAME).map((k) => caches.delete(k)))),
   );
   self.clients.claim();
+  event.waitUntil(
+    self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clients) =>
+      clients.forEach((client) => client.navigate(client.url)),
+    ),
+  );
 });
 
 /* App shell first, with network fallback for navigation requests. */
