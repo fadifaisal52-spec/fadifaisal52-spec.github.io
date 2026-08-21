@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-CK64KoM8.js";var t=e;export{t as component};
