@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-CiT4pesZ.js";var t=e;export{t as component};
