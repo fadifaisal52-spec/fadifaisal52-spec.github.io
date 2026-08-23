@@ -1,1 +1,0 @@
-import{t as e}from"./CustomerDeposits-CuLRS_wl.js";var t=e;export{t as component};
