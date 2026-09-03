@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-Dxb1Neqc.js";var t=e;export{t as component};
