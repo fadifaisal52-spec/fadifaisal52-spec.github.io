@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-CEMYZ_OT.js";var t=e;export{t as component};
