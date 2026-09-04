@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-cOraBl_p.js";var t=e;export{t as component};
