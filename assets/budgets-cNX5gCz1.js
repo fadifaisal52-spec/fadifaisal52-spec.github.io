@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-BowhI_Wk.js";var t=e;export{t as component};
