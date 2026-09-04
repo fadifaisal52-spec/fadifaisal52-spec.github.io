@@ -19,7 +19,7 @@ body { font-family: 'Inter', 'Cairo', sans-serif; color: #0F172A; margin: 0; -we
 .sig-line { border-top: 1.5px solid #475569; padding-top: 8px; font-size: 12px; color: #475569; font-weight: 600; }
 </style></head><body><div class="wrap">
 <div class="header"><div><h1>${e.company_name||`شامل`}</h1><span class="title-badge">سند ${n.label}</span></div>
-<div class="meta"><div>التاريخ: <strong>${m(t.requested_at||t.created_at)}</strong></div><div>الحالة: <strong>${i}</strong></div></div></div>
+  <div class="meta"><div>التاريخ: <strong>${new Date(t.requested_at||t.created_at||new Date().toISOString()).toLocaleString(`ar-EG`,{dateStyle:`short`,timeStyle:`short`})}</strong></div><div>الحالة: <strong>${i}</strong></div></div></div>
 <div class="info-grid">
 <div class="info-item"><span class="info-label">الموظف:</span><span class="info-value">${t.employee_name||`—`}</span></div>
 <div class="info-item"><span class="info-label">النوع:</span><span class="info-value">${n.label}</span></div>
