@@ -1,5 +1,5 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v16';
+const CACHE_NAME = 'shamel-v17';
 const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/manifest.json', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
 
 /* ---- Web Push notifications ---- */
