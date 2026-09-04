@@ -1,0 +1,15 @@
+{
+  "name": "شامل - المنيو",
+  "short_name": "المنيو",
+  "start_url": "/menu",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "any",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "purpose": "any maskable" }
+  ]
+}
