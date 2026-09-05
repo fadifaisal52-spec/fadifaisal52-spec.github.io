@@ -1,0 +1,1 @@
+import{t as e}from"./DebtReminders-C-o-c_rn.js";var t=e;export{t as component};
