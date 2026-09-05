@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-gPMcs2o_.js";var t=e;export{t as component};
