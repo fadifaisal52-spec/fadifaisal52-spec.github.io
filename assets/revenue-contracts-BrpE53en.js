@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-DSxop09N.js";var t=e;export{t as component};
