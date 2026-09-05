@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-c5uAUteI.js";var t=e;export{t as component};

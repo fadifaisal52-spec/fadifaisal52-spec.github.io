@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-CPbi-xix.js";var t=e;export{t as component};
