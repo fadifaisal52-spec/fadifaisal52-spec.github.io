@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-oC8_c2wc.js";var t=e;export{t as component};
