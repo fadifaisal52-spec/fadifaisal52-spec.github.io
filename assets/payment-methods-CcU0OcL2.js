@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-Cpg_NdjQ.js";var t=e;export{t as component};

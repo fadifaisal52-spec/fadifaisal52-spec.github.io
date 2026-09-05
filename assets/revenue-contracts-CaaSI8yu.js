@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-TalX66m_.js";var t=e;export{t as component};
