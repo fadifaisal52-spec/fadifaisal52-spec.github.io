@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-nV-D5CID.js";var t=e;export{t as component};
