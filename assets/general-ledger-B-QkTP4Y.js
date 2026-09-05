@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-BO_gqtcn.js";var t=e;export{t as component};
