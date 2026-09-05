@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-Crtli-ox.js";var t=e;export{t as component};

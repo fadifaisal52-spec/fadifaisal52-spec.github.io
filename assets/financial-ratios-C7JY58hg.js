@@ -1,0 +1,1 @@
+import{t as e}from"./FinancialRatios-DUWlHMLS.js";var t=e;export{t as component};
