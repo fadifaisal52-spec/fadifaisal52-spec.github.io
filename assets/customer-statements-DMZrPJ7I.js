@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-rtTjl3D2.js";var t=e;export{t as component};

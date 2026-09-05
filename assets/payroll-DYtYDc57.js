@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-CAYEcn4x.js";var t=e;export{t as component};
