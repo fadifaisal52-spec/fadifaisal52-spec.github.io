@@ -1,1 +1,0 @@
-import{t as e}from"./CustomerStatements-CVDFpZPD.js";var t=e;export{t as component};

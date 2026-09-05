@@ -1,0 +1,1 @@
+import{t as e}from"./BotNotes-CEtd_OEX.js";var t=e;export{t as component};
