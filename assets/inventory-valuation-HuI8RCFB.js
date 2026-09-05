@@ -1,0 +1,1 @@
+import{t as e}from"./InventoryValuation-pHKcq_Or.js";var t=e;export{t as component};

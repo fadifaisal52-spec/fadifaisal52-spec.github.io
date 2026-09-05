@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-BlE_VOYE.js";var t=e;export{t as component};
