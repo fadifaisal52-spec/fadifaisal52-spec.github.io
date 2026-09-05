@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-Dwew3WPM.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./SupplierStatements-CIKfpicW.js";var t=e;export{t as component};
