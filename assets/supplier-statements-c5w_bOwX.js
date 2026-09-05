@@ -1,0 +1,1 @@
+import{t as e}from"./SupplierStatements-LMmAFMq1.js";var t=e;export{t as component};
