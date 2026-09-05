@@ -1,1 +1,0 @@
-import{t as e}from"./TrialBalance-BOkl2Or6.js";var t=e;export{t as component};

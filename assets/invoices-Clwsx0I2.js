@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-DfkqlsaS.js";var t=e;export{t as component};

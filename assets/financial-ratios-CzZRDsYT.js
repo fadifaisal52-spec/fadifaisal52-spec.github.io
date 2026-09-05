@@ -1,0 +1,1 @@
+import{t as e}from"./FinancialRatios-CA4-iNln.js";var t=e;export{t as component};

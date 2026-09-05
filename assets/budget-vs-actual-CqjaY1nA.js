@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-CKiPofcf.js";var t=e;export{t as component};
