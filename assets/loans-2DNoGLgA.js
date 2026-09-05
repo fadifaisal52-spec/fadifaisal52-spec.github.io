@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-Bttlc1xJ.js";var t=e;export{t as component};
