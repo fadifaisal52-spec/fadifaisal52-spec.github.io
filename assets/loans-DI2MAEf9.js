@@ -1,1 +1,0 @@
-import{t as e}from"./Loans-D2-fl5Ar.js";var t=e;export{t as component};

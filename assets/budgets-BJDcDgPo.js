@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-DJSI6LOr.js";var t=e;export{t as component};
