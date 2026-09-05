@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerDeposits-DjBp4Ol3.js";var t=e;export{t as component};

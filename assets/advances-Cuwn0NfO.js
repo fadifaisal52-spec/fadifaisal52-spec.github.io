@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-CJpaT38v.js";var t=e;export{t as component};
