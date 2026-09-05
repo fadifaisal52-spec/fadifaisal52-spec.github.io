@@ -1,0 +1,1 @@
+import{t as e}from"./IncomeStatement-DLgMq5mm.js";var t=e;export{t as component};

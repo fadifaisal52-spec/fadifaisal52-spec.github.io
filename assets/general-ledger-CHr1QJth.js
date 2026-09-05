@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-DaQUAg6c.js";var t=e;export{t as component};

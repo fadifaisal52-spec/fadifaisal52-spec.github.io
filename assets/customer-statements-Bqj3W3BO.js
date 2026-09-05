@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-DfW-e494.js";var t=e;export{t as component};
