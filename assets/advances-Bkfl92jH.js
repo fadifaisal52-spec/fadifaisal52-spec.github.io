@@ -1,1 +1,0 @@
-import{t as e}from"./Loans-CLxXt-zP.js";var t=e;export{t as component};
