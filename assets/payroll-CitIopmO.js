@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-DmaKp5ng.js";var t=e;export{t as component};

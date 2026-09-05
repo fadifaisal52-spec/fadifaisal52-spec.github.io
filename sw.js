@@ -1,6 +1,6 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v32';
-const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/manifest.json', '/manifest-pos.json', '/manifest-menu.json', '/pos', '/menu', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
+const CACHE_NAME = 'shamel-v33';
+const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/offline', '/manifest.json', '/manifest-pos.json', '/manifest-menu.json', '/pos', '/menu', '/sales', '/expenses', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
 
 /* ---- Web Push notifications ---- */
 self.addEventListener('push', (event) => {
