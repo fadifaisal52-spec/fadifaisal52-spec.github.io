@@ -1,1 +1,0 @@
-import{t as e}from"./BotNotes-BAk7Ncg8.js";var t=e;export{t as component};
