@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-C30rs_wX.js";var t=e;export{t as component};

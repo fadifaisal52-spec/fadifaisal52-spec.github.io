@@ -1,0 +1,1 @@
+import{t as e}from"./FinancialRatios-BUyCPl4W.js";var t=e;export{t as component};
