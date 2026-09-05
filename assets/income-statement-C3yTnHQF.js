@@ -1,0 +1,1 @@
+import{t as e}from"./IncomeStatement-Dvmp3eLL.js";var t=e;export{t as component};
