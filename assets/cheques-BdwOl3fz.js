@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-TD5S4-kl.js";var t=e;export{t as component};
