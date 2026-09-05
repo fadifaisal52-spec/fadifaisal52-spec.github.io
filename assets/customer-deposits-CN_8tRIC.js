@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerDeposits-CthyA_09.js";var t=e;export{t as component};
