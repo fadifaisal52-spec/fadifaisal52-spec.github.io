@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-Ccd-_SkR.js";var t=e;export{t as component};
