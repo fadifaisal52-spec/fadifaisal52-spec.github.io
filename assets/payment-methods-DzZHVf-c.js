@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-B2mid4Fn.js";var t=e;export{t as component};
