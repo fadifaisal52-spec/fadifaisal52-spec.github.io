@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-CIf01MPi.js";var t=e;export{t as component};

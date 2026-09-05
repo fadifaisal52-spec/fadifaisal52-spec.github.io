@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-AtFREea6.js";var t=e;export{t as component};
