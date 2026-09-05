@@ -1,1 +1,0 @@
-import{t as e}from"./Loans-BD8-KUwW.js";var t=e;export{t as component};
