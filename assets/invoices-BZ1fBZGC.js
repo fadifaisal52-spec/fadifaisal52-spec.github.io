@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-DLFb_beS.js";var t=e;export{t as component};
