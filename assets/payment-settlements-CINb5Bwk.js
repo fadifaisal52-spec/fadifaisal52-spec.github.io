@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-DrYMap8u.js";var t=e;export{t as component};

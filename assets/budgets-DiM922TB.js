@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CSZaP_ni.js";var t=e;export{t as component};
