@@ -1,1 +1,0 @@
-import{t as e}from"./Payroll-DY-XN1gb.js";var t=e;export{t as component};

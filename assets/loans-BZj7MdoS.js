@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-Dz19a-o4.js";var t=e;export{t as component};
