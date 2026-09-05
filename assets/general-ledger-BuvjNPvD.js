@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-tp6-aLXN.js";var t=e;export{t as component};
