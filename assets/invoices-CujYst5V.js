@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-DLy4-hAt.js";var t=e;export{t as component};

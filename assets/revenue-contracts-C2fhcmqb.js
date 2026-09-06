@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-Bo4NtSOC.js";var t=e;export{t as component};

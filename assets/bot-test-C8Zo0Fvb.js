@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-C-nTfvBd.js";var t=e;export{t as component};

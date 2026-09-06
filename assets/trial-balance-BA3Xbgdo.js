@@ -1,0 +1,1 @@
+import{t as e}from"./TrialBalance-cSgoPm61.js";var t=e;export{t as component};
