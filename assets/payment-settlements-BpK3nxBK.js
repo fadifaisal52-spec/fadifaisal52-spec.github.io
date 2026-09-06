@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-WG5DruUd.js";var t=e;export{t as component};

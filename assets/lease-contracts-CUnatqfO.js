@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-QOK3LX-1.js";var t=e;export{t as component};
