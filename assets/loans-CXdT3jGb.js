@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-Dmck_Pdb.js";var t=e;export{t as component};

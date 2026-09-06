@@ -1,0 +1,1 @@
+import{t as e}from"./BalanceSheet-92-Euoym.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-DTnow8_C.js";var t=e;export{t as component};
