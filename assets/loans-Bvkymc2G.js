@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-BCD-7bwi.js";var t=e;export{t as component};
