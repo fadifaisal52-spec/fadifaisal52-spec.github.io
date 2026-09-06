@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-lpw4dWis.js";var t=e;export{t as component};
