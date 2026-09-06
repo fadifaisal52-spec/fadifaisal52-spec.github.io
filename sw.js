@@ -1,6 +1,6 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v35';
-const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/offline', '/manifest.json', '/manifest-pos.json', '/manifest-menu.json', '/pos', '/menu', '/sales', '/expenses', '/purchases', '/products', '/loans', '/advances', '/returns', '/petty-cash', '/employee-portal', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
+const CACHE_NAME = 'shamel-v36';
+const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/offline', '/manifest.json', '/manifest-menu.json', '/menu', '/sales', '/expenses', '/purchases', '/products', '/loans', '/advances', '/returns', '/petty-cash', '/employee-portal', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
 
 /* ---- Offline-first data layer: cache Supabase reads, queue writes ----
    يغطي النظام كامل دون تعديل الصفحات: أي قراءة GET تُخبّأ لكل مستخدم،

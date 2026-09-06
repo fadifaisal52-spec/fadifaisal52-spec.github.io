@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-DtIEA22C.js";var t=e;export{t as component};
