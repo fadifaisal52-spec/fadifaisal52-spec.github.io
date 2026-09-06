@@ -1,0 +1,1 @@
+import{t as e}from"./BalanceSheet-C64VTh4V.js";var t=e;export{t as component};

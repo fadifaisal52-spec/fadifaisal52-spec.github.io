@@ -1,1 +1,0 @@
-import{t as e}from"./TrialBalance-DjvLjQE8.js";var t=e;export{t as component};
