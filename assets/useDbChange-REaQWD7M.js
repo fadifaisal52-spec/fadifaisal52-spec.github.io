@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-QTnfLwEv.js";import{n as t}from"./jsx-runtime-DRF4vMFQ.js";var n=e(t(),1);function r(e,t){(0,n.useEffect)(()=>{let n=n=>{let r=n.detail;(!t||!r?.table||t.includes(r.table))&&e()};return window.addEventListener(`db-change`,n),()=>window.removeEventListener(`db-change`,n)},[e,t?.join(`,`)])}export{r as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-C12DVYON.js";var t=e;export{t as component};
