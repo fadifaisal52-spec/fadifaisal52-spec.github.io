@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-CK9FKF_c.js";var t=e;export{t as component};
