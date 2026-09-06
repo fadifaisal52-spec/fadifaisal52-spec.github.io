@@ -1,1 +1,0 @@
-import{t as e}from"./CustomerStatements-Cb5f-DRz.js";var t=e;export{t as component};

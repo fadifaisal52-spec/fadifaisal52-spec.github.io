@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-D8J_twer.js";var t=e;export{t as component};
