@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-DmtiK2Tr.js";var t=e;export{t as component};
