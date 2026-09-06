@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-Ds1-GPxr.js";var t=e;export{t as component};
