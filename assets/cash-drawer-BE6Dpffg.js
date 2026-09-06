@@ -1,0 +1,1 @@
+import{t as e}from"./CashDrawer-PRcS59eo.js";var t=e;export{t as component};

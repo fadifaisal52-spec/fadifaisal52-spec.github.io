@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-Dh-IMVpI.js";var t=e;export{t as component};
