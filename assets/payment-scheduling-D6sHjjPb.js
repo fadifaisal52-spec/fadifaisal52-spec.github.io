@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-CTov2Jrc.js";var t=e;export{t as component};
