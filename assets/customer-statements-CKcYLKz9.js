@@ -1,1 +1,0 @@
-import{t as e}from"./CustomerStatements-Cevl28vs.js";var t=e;export{t as component};
