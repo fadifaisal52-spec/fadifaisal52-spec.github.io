@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-DuRXN5Yq.js";var t=e;export{t as component};
