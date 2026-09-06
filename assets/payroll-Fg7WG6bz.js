@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-D-oUp2gx.js";var t=e;export{t as component};

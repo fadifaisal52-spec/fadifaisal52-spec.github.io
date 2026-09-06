@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-BKBR_OUg.js";var t=e;export{t as component};
