@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-CBW_m1yp.js";var t=e;export{t as component};

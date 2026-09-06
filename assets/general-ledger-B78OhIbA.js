@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-ThsK_bOM.js";var t=e;export{t as component};

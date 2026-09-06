@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-O_xEclsb.js";var t=e;export{t as component};
