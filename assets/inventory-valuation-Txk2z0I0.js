@@ -1,1 +1,0 @@
-import{t as e}from"./InventoryValuation-XbnrApyE.js";var t=e;export{t as component};

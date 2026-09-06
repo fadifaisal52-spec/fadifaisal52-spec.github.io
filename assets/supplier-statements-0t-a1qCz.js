@@ -1,1 +1,0 @@
-import{t as e}from"./SupplierStatements-CRVQH_al.js";var t=e;export{t as component};
