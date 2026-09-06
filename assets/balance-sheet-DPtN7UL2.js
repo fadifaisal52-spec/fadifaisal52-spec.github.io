@@ -1,0 +1,1 @@
+import{t as e}from"./BalanceSheet-DAIjisGo.js";var t=e;export{t as component};
