@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-JOW_Mesg.js";var t=e;export{t as component};

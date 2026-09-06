@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-B_ANLNb5.js";var t=e;export{t as component};
