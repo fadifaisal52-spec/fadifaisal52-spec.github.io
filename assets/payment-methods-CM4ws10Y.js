@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-4PDtEcta.js";var t=e;export{t as component};

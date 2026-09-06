@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-ByIDRC_K.js";var t=e;export{t as component};
