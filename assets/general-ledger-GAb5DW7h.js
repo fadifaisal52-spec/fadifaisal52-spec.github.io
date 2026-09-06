@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-iWPj2TGI.js";var t=e;export{t as component};
