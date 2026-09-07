@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-Bh32DYas.js";var t=e;export{t as component};
