@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-FMSh-oeu.js";var t=e;export{t as component};

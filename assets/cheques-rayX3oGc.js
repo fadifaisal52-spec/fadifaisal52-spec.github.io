@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-DXvNEam6.js";var t=e;export{t as component};

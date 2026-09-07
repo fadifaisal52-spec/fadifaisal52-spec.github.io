@@ -1,0 +1,1 @@
+import{t as e}from"./InventoryValuation-Dohw22-d.js";var t=e;export{t as component};
