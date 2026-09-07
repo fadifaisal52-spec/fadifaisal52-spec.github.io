@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-Bedsy_fD.js";var t=e;export{t as component};

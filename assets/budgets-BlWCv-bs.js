@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CVQS_4vo.js";var t=e;export{t as component};

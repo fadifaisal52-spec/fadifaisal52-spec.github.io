@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-MAYBo92z.js";var t=e;export{t as component};
