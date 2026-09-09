@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-B8-imgdN.js";var t=e;export{t as component};
