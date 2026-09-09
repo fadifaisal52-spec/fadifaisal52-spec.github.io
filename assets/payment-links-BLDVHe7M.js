@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentLinks-D_LINfGh.js";var t=e;export{t as component};

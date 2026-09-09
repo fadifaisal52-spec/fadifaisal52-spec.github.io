@@ -1,0 +1,1 @@
+import{t as e}from"./CashDrawer-Jnw8_qki.js";var t=e;export{t as component};
