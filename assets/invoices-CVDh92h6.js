@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-F_WPOUv1.js";var t=e;export{t as component};
