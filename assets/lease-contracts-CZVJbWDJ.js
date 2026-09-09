@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-C1035liD.js";var t=e;export{t as component};

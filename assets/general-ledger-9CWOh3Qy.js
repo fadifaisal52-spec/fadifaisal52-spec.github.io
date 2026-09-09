@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-CTDcD4bi.js";var t=e;export{t as component};
