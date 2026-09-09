@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-CMH0xFjf.js";var t=e;export{t as component};
