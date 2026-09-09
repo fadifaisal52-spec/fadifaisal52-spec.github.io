@@ -1,1 +1,0 @@
-import{t as e}from"./IncomeStatement-DDasV6dx.js";var t=e;export{t as component};

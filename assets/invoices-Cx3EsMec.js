@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-BP-qDEj2.js";var t=e;export{t as component};
