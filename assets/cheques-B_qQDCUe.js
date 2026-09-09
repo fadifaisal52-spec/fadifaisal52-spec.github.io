@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-BcAM_mca.js";var t=e;export{t as component};

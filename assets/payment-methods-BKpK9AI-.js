@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-BC8STuiW.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-4VXl-orp.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-BFYMI-gx.js";var t=e;export{t as component};
