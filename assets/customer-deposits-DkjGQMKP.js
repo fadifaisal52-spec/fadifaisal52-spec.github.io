@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerDeposits-C8PoiACR.js";var t=e;export{t as component};

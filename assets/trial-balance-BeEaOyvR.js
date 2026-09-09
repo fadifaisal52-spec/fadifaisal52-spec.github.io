@@ -1,0 +1,1 @@
+import{t as e}from"./TrialBalance-Buha79of.js";var t=e;export{t as component};
