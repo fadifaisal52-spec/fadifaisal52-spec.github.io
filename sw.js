@@ -1,5 +1,5 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v38';
+const CACHE_NAME = 'shamel-v39';
 const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/offline', '/manifest.json', '/manifest-menu.json', '/cashier', '/menu', '/sales', '/expenses', '/purchases', '/products', '/loans', '/advances', '/returns', '/petty-cash', '/employee-portal', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
 
 /* ---- Offline-first data layer: cache Supabase reads, queue writes ----
