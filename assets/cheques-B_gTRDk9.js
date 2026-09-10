@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-BiD0Pipl.js";var t=e;export{t as component};
