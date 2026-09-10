@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-CI_JMoin.js";var t=e;export{t as component};
