@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-Ldmh1-Uh.js";var t=e;export{t as component};
