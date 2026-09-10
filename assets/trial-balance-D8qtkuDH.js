@@ -1,0 +1,1 @@
+import{t as e}from"./TrialBalance-CUnbezWb.js";var t=e;export{t as component};
