@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-DIMl4lgb.js";var t=e;export{t as component};
