@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-DTbS1ken.js";var t=e;export{t as component};

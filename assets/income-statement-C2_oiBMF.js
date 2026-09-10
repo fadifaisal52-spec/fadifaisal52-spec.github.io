@@ -1,1 +1,0 @@
-import{t as e}from"./IncomeStatement-D8gl_ARw.js";var t=e;export{t as component};

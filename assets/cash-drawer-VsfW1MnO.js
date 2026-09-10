@@ -1,0 +1,1 @@
+import{t as e}from"./CashDrawer-BRT50010.js";var t=e;export{t as component};
