@@ -1,0 +1,1 @@
+import{t as e}from"./BotNotes-BTN_NCZU.js";var t=e;export{t as component};
