@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-C_RCAnV_.js";var t=e;export{t as component};

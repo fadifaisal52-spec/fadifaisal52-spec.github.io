@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-ORdarF8T.js";var t=e;export{t as component};
