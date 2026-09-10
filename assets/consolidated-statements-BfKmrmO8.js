@@ -1,0 +1,1 @@
+import{t as e}from"./ConsolidatedStatements-BfH1-_pg.js";var t=e;export{t as component};
