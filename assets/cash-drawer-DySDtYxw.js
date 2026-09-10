@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-Auo3eeFq.js";var t=e;export{t as component};
