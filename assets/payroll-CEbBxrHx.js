@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-tWT-75-N.js";var t=e;export{t as component};
