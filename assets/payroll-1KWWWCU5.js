@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-BVexGidn.js";var t=e;export{t as component};
