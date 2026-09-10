@@ -1,0 +1,1 @@
+import{t as e}from"./InventoryValuation-fSayptq-.js";var t=e;export{t as component};

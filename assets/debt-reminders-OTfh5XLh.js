@@ -1,0 +1,1 @@
+import{t as e}from"./DebtReminders-BIrdx_5Q.js";var t=e;export{t as component};

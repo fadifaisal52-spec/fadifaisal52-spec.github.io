@@ -1,1 +1,0 @@
-import{t as e}from"./Payroll-DP4ya690.js";var t=e;export{t as component};

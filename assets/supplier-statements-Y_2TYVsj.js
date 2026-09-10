@@ -1,0 +1,1 @@
+import{t as e}from"./SupplierStatements-DBg500pj.js";var t=e;export{t as component};
