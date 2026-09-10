@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-S4Hbiecb.js";var t=e;export{t as component};

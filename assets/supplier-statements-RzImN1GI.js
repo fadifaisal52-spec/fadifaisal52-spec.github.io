@@ -1,0 +1,1 @@
+import{t as e}from"./SupplierStatements-C6siAlLI.js";var t=e;export{t as component};
