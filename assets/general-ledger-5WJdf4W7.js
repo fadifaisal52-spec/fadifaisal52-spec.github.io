@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-DaeM8REm.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-DFt-IJQN.js";var t=e;export{t as component};
