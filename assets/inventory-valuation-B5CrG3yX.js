@@ -1,0 +1,1 @@
+import{t as e}from"./InventoryValuation-BKgBYSeg.js";var t=e;export{t as component};
