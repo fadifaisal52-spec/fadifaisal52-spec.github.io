@@ -1,0 +1,1 @@
+import{t as e}from"./DebtReminders-BoXBcfHU.js";var t=e;export{t as component};

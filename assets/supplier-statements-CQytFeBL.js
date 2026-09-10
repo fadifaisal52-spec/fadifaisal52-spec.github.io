@@ -1,0 +1,1 @@
+import{t as e}from"./SupplierStatements-zipGt7sv.js";var t=e;export{t as component};
