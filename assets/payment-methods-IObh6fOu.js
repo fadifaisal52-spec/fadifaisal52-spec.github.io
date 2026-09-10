@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-ChxeIS_m.js";var t=e;export{t as component};

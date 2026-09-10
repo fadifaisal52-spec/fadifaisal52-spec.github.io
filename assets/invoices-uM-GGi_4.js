@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-DuG-AEL9.js";var t=e;export{t as component};

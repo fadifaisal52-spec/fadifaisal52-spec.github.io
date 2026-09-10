@@ -1,1 +1,0 @@
-import{t as e}from"./IncomeStatement-CIN1zinR.js";var t=e;export{t as component};

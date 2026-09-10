@@ -1,0 +1,1 @@
+import{t as e}from"./AgingReport-Bn4w_KFs.js";var t=e;export{t as component};
