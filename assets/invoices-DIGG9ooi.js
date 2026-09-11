@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-Fot4EmmL.js";var t=e;export{t as component};
