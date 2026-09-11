@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerDeposits-MTLP_nL1.js";var t=e;export{t as component};

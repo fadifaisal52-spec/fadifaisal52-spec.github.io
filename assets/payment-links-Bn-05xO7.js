@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentLinks-DKndvr_X.js";var t=e;export{t as component};
