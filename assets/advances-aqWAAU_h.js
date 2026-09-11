@@ -1,0 +1,1 @@
+import{t as e}from"./Loans-DOxl-SjI.js";var t=e;export{t as component};
