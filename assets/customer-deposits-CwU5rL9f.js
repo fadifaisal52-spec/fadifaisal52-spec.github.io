@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerDeposits-DsFVSl_s.js";var t=e;export{t as component};
