@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-Dyh-_LnA.js";var t=e;export{t as component};

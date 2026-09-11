@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-CaTB_gDi.js";var t=e;export{t as component};
