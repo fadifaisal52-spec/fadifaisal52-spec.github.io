@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-C5vPBxel.js";var t=e;export{t as component};

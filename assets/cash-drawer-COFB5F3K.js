@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-DUOCT4Gx.js";var t=e;export{t as component};
