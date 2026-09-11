@@ -1,0 +1,1 @@
+import{t as e}from"./InventoryValuation-CGFVatMV.js";var t=e;export{t as component};

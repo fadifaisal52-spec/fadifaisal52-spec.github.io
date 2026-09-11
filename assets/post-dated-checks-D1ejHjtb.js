@@ -1,0 +1,1 @@
+import{t as e}from"./PostDatedChecks-BuO8_tel.js";var t=e;export{t as component};

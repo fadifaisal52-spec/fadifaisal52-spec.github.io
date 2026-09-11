@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-obNiSl02.js";var t=e;export{t as component};
