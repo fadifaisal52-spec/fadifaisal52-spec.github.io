@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-oXT5a2gi.js";var t=e;export{t as component};
