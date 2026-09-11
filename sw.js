@@ -142,13 +142,14 @@ async function cachedRestGet(req) {
       } catch {}
     }
     return res;
-  } catch (e) {
-    if (cache) {
-      const hit = await cache.match(req).catch(() => null);
-      if (hit) return hit;
+    } catch (e) {
+      if (cache) {
+        const hit = await cache.match(req).catch(() => null);
+        if (hit) return hit;
+      }
+      // لا كاش: 503 (وليس 200 فارغاً) حتى لا تُسمّم اللقطات المحلية بصفوف فارغة
+      return new Response(JSON.stringify({ message: 'offline-no-cache' }), { status: 503, headers: { 'Content-Type': 'application/json', 'X-Offline-Cache': 'miss' } });
     }
-    return new Response(JSON.stringify([]), { status: 200, headers: { 'Content-Type': 'application/json', 'X-Offline-Cache': 'empty' } });
-  }
 }
 
 /* ---- Web Push notifications ---- */
@@ -206,11 +207,8 @@ self.addEventListener('activate', (event) => {
     caches.keys().then((keys) => Promise.all(keys.filter((k) => k !== CACHE_NAME && k.indexOf(API_CACHE_PREFIX) !== 0).map((k) => caches.delete(k)))),
   );
   self.clients.claim();
-  event.waitUntil(
-    self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clients) =>
-      clients.forEach((client) => client.navigate(client.url)),
-    ),
-  );
+  // لا نفرض إعادة تحميل التبويبات عند تحديث SW — كانت تمسح السلات والنماذج.
+  // التحديث يتم عبر SKIP_WAITING + controllerchange في التطبيق.
 });
 
 /* App shell first, with network fallback for navigation requests. */

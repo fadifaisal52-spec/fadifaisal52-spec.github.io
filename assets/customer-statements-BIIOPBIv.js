@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-C_FTP00G.js";var t=e;export{t as component};
