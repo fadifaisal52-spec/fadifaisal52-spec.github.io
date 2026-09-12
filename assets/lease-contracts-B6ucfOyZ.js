@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-B_sOZPSK.js";var t=e;export{t as component};
