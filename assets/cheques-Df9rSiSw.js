@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-Bt0xEoiL.js";var t=e;export{t as component};

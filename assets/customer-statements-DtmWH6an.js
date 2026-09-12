@@ -1,1 +1,0 @@
-import{t as e}from"./CustomerStatements-DJwkp_ja.js";var t=e;export{t as component};

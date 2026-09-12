@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-wV_uWdME.js";var t=e;export{t as component};
