@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-DDEF_n2n.js";var t=e;export{t as component};
