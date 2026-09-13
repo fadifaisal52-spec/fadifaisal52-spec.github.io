@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerDeposits-BLf0OCGU.js";var t=e;export{t as component};
