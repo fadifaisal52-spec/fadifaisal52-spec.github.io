@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-DYIRpycG.js";var t=e;export{t as component};
