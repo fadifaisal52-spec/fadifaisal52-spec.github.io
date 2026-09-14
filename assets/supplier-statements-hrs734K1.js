@@ -1,1 +1,0 @@
-import{t as e}from"./SupplierStatements-95_GLH_X.js";var t=e;export{t as component};
