@@ -1,1 +1,0 @@
-import{t as e}from"./SupplierStatements-Czt-o4Gt.js";var t=e;export{t as component};
