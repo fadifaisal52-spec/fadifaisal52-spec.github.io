@@ -165,13 +165,18 @@ self.addEventListener('push', (event) => {
     data.body = event.data ? event.data.text() : '';
   }
 
+  // Phone behavior: vibrate + re-alert on every push (even with the app
+  // closed the OS wakes the service worker, shows and buzzes each time).
   const options = {
     body: data.body || '',
-    icon: data.type === 'warning' ? '/icon-192.png' : '/icon-192.png',
+    icon: '/icon-192.png',
     badge: '/icon-192.png',
     data: { url: data.url || '/notifications' },
     dir: 'rtl',
     lang: 'ar',
+    tag: 'shamel-' + (data.type || 'info'),
+    renotify: true,
+    vibrate: [200, 100, 200],
   };
 
   event.waitUntil(self.registration.showNotification(data.title || 'شامل', options));
