@@ -1,0 +1,1 @@
+import{t as e}from"./ConsolidatedStatements-Bieu_chO.js";var t=e;export{t as component};

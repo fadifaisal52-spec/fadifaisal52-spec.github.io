@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-2ODjneRC.js";var t=e;export{t as component};

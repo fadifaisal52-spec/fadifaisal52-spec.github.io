@@ -1,0 +1,1 @@
+import{t as e}from"./BotNotes-CTum_o93.js";var t=e;export{t as component};

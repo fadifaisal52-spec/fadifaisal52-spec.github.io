@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-DUVKg4wm.js";var t=e;export{t as component};

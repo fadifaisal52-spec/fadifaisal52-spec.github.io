@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-MZUEois2.js";var t=e;export{t as component};
