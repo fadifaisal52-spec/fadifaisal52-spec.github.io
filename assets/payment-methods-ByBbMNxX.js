@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-Dt4LUtHe.js";var t=e;export{t as component};

@@ -1,6 +1,8 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v42';
-const PRECACHE_URLS = ['/', '/dashboard', '/login', '/auth/callback', '/offline', '/manifest.json', '/manifest-menu.json', '/cashier', '/menu', '/sales', '/expenses', '/purchases', '/products', '/loans', '/advances', '/returns', '/petty-cash', '/employee-portal', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
+const CACHE_NAME = 'shamel-v43';
+// App shell only: route chunks load on demand and cache on first visit.
+// (Precaching every route slowed install and burned mobile data.)
+const PRECACHE_URLS = ['/', '/offline', '/manifest.json', '/manifest-menu.json', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
 
 /* ---- Offline-first data layer: cache Supabase reads, queue writes ----
    يغطي النظام كامل دون تعديل الصفحات: أي قراءة GET تُخبّأ لكل مستخدم،

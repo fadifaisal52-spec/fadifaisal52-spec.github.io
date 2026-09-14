@@ -1,0 +1,1 @@
+import{t as e}from"./BalanceSheet-DVI0HSOC.js";var t=e;export{t as component};
