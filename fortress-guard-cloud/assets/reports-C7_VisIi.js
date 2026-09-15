@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-hY4q_vsk.js";var t=e;export{t as component};
