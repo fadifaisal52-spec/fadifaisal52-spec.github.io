@@ -1,0 +1,1 @@
+import{t as e}from"./IncomeStatement-DFW6zXi2.js";var t=e;export{t as component};

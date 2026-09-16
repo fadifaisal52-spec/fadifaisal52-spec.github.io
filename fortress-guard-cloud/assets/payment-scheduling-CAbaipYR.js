@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-BectLeHb.js";var t=e;export{t as component};
