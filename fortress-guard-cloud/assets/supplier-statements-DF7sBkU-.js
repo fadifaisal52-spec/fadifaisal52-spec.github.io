@@ -1,0 +1,1 @@
+import{t as e}from"./SupplierStatements-C3Y_IBac.js";var t=e;export{t as component};

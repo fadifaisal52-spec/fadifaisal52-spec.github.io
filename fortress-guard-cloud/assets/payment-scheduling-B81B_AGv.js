@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-Wx2C_DJv.js";var t=e;export{t as component};
