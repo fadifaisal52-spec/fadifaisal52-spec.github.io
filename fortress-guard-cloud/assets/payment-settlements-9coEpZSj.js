@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-Bmb_Rs5m.js";var t=e;export{t as component};

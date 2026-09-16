@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-BYAPO3Cg.js";var t=e;export{t as component};

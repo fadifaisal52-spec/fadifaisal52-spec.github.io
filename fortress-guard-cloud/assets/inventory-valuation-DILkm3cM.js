@@ -1,0 +1,1 @@
+import{t as e}from"./InventoryValuation-CLBLrgAO.js";var t=e;export{t as component};
