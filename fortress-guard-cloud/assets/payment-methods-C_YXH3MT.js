@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-CGe-suf9.js";var t=e;export{t as component};
