@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-CPIjs6iO.js";var t=e;export{t as component};
