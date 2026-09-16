@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-D4Gmd_-0.js";var t=e;export{t as component};

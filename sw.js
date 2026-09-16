@@ -1,8 +1,9 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v43';
+const CACHE_NAME = 'shamel-v44';
 // App shell only: route chunks load on demand and cache on first visit.
 // (Precaching every route slowed install and burned mobile data.)
-const PRECACHE_URLS = ['/', '/offline', '/manifest.json', '/manifest-menu.json', '/icon-192.png', '/icon-512.png', '/favicon.ico'];
+const base = new URL('.', self.location.href).href;
+const PRECACHE_URLS = [base, base + 'offline', base + 'manifest.json', base + 'manifest-menu.json', base + 'icon-192.png', base + 'icon-512.png', base + 'favicon.ico'];
 
 /* ---- Offline-first data layer: cache Supabase reads, queue writes ----
    يغطي النظام كامل دون تعديل الصفحات: أي قراءة GET تُخبّأ لكل مستخدم،
@@ -169,16 +170,20 @@ self.addEventListener('push', (event) => {
 
   // Phone behavior: vibrate + re-alert on every push (even with the app
   // closed the OS wakes the service worker, shows and buzzes each time).
+  const important = data.type === 'warning' || data.type === 'error';
   const options = {
     body: data.body || '',
-    icon: '/icon-192.png',
-    badge: '/icon-192.png',
-    data: { url: data.url || '/notifications' },
+    icon: base + 'icon-192.png',
+    badge: base + 'icon-192.png',
+    data: { url: data.url || base + 'notifications' },
     dir: 'rtl',
     lang: 'ar',
     tag: 'shamel-' + (data.type || 'info'),
     renotify: true,
     vibrate: [200, 100, 200],
+    timestamp: Date.now(),
+    // التحذيرات تبقى ظاهرة حتى يقرأها المستخدم — كانت تختفي وسط الإشعارات
+    requireInteraction: important,
   };
 
   event.waitUntil(self.registration.showNotification(data.title || 'شامل', options));
@@ -186,7 +191,7 @@ self.addEventListener('push', (event) => {
 
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
-  const url = (event.notification.data && event.notification.data.url) || '/notifications';
+  const url = (event.notification.data && event.notification.data.url) || base + 'notifications';
   event.waitUntil(
     self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clientList) => {
       for (const client of clientList) {
@@ -255,10 +260,10 @@ self.addEventListener('fetch', (event) => {
       fetch(req)
         .then((res) => {
           const copy = res.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put('/', copy)).catch(() => {});
+          caches.open(CACHE_NAME).then((cache) => cache.put(base, copy)).catch(() => {});
           return res;
         })
-        .catch(() => caches.match('/').then((r) => r || caches.match('/dashboard'))),
+        .catch(() => caches.match(base).then((r) => r || caches.match(base + 'dashboard'))),
     );
     return;
   }
