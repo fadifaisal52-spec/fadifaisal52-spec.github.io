@@ -1,1 +1,0 @@
-import{t as e}from"./CustomerStatements-C_WaSF0u.js";var t=e;export{t as component};
