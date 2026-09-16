@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-DagSLb9r.js";var t=e;export{t as component};
