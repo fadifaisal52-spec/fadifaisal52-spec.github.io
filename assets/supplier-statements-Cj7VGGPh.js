@@ -1,1 +1,0 @@
-import{t as e}from"./SupplierStatements-DUPTG5wv.js";var t=e;export{t as component};

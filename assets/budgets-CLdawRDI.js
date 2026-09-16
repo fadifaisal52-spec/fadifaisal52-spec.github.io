@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-DdOCELWd.js";var t=e;export{t as component};

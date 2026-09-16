@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-CVquViPS.js";var t=e;export{t as component};
