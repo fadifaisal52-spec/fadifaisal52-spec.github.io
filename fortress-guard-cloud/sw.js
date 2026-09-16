@@ -1,5 +1,5 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v43';
+const CACHE_NAME = 'shamel-v44';
 // App shell only: route chunks load on demand and cache on first visit.
 // (Precaching every route slowed install and burned mobile data.)
 const base = new URL('.', self.location.href).href;

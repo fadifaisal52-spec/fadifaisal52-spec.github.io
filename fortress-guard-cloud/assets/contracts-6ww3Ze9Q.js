@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub--Px6knux.js";var t=e;export{t as component};

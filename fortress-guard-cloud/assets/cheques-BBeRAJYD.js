@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-D8kt-cAP.js";var t=e;export{t as component};
