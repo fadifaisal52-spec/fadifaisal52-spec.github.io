@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-CUD8IMMC.js";var t=e;export{t as component};
