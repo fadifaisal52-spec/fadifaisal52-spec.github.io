@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-Bph_Pmwe.js";var t=e;export{t as component};

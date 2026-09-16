@@ -1,0 +1,1 @@
+import{t as e}from"./AgingReport-2S-kVilm.js";var t=e;export{t as component};
