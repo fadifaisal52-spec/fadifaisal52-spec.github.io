@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-BhR-bd2l.js";var t=e;export{t as component};

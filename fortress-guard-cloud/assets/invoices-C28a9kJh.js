@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-ITfderDt.js";var t=e;export{t as component};
