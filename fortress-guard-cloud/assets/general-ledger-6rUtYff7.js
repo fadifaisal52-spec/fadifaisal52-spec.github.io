@@ -1,1 +1,0 @@
-import{t as e}from"./GeneralLedger-maTCd-7u.js";var t=e;export{t as component};
