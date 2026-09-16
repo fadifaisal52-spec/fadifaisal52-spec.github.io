@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-B4YN_mRT.js";var t=e;export{t as component};

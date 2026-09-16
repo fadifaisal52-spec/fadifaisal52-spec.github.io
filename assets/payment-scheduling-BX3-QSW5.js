@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-CAmNlfzi.js";var t=e;export{t as component};
