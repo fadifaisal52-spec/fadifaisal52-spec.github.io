@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-Cso-B50d.js";var t=e;export{t as component};
