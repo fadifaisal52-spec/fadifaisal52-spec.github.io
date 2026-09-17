@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-BWI_-aQ5.js";var t=e;export{t as component};
