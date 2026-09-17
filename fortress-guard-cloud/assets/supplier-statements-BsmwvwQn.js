@@ -1,0 +1,1 @@
+import{t as e}from"./SupplierStatements-BS86f-B2.js";var t=e;export{t as component};

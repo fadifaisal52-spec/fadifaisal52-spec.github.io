@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-DELb18FN.js";var t=e;export{t as component};

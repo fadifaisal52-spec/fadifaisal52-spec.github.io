@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-DfBG6_gu.js";var t=e;export{t as component};
