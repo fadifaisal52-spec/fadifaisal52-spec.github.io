@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-YTpZI_of.js";var t=e;export{t as component};
