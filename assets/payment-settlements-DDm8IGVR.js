@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-ChO2jusa.js";var t=e;export{t as component};

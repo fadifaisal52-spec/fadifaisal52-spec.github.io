@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Ch2TP_SR.js";var t=e;export{t as component};

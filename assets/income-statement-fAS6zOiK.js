@@ -1,1 +1,0 @@
-import{t as e}from"./IncomeStatement-DAAe-SjO.js";var t=e;export{t as component};

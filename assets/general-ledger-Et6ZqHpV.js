@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-CSPhGEaD.js";var t=e;export{t as component};
