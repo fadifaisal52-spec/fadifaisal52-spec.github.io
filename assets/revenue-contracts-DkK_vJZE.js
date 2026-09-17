@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-s7zjsERL.js";var t=e;export{t as component};
