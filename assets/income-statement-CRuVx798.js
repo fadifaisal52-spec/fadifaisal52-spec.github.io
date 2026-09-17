@@ -1,1 +1,0 @@
-import{t as e}from"./IncomeStatement-DbX2sav5.js";var t=e;export{t as component};

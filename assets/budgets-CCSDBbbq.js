@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-ChlpL267.js";var t=e;export{t as component};
