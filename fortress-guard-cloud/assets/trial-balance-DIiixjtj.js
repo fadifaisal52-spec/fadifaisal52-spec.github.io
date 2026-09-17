@@ -1,0 +1,1 @@
+import{t as e}from"./TrialBalance-BDdds9lw.js";var t=e;export{t as component};

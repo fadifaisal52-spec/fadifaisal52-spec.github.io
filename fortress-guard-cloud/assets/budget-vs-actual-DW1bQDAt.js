@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-OeTa4SWc.js";var t=e;export{t as component};

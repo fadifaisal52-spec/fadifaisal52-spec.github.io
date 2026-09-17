@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-MUARF1bt.js";var t=e;export{t as component};
