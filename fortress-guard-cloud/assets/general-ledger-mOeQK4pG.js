@@ -1,0 +1,1 @@
+import{t as e}from"./GeneralLedger-BIm4p_yx.js";var t=e;export{t as component};

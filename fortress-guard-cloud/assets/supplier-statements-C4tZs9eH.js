@@ -1,1 +1,0 @@
-import{t as e}from"./SupplierStatements-ooY5_pSo.js";var t=e;export{t as component};
