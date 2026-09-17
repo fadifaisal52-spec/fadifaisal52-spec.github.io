@@ -178,7 +178,9 @@ self.addEventListener('push', (event) => {
     data: { url: data.url || base + 'notifications' },
     dir: 'rtl',
     lang: 'ar',
-    tag: 'shamel-' + (data.type || 'info'),
+    // وسم فريد لكل إشعار: الوسم الثابت كان يدمج الإشعارات المتتالية في واحد
+    // فيظن المستخدم أنها لا تصل — الآن يتراكم كل إشعار مستقلًا
+    tag: 'shamel-' + (data.type || 'info') + '-' + Date.now() + '-' + Math.floor(Math.random() * 1e6),
     renotify: true,
     vibrate: [200, 100, 200],
     timestamp: Date.now(),

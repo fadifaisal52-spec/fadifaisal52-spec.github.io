@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-BraK_KWE.js";var t=e;export{t as component};
