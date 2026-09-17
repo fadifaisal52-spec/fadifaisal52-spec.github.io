@@ -1,0 +1,1 @@
+import{t as e}from"./Payroll-C0_OJGso.js";var t=e;export{t as component};
