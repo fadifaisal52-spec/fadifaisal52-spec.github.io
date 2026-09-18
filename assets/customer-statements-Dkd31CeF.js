@@ -1,0 +1,1 @@
+import{t as e}from"./CustomerStatements-CYTik3MQ.js";var t=e;export{t as component};
