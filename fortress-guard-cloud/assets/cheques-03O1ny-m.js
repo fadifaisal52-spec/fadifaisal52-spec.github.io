@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-CosG6641.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./IncomeStatement-F3_QvEx5.js";var t=e;export{t as component};

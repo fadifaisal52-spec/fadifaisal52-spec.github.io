@@ -1,1 +1,0 @@
-import{t as e}from"./IncomeStatement-AEuixy4J.js";var t=e;export{t as component};
