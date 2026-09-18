@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BTCGLT_N.js";var t=e;export{t as component};

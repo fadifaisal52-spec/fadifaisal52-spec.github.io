@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-Bx3-c2pR.js";var t=e;export{t as component};
