@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-JT4Uzen9.js";var t=e;export{t as component};

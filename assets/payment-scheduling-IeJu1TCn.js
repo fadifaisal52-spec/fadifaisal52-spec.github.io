@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-GLz32mSG.js";var t=e;export{t as component};
