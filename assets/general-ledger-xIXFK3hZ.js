@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-CKd_yz_e.js";var t=e;export{t as component};
