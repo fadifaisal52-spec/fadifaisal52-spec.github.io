@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-6A7xmvWP.js";var t=e;export{t as component};

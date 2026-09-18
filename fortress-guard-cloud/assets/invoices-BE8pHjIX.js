@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-BAS8-2rj.js";var t=e;export{t as component};

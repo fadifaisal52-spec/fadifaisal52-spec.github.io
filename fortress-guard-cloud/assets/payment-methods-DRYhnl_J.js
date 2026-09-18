@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-CyGy-89B.js";var t=e;export{t as component};
