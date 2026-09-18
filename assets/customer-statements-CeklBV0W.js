@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-9Zdb-YFR.js";var t=e;export{t as component};

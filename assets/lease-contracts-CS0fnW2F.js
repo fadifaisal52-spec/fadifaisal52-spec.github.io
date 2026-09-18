@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-BvpOBA8u.js";var t=e;export{t as component};
