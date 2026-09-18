@@ -1,0 +1,1 @@
+import{t as e}from"./InventoryValuation-GRFj-Sxi.js";var t=e;export{t as component};
