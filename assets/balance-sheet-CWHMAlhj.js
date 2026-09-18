@@ -1,0 +1,1 @@
+import e from"./BalanceSheet--bucr3cc.js";var t=e;export{t as component};
