@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-LHBc16Be.js";var t=e;export{t as component};

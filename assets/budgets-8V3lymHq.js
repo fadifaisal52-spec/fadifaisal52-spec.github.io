@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-Be_MxW16.js";var t=e;export{t as component};
