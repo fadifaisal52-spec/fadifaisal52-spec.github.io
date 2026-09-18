@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-BR-Bagmq.js";var t=e;export{t as component};

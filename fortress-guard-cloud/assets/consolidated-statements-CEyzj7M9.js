@@ -1,0 +1,1 @@
+import{t as e}from"./ConsolidatedStatements-ChT_Oyto.js";var t=e;export{t as component};

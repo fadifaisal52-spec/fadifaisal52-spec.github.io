@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-SG_G4Cyc.js";var t=e;export{t as component};
