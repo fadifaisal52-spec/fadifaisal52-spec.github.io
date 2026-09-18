@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DPHooKoK.js";var t=e;export{t as component};
