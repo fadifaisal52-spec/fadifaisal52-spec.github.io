@@ -1,9 +1,8 @@
 /* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v44';
-// App shell only: route chunks load on demand and cache on first visit.
-// (Precaching every route slowed install and burned mobile data.)
+const CACHE_NAME = 'shamel-v45';
+// App shell: base + key entry shells (login/offline) so cold offline launch works.
 const base = new URL('.', self.location.href).href;
-const PRECACHE_URLS = [base, base + 'offline', base + 'manifest.json', base + 'manifest-menu.json', base + 'icon-192.png', base + 'icon-512.png', base + 'favicon.ico'];
+const PRECACHE_URLS = [base, base + 'offline', base + 'login', base + 'manifest.json', base + 'manifest-menu.json', base + 'icon-192.png', base + 'icon-512.png', base + 'favicon.ico'];
 
 /* ---- Offline-first data layer: cache Supabase reads, queue writes ----
    يغطي النظام كامل دون تعديل الصفحات: أي قراءة GET تُخبّأ لكل مستخدم،
@@ -265,7 +264,11 @@ self.addEventListener('fetch', (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(base, copy)).catch(() => {});
           return res;
         })
-        .catch(() => caches.match(base).then((r) => r || caches.match(base + 'dashboard'))),
+        .catch(() =>
+          caches.match(req)
+            .then((r) => r || caches.match(base))
+            .then((r) => r || caches.match(base + 'offline')),
+        ),
     );
     return;
   }

@@ -1,0 +1,1 @@
+import{t as e}from"./FinancialRatios-Ba1_ypiv.js";var t=e;export{t as component};
