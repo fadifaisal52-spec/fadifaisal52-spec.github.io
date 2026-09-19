@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-kTYMQ_aB.js";var t=e;export{t as component};
