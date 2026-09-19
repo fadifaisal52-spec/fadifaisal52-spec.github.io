@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-Do_Dwmio.js";var t=e;export{t as component};
