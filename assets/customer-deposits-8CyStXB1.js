@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-BIo_mtrz.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DikCh2CV.js";var t=e;export{t as component};

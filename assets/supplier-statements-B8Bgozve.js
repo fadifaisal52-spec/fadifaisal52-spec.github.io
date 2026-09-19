@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DX_G5yak.js";var t=e;export{t as component};
