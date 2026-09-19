@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-CP5jw-NP.js";var t=e;export{t as component};

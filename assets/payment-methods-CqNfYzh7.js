@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DG2HaxfR.js";var t=e;export{t as component};
