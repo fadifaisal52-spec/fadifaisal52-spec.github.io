@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-ERMCd3AO.js";var t=e;export{t as component};

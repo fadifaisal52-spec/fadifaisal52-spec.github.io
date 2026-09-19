@@ -1,1 +1,0 @@
-import{t as e}from"./ContractsHub-CFWlF8-d.js";var t=e;export{t as component};
