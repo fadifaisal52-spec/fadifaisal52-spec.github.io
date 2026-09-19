@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-D2OanICH.js";var t=e;export{t as component};
