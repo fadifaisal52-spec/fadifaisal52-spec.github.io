@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-BYnnWCGW.js";var t=e;export{t as component};

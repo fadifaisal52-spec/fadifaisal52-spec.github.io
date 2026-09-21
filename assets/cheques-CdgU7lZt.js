@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-VJL_4VND.js";var t=e;export{t as component};
