@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-BMOMLzhd.js";var t=e;export{t as component};

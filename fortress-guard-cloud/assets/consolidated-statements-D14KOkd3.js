@@ -1,1 +1,0 @@
-import e from"./ConsolidatedStatements-OdITN8w7.js";var t=e;export{t as component};
