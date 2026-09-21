@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-GxPwk-2t.js";var t=e;export{t as component};
