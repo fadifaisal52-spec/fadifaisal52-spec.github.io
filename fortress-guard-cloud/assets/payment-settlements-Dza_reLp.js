@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-BredL7Oj.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DpTK-q4w.js";var t=e;export{t as component};
