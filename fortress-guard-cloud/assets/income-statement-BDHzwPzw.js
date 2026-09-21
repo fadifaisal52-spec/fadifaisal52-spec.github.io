@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-D-Xt-HqV.js";var t=e;export{t as component};

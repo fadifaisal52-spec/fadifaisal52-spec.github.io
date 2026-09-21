@@ -1,5 +1,5 @@
-/* Shameli PWA service worker */
-const CACHE_NAME = 'shamel-v45';
+/* Ofuq PWA service worker */
+const CACHE_NAME = 'ofuq-v46';
 // App shell: base + key entry shells (login/offline) so cold offline launch works.
 const base = new URL('.', self.location.href).href;
 const PRECACHE_URLS = [base, base + 'offline', base + 'login', base + 'manifest.json', base + 'manifest-menu.json', base + 'icon-192.png', base + 'icon-512.png', base + 'favicon.ico'];
@@ -7,7 +7,7 @@ const PRECACHE_URLS = [base, base + 'offline', base + 'login', base + 'manifest.
 /* ---- Offline-first data layer: cache Supabase reads, queue writes ----
    يغطي النظام كامل دون تعديل الصفحات: أي قراءة GET تُخبّأ لكل مستخدم،
    وأي كتابة دون اتصال تُحفظ في نفس صندوق التطبيق (IndexedDB) ليُزامنها. */
-const API_CACHE_PREFIX = 'shamel-api-';
+const API_CACHE_PREFIX = 'ofuq-api-';
 const OUTBOX_DB = 'shamel-offline';
 
 function djb2(str) {
@@ -156,7 +156,7 @@ async function cachedRestGet(req) {
 
 /* ---- Web Push notifications ---- */
 self.addEventListener('push', (event) => {
-  let data = { title: 'شامل', body: '', url: '/notifications', type: 'info' };
+  let data = { title: 'أفق', body: '', url: '/notifications', type: 'info' };
   try {
     if (event.data) {
       const parsed = event.data.json();
@@ -187,7 +187,7 @@ self.addEventListener('push', (event) => {
     requireInteraction: important,
   };
 
-  event.waitUntil(self.registration.showNotification(data.title || 'شامل', options));
+  event.waitUntil(self.registration.showNotification(data.title || 'أفق', options));
 });
 
 self.addEventListener('notificationclick', (event) => {
