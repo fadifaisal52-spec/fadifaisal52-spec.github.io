@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-VTf_JLGV.js";var t=e;export{t as component};

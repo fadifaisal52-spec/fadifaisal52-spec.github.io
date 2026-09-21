@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-GPO65NQk.js";var t=e;export{t as component};

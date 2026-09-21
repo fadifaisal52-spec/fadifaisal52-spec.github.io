@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CaNHml5j.js";var t=e;export{t as component};
