@@ -1,0 +1,1 @@
+import{t as e}from"./WorkflowAutomation-C83Be-PP.js";var t=e;export{t as component};
