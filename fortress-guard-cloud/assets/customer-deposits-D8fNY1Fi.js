@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-CApp4Nfd.js";var t=e;export{t as component};

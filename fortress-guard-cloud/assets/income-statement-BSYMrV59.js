@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-RSsJs3pz.js";var t=e;export{t as component};

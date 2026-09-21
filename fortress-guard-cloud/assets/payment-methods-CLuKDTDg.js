@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-CfvofMJp.js";var t=e;export{t as component};

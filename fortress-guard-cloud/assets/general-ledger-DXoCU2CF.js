@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-Cokr3nJU.js";var t=e;export{t as component};

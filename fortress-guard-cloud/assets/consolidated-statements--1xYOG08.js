@@ -1,1 +1,0 @@
-import e from"./ConsolidatedStatements-DGaTTsab.js";var t=e;export{t as component};
