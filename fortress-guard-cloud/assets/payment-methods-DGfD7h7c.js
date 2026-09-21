@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DO-zk63R.js";var t=e;export{t as component};

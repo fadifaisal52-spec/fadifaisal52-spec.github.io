@@ -1,1 +1,0 @@
-import e from"./InventoryValuation-Bar1c-F1.js";var t=e;export{t as component};
