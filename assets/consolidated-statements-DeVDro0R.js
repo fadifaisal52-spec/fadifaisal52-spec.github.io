@@ -1,1 +1,0 @@
-import e from"./ConsolidatedStatements-CrpiadLo.js";var t=e;export{t as component};
