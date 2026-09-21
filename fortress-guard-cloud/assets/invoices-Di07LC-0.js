@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-Do5jmpdM.js";var t=e;export{t as component};

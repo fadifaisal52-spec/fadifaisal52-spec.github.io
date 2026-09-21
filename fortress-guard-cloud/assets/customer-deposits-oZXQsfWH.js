@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-C_asgeHf.js";var t=e;export{t as component};

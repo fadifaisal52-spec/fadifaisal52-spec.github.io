@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-x4B__Of-.js";var t=e;export{t as component};

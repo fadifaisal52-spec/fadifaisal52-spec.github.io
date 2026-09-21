@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BAzlUYRP.js";var t=e;export{t as component};
