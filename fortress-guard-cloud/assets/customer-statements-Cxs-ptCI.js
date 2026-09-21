@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DekAXFOC.js";var t=e;export{t as component};
