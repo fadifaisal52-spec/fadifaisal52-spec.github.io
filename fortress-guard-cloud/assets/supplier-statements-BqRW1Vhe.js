@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DodkxMk7.js";var t=e;export{t as component};
