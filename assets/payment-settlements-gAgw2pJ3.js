@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CU2ubbTw.js";var t=e;export{t as component};

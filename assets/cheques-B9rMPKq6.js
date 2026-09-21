@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-Bn61LUdi.js";var t=e;export{t as component};
