@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-Cm8a_JLm.js";var t=e;export{t as component};

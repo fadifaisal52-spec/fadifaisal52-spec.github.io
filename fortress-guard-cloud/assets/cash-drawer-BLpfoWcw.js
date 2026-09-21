@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-Dmuf7CPI.js";var t=e;export{t as component};
