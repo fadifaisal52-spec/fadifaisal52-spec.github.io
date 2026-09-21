@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-1-GphESI.js";var t=e;export{t as component};

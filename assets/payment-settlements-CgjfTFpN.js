@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Dx-7FMMV.js";var t=e;export{t as component};
