@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Y8GmMPSv.js";var t=e;export{t as component};
