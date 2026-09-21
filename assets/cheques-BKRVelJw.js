@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-G3FplLRg.js";var t=e;export{t as component};

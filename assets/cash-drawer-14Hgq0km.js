@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-BAphMy7G.js";var t=e;export{t as component};
