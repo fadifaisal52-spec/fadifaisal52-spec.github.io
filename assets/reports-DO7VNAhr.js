@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-Cor8ltmd.js";var t=e;export{t as component};

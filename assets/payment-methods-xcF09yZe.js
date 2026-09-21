@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DBl8geAS.js";var t=e;export{t as component};
