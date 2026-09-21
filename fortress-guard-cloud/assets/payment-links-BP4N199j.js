@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-C0Q-jMFS.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Cf61bmpt.js";var t=e;export{t as component};

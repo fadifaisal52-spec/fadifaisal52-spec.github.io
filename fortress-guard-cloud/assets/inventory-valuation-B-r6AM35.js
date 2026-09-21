@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-BarflDkN.js";var t=e;export{t as component};
