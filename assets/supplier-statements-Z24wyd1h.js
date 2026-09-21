@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-Bez31F-Y.js";var t=e;export{t as component};
