@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-CWB8HtGp.js";var t=e;export{t as component};
