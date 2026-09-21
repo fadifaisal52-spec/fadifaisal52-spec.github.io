@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-BFvA-Ncr.js";var t=e;export{t as component};

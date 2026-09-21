@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BnaM_xeA.js";var t=e;export{t as component};

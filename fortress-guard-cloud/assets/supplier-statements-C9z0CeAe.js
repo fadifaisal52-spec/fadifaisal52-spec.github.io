@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DWhREd3n.js";var t=e;export{t as component};
