@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-B0fJ8Xuv.js";var t=e;export{t as component};

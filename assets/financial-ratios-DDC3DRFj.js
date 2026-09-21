@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DIKne3_i.js";var t=e;export{t as component};
