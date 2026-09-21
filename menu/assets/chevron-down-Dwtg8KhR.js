@@ -1,1 +1,0 @@
-import{S as e}from"./index-oCwQ4H4r.js";var t=e(`chevron-down`,[[`path`,{d:`m6 9 6 6 6-6`,key:`qrunsl`}]]);export{t};

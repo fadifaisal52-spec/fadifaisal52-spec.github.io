@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-Ccts4nar.js";var t=e;export{t as component};

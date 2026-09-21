@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DBSrKCWe.js";var t=e;export{t as component};
