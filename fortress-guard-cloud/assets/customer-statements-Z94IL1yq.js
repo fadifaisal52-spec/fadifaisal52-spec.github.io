@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DJh86lSI.js";var t=e;export{t as component};

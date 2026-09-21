@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-BCa5-Ocv.js";var t=e;export{t as component};
