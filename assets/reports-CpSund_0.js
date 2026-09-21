@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-NPB0l_MC.js";var t=e;export{t as component};

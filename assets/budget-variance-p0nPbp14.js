@@ -1,1 +1,0 @@
-import{t as e}from"./BudgetVsActual-DN6LoaY2.js";var t=e;export{t as component};

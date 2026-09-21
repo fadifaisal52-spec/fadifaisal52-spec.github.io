@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CSFSYRKp.js";var t=e;export{t as component};
