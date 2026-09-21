@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DDS95Htx.js";var t=e;export{t as component};
