@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CHzoeeEL.js";var t=e;export{t as component};

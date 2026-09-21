@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-CnMOvrGc.js";var t=e;export{t as component};
