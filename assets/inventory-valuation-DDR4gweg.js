@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-DZ391_Ob.js";var t=e;export{t as component};

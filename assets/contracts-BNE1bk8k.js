@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-CRIMAfFi.js";var t=e;export{t as component};
