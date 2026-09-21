@@ -1,7 +1,7 @@
 {
   "name": "شامل - المنيو",
   "short_name": "المنيو",
-  "start_url": "./menu",
+  "start_url": "./order",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0f172a",
