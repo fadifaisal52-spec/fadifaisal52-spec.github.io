@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-JaSY63Ho.js";var t=e;export{t as component};

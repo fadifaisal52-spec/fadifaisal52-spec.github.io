@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-DIo21q-q.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BFw-QpPv.js";var t=e;export{t as component};
