@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CLUTHr7r.js";var t=e;export{t as component};

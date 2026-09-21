@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-piq-hlcT.js";var t=e;export{t as component};
