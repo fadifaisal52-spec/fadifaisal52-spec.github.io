@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-UdsCVCgC.js";var t=e;export{t as component};

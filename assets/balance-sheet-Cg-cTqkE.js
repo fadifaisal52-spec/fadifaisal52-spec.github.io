@@ -1,0 +1,1 @@
+import e from"./BalanceSheet-9_SARikA.js";var t=e;export{t as component};
