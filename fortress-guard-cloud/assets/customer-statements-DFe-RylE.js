@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CiBoYSJq.js";var t=e;export{t as component};

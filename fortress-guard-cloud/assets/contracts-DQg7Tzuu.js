@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-DVsp8XPA.js";var t=e;export{t as component};
