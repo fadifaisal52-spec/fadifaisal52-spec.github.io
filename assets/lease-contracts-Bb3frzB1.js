@@ -1,0 +1,1 @@
+import{t as e}from"./LeaseContracts-CgEdbT4O.js";var t=e;export{t as component};
