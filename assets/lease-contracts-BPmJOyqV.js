@@ -1,0 +1,1 @@
+import{t as e}from"./LeaseContracts-BOZD-fyr.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CsZ4Nuo-.js";var t=e;export{t as component};
