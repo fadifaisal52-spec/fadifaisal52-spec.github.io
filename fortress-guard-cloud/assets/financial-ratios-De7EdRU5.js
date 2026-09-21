@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-IdmyWWTs.js";var t=e;export{t as component};
