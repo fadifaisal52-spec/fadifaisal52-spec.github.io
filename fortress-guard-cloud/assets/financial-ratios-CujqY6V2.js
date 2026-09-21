@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-Dj-3jPA2.js";var t=e;export{t as component};

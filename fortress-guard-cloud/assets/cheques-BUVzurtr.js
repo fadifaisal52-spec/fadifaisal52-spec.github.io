@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-DUW5mbm_.js";var t=e;export{t as component};

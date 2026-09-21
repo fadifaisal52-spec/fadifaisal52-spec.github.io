@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DCAZ4-K_.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-BgTIB26k.js";var t=e;export{t as component};

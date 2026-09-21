@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-OfCDHD8q.js";var t=e;export{t as component};

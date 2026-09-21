@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-if1naIjL.js";var t=e;export{t as component};

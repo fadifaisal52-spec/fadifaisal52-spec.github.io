@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CAdq1_Gy.js";var t=e;export{t as component};
