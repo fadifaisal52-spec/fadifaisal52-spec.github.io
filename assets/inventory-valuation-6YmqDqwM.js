@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-NY0Ma3nq.js";var t=e;export{t as component};

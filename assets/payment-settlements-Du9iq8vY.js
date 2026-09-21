@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-Dsk7xjlk.js";var t=e;export{t as component};
