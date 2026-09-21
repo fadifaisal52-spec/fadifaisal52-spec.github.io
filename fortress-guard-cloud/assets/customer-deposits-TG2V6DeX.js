@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DgY0GmPA.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CXp-VQn4.js";var t=e;export{t as component};
