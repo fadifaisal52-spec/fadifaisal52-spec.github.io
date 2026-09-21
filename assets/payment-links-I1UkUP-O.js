@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-BkPUN_If.js";var t=e;export{t as component};
