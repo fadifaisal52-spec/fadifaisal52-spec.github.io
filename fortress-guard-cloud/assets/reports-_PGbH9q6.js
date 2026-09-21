@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-BrgNG7nd.js";var t=e;export{t as component};

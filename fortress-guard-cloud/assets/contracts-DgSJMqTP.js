@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-C50vQB3s.js";var t=e;export{t as component};

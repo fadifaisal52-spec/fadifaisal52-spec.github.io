@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Dhf-Jaj5.js";var t=e;export{t as component};

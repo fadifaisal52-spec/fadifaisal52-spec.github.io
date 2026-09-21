@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DPnRNuge.js";var t=e;export{t as component};
