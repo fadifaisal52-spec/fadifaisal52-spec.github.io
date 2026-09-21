@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-D6-rboxK.js";var t=e;export{t as component};

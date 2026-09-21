@@ -1,1 +1,0 @@
-import e from"./DebtReminders-BiRKiP_b.js";var t=e;export{t as component};
