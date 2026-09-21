@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DO-mG_Yy.js";var t=e;export{t as component};
