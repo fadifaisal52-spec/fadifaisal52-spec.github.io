@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DiVc4RUR.js";var t=e;export{t as component};
