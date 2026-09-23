@@ -1,5 +1,5 @@
 /* Ofuq PWA service worker */
-const CACHE_NAME = 'ofuq-v46';
+const CACHE_NAME = 'ofuq-v47';
 // App shell: base + key entry shells (login/offline) so cold offline launch works.
 const base = new URL('.', self.location.href).href;
 const PRECACHE_URLS = [base, base + 'offline', base + 'login', base + 'manifest.json', base + 'manifest-menu.json', base + 'icon-192.png', base + 'icon-512.png', base + 'favicon.ico'];
@@ -206,7 +206,21 @@ self.addEventListener('notificationclick', (event) => {
 self.addEventListener('install', (event) => {
   self.skipWaiting();
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE_URLS)).catch(() => {}),
+    // كل رابط على حدة: رابط واحد متعثر (404/500) كان يُسقط كامل التخزين المسبق
+    // فيفتح التطبيق فارغًا دون اتصال — الآن يُحفظ ما أمكن ويُسجل الناقص
+    caches.open(CACHE_NAME).then((cache) =>
+      Promise.allSettled(
+        PRECACHE_URLS.map((u) =>
+          fetch(u, { cache: 'reload' }).then((res) => {
+            if (!res || !res.ok) throw new Error('precache ' + res.status);
+            return cache.put(u, res);
+          }),
+        ),
+      ).then((rs) => {
+        const failed = PRECACHE_URLS.filter((_, i) => rs[i].status !== 'fulfilled');
+        if (failed.length) console.warn('precache skipped:', failed.join(', '));
+      }),
+    ).catch(() => {}),
   );
 });
 

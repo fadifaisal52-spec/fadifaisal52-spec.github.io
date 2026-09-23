@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CLIP5xGa.js";var t=e;export{t as component};

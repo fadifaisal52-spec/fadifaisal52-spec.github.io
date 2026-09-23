@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-Bl2Xo8AM.js";var t=e;export{t as component};
