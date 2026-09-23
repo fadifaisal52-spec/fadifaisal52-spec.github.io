@@ -1,0 +1,1 @@
+import e from"./Payroll-XNc-Lndd.js";var t=e;export{t as component};

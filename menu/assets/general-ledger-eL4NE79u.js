@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-CI2tnvfr.js";var t=e;export{t as component};

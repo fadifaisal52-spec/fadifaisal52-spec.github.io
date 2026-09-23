@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-CA2079cS.js";var t=e;export{t as component};

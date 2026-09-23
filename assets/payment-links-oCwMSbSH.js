@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-Vr_FKEM6.js";var t=e;export{t as component};
