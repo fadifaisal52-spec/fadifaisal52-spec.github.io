@@ -1,1 +1,0 @@
-import{S as e}from"./index-BT0G-7jv.js";var t=e(`minus`,[[`path`,{d:`M5 12h14`,key:`1ays0h`}]]);export{t};

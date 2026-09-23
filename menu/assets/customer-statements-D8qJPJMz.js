@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BiXF4Aiz.js";var t=e;export{t as component};

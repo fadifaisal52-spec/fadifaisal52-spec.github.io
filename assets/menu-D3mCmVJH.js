@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-HpDn87Sk.js";var t=e;export{t as component};

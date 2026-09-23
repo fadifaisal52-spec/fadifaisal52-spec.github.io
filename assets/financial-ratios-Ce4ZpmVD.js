@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-C3GRlf_3.js";var t=e;export{t as component};

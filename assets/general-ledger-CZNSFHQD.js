@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-BUg86Hb9.js";var t=e;export{t as component};

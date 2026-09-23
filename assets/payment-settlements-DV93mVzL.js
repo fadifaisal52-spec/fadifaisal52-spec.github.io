@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-DgsRTJGO.js";var t=e;export{t as component};

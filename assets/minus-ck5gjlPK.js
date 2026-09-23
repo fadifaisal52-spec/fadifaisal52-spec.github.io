@@ -1,1 +1,0 @@
-import{x as e}from"./index-DNx-Pt1U.js";var t=e(`minus`,[[`path`,{d:`M5 12h14`,key:`1ays0h`}]]);export{t};
