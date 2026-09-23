@@ -1,0 +1,1 @@
+import{t as e}from"./LeaseContracts-Qg7r7h11.js";var t=e;export{t as component};

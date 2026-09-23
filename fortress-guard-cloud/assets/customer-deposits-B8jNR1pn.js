@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-B-MTOXb9.js";var t=e;export{t as component};
