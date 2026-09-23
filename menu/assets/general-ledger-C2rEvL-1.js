@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-CgLey9-s.js";var t=e;export{t as component};

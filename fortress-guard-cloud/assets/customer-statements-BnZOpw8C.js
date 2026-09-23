@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CAc7BHAU.js";var t=e;export{t as component};
