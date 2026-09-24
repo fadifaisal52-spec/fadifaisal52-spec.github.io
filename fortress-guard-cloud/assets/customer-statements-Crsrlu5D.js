@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-DwnlmlqE.js";var t=e;export{t as component};

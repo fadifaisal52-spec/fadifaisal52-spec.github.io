@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-C_gmt27t.js";var t=e;export{t as component};

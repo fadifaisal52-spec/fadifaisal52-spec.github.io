@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-DrCP8cPM.js";var t=e;export{t as component};
