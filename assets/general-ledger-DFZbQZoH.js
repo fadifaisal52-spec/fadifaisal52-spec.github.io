@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DWCgpaet.js";var t=e;export{t as component};
