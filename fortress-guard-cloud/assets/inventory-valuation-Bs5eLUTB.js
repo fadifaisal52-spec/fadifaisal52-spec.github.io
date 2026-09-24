@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-COMUNM1v.js";var t=e;export{t as component};

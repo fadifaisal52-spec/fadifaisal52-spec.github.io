@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CTKohPyD.js";var t=e;export{t as component};

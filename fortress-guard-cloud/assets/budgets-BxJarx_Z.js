@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-MLean3dJ.js";var t=e;export{t as component};
