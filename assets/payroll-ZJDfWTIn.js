@@ -1,0 +1,1 @@
+import e from"./Payroll-BAUIN-_5.js";var t=e;export{t as component};

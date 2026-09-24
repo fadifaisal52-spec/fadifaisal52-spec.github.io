@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-pMNQGL-H.js";var t=e;export{t as component};
