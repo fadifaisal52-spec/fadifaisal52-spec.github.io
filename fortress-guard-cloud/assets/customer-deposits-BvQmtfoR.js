@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-XdOSlron.js";var t=e;export{t as component};

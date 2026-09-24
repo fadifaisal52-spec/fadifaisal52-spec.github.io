@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-D4zorIPy.js";var t=e;export{t as component};
