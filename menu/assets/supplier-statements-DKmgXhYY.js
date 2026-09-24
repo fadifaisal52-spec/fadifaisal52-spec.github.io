@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-FbwJPAbs.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-BclcvnPn.js";var t=e;export{t as component};
