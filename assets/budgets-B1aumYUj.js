@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-Cnn0LO_2.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DWH_BJIO.js";var t=e;export{t as component};

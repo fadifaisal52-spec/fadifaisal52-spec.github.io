@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-tIgrdUBE.js";var t=e;export{t as component};

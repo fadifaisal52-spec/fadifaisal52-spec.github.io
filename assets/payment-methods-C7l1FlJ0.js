@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-Z8_i6CAI.js";var t=e;export{t as component};
