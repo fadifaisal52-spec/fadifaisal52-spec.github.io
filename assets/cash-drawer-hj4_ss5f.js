@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-D82_Gxcb.js";var t=e;export{t as component};
