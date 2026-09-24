@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Ri89onQl.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-979BncMV.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-BL_oe_9c.js";var t=e;export{t as component};

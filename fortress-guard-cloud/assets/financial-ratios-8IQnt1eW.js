@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-C6GLtFAP.js";var t=e;export{t as component};

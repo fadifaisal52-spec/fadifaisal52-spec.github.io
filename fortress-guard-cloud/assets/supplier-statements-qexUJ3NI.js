@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-BSM92KLV.js";var t=e;export{t as component};
