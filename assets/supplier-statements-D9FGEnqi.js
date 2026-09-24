@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-Dy55Lo_e.js";var t=e;export{t as component};
