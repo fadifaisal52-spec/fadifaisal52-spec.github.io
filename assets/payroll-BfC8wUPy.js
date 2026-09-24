@@ -1,0 +1,1 @@
+import e from"./Payroll-CCXSh--o.js";var t=e;export{t as component};

@@ -1,5 +1,5 @@
 /* Ofuq PWA service worker */
-const CACHE_NAME = 'ofuq-v47';
+const CACHE_NAME = 'ofuq-v48';
 // App shell: base + key entry shells (login/offline) so cold offline launch works.
 const base = new URL('.', self.location.href).href;
 const PRECACHE_URLS = [base, base + 'offline', base + 'login', base + 'manifest.json', base + 'manifest-menu.json', base + 'icon-192.png', base + 'icon-512.png', base + 'favicon.ico'];

@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-VEI2SCft.js";var t=e;export{t as component};

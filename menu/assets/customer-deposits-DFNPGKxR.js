@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-Krl_Rphd.js";var t=e;export{t as component};
