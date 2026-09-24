@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-Dnx-6rje.js";var t=e;export{t as component};

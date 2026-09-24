@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-BtnlkSV5.js";var t=e;export{t as component};
