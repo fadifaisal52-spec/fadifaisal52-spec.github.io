@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-HOmuEBVP.js";var t=e;export{t as component};

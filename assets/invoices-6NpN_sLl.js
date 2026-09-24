@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-DTbg1Cgf.js";var t=e;export{t as component};
