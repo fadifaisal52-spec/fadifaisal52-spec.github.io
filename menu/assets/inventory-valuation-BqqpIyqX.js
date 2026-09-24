@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-M44-Ke4o.js";var t=e;export{t as component};

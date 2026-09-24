@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-CodMQTt0.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./FinancialRatios--Zv_PdAw.js";var t=e;export{t as component};

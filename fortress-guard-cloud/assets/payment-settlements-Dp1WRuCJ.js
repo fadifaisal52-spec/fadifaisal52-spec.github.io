@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CNF5rMxp.js";var t=e;export{t as component};
