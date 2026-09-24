@@ -1,0 +1,1 @@
+import e from"./DebtReminders-DIR_Pwcy.js";var t=e;export{t as component};

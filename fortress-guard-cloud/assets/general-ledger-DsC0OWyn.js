@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DQZCurl3.js";var t=e;export{t as component};

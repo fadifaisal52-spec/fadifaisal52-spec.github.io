@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-mSb2texT.js";var t=e;export{t as component};

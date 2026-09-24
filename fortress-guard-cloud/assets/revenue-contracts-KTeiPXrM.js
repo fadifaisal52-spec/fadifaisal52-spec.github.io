@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-DgS-A_3C.js";var t=e;export{t as component};

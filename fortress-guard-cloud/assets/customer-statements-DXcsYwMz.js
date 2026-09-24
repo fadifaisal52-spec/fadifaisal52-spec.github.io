@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CLQW_lWf.js";var t=e;export{t as component};

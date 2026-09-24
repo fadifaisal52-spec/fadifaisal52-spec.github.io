@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CRahH_Cv.js";var t=e;export{t as component};

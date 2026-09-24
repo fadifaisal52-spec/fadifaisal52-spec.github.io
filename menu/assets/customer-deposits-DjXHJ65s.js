@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BbtF-cxO.js";var t=e;export{t as component};
