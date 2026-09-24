@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BPYioP-1.js";var t=e;export{t as component};

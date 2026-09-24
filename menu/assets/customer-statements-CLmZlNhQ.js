@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DOEAUfrM.js";var t=e;export{t as component};

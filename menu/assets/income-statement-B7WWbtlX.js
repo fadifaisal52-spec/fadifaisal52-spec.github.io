@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-DfdH2kal.js";var t=e;export{t as component};

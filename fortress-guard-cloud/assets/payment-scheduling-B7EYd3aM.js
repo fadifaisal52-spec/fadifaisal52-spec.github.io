@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-Bxh_Ndvd.js";var t=e;export{t as component};

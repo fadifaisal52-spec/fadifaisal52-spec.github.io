@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DDp4_Wka.js";var t=e;export{t as component};
