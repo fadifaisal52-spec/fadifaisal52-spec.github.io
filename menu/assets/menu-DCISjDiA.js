@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-_3SWWAwd.js";var t=e;export{t as component};

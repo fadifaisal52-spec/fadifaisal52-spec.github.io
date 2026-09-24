@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DOko-ePl.js";var t=e;export{t as component};
