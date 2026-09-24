@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-Di4PosVI.js";var t=e;export{t as component};

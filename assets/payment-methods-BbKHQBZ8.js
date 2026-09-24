@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-CsrsS4qM.js";var t=e;export{t as component};
