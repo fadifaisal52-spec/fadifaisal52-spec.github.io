@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Rh82btGA.js";var t=e;export{t as component};

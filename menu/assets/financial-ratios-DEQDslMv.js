@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-psAO_SvT.js";var t=e;export{t as component};

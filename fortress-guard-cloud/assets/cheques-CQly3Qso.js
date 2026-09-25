@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-CIlypEFk.js";var t=e;export{t as component};
