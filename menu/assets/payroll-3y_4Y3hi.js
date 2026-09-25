@@ -1,1 +1,0 @@
-import e from"./Payroll-BFjtFTpJ.js";var t=e;export{t as component};

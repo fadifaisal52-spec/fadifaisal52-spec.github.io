@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-ByIGMIVB.js";var t=e;export{t as component};

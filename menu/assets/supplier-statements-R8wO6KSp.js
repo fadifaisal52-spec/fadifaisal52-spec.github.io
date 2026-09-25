@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-FzpwUMql.js";var t=e;export{t as component};
