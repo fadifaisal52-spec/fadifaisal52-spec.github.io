@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DcxosKX2.js";var t=e;export{t as component};

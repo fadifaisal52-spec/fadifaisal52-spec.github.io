@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-N-UfvPTv.js";var t=e;export{t as component};

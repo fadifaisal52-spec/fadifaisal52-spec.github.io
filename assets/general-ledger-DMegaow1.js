@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-C_pjEZU3.js";var t=e;export{t as component};
