@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-Cv3baZeT.js";var t=e;export{t as component};

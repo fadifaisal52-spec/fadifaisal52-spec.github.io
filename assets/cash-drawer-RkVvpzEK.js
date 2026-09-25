@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-DGDe2QLO.js";var t=e;export{t as component};

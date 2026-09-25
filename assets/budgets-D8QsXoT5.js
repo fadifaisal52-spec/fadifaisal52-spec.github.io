@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-FKDS_AJE.js";var t=e;export{t as component};
