@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-BEQlNF0Y.js";var t=e;export{t as component};

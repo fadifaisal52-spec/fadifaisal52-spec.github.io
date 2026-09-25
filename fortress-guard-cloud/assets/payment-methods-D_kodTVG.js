@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-CY5_l04j.js";var t=e;export{t as component};
