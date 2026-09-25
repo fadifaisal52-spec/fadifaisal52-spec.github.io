@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-B1a2_pNT.js";var t=e;export{t as component};
