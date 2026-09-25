@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-CPFAIP30.js";var t=e;export{t as component};

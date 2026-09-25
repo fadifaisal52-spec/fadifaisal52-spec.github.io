@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-DNufSuaL.js";var t=e;export{t as component};

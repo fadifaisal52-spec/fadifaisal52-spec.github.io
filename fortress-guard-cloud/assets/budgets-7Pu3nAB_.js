@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CjGms_Vb.js";var t=e;export{t as component};

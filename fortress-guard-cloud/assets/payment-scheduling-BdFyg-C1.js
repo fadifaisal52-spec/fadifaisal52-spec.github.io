@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling--FLv4Poe.js";var t=e;export{t as component};
