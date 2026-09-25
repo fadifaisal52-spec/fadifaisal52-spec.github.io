@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BLDJgrca.js";var t=e;export{t as component};

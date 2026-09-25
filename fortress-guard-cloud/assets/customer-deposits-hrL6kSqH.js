@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-DBT1sso2.js";var t=e;export{t as component};
