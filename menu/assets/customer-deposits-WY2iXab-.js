@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DIrDRIrM.js";var t=e;export{t as component};

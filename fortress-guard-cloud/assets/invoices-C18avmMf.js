@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-Cpels2AZ.js";var t=e;export{t as component};

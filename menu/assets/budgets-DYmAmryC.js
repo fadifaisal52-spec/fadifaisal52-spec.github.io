@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-HS9-FChT.js";var t=e;export{t as component};

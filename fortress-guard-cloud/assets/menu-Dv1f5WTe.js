@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-B2L2olmP.js";var t=e;export{t as component};

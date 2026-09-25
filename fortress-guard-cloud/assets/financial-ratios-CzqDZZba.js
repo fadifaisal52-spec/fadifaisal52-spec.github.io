@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BL9-OzcE.js";var t=e;export{t as component};
