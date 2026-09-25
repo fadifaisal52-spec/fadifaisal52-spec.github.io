@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DrEKips9.js";var t=e;export{t as component};

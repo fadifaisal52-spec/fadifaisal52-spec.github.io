@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-CYG5_Dta.js";var t=e;export{t as component};

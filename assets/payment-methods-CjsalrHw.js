@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-B-j8_keq.js";var t=e;export{t as component};

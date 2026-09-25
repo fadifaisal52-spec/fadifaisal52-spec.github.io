@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DaVV62Au.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-BD49Ehue.js";var t=e;export{t as component};
