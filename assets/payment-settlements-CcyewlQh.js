@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Dq12-Vp4.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-Ck_KmibS.js";var t=e;export{t as component};
