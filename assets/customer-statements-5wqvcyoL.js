@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DigUYjn2.js";var t=e;export{t as component};

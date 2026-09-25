@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Ccr2ToH3.js";var t=e;export{t as component};

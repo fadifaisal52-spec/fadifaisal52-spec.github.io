@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-RVcP_5Ai.js";var t=e;export{t as component};

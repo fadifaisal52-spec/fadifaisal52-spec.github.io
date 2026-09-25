@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-D3u-sOax.js";var t=e;export{t as component};
