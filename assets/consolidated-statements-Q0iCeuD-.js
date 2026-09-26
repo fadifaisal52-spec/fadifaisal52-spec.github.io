@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DhVNpGpB.js";var t=e;export{t as component};

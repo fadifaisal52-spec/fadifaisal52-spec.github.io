@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-CK9KtMoU.js";var t=e;export{t as component};
