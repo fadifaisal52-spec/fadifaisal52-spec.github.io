@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-DyturTj9.js";var t=e;export{t as component};

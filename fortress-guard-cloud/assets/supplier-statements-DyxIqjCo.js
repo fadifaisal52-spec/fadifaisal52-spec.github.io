@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DxRJ4arr.js";var t=e;export{t as component};
