@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CO2v_lNo.js";var t=e;export{t as component};

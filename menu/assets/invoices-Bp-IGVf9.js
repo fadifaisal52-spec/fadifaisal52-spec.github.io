@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-C8F7ULUY.js";var t=e;export{t as component};
