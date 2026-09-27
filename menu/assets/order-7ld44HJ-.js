@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-FEUXif0r.js";var t=e;export{t as component};

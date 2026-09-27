@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DJHw_f2t.js";var t=e;export{t as component};
