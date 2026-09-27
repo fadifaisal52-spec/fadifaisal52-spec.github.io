@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-tnAPt-37.js";var t=e;export{t as component};

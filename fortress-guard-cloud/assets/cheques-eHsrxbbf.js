@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-POCuQPyZ.js";var t=e;export{t as component};

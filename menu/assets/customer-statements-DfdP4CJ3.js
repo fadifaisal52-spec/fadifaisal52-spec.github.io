@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BgiCt4gp.js";var t=e;export{t as component};

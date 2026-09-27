@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DLP2Qv24.js";var t=e;export{t as component};
