@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DvRLRATZ.js";var t=e;export{t as component};

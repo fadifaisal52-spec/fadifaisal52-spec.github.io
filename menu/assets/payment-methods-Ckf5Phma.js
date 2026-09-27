@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-py3Ua-Ra.js";var t=e;export{t as component};
