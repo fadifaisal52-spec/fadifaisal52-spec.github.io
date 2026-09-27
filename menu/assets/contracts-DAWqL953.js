@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-ChesTkvO.js";var t=e;export{t as component};

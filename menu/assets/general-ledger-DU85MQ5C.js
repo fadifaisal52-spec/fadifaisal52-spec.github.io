@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-hANS-40o.js";var t=e;export{t as component};

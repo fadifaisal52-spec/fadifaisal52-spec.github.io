@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CS27MYxe.js";var t=e;export{t as component};

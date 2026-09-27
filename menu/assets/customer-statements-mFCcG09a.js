@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DHzbMIGX.js";var t=e;export{t as component};
