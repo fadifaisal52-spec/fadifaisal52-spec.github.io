@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-BS4t_dAC.js";var t=e;export{t as component};

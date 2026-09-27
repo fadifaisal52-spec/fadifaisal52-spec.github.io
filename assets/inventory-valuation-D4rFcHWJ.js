@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-BM4dfBrB.js";var t=e;export{t as component};

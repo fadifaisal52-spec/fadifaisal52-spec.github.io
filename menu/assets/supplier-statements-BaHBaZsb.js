@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Bjj_CSW-.js";var t=e;export{t as component};
