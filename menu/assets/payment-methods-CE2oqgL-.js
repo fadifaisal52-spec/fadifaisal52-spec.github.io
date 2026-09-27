@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-D6_Nmwx5.js";var t=e;export{t as component};

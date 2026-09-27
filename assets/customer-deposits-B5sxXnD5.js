@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-DvKGM_PG.js";var t=e;export{t as component};

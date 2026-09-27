@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-pubugWfz.js";var t=e;export{t as component};

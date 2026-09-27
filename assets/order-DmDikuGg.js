@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-Bu2Akt2d.js";var t=e;export{t as component};

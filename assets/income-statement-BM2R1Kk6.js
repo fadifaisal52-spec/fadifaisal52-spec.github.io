@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DCHK6HDI.js";var t=e;export{t as component};
