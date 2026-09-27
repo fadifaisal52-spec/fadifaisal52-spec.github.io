@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BOmGlZem.js";var t=e;export{t as component};
