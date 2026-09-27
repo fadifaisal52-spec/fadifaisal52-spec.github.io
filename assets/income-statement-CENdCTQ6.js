@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-DLfp1x-9.js";var t=e;export{t as component};

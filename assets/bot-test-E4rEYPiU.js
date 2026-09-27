@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-DEcQ7lp2.js";var t=e;export{t as component};
