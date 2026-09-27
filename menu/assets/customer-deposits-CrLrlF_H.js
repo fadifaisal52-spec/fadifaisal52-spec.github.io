@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CDx_GnLJ.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-CiFAM0Cm.js";var t=e;export{t as component};

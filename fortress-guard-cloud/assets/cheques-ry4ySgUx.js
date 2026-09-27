@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-DGF2_yiu.js";var t=e;export{t as component};
