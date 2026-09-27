@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CTF07Wql.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./BalanceSheet-D73OnYua.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-Bfo_dgHM.js";var t=e;export{t as component};

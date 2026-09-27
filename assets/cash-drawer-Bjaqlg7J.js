@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-CMc-nLSg.js";var t=e;export{t as component};

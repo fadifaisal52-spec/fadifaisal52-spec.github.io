@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-Bt-X075o.js";var t=e;export{t as component};

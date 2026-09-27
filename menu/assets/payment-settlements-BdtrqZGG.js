@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-BxbPbLQR.js";var t=e;export{t as component};

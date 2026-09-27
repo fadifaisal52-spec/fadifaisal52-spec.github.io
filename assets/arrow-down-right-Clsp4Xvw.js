@@ -1,1 +1,0 @@
-import{f as e}from"./index-CWZW9VqM.js";var t=e(`arrow-down-right`,[[`path`,{d:`m7 7 10 10`,key:`1fmybs`}],[`path`,{d:`M17 7v10H7`,key:`6fjiku`}]]);export{t};
