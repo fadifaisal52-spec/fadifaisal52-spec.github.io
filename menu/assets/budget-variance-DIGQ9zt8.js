@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-SB_GIfyf.js";var t=e;export{t as component};

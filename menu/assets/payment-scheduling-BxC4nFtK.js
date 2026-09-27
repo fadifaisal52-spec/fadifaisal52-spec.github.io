@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-BRutY4Be.js";var t=e;export{t as component};

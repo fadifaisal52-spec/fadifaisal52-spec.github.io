@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DiF0vPKC.js";var t=e;export{t as component};

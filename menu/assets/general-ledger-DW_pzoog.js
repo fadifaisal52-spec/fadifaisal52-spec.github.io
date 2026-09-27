@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DLND5Okt.js";var t=e;export{t as component};
