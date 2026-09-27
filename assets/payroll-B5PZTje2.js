@@ -1,0 +1,1 @@
+import e from"./Payroll-Clt-C8nC.js";var t=e;export{t as component};

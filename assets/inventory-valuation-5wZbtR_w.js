@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CmV_OSdn.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DYG2DgOy.js";var t=e;export{t as component};
