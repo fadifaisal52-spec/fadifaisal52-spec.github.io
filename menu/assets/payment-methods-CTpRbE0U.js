@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-Qb_yGoGP.js";var t=e;export{t as component};

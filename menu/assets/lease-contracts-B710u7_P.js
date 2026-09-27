@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-BICheLw8.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-D_UX_vyi.js";var t=e;export{t as component};

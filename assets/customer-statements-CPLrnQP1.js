@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-Bo-YG-S3.js";var t=e;export{t as component};
