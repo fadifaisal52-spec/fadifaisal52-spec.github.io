@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-Hpubl1ki.js";var t=e;export{t as component};

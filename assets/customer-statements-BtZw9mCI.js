@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-DNS7N_Ki.js";var t=e;export{t as component};
