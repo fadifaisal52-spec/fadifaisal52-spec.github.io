@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-MiFam2BS.js";var t=e;export{t as component};

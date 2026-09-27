@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-BCOnDFpo.js";var t=e;export{t as component};

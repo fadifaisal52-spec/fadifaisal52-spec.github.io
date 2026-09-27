@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-HKgFe2xR.js";var t=e;export{t as component};
