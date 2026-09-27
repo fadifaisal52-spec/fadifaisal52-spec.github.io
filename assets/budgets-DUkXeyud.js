@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-BRW-pNXB.js";var t=e;export{t as component};
