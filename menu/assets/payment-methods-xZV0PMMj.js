@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-7isVKUTf.js";var t=e;export{t as component};

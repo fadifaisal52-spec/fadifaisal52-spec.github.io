@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CVra-5xk.js";var t=e;export{t as component};
