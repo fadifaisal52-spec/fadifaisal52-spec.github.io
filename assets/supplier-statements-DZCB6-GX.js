@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-SejpS-pQ.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-ERPNUoRl.js";var t=e;export{t as component};
