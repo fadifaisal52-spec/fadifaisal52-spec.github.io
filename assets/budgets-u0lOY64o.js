@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-WpmFIS3p.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentLinks--2E-VenW.js";var t=e;export{t as component};

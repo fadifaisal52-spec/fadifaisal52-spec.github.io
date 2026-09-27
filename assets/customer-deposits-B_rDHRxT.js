@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DViBVnCF.js";var t=e;export{t as component};
