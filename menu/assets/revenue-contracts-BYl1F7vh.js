@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-CiV7_iD9.js";var t=e;export{t as component};

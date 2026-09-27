@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-Dc_iyoXR.js";var t=e;export{t as component};

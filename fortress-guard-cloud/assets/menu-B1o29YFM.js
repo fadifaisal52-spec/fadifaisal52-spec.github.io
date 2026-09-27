@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-kavyrKn3.js";var t=e;export{t as component};

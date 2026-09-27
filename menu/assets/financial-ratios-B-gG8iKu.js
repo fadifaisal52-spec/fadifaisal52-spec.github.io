@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DkugETL3.js";var t=e;export{t as component};

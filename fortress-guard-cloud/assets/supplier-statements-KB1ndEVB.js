@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-_O2eDNca.js";var t=e;export{t as component};

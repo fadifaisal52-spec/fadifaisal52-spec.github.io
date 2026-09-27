@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CVi4Xetn.js";var t=e;export{t as component};

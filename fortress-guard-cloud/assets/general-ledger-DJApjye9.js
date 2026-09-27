@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-sLmREgSZ.js";var t=e;export{t as component};
