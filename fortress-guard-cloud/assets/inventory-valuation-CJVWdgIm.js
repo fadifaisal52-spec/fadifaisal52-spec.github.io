@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-DreizVdr.js";var t=e;export{t as component};

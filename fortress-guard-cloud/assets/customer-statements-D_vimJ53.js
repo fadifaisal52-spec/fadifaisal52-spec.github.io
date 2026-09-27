@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-DizQlsFg.js";var t=e;export{t as component};

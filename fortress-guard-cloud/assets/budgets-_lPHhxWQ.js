@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CoyEFu8F.js";var t=e;export{t as component};

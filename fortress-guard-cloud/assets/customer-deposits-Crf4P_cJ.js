@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-CD-lqd-N.js";var t=e;export{t as component};
