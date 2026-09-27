@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-BDY4EnxA.js";var t=e;export{t as component};

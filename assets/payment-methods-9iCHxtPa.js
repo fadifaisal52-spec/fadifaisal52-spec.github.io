@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DLE-DD_F.js";var t=e;export{t as component};
