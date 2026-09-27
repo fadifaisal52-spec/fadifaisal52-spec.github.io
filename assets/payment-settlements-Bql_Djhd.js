@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Cim4wDLi.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-Da21invd.js";var t=e;export{t as component};

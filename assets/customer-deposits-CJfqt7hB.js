@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-BTWyCfUt.js";var t=e;export{t as component};
