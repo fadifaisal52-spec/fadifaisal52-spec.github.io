@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-Bo5plICr.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-PmRf_TO0.js";var t=e;export{t as component};

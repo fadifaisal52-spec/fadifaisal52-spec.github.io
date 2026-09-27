@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DEKXEmoh.js";var t=e;export{t as component};
