@@ -1,1 +1,0 @@
-import{p as e}from"./index-D0E7R0r7.js";var t=e(`minus`,[[`path`,{d:`M5 12h14`,key:`1ays0h`}]]);export{t};

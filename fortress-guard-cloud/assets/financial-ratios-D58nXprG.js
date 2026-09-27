@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CtNDK3DB.js";var t=e;export{t as component};

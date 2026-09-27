@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DTkG-JpX.js";var t=e;export{t as component};
