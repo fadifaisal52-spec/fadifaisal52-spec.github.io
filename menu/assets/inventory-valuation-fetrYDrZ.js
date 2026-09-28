@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-ByRdXNan.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-_is-XXBg.js";var t=e;export{t as component};
