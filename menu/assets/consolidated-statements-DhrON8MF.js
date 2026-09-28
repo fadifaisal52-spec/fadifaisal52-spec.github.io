@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BWLaGOC_.js";var t=e;export{t as component};

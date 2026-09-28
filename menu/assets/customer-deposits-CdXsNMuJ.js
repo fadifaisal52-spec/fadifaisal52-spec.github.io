@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BaxkH8-Z.js";var t=e;export{t as component};

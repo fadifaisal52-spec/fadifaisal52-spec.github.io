@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DNEus_7n.js";var t=e;export{t as component};

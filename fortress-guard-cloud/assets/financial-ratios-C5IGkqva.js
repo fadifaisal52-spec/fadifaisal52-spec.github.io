@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-DhifhY-0.js";var t=e;export{t as component};

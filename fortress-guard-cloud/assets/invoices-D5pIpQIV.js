@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-DU-Q3pgC.js";var t=e;export{t as component};

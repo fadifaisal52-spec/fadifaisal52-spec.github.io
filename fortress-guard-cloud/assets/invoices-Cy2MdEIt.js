@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-3Nq9-Vfa.js";var t=e;export{t as component};
