@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-DFBkpla8.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-DP4LKiQp.js";var t=e;export{t as component};
