@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-mtMGY_5G.js";var t=e;export{t as component};

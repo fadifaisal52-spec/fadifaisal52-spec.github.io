@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CanlzaBj.js";var t=e;export{t as component};

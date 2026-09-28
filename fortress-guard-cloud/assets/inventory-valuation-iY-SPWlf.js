@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-BGWnycPK.js";var t=e;export{t as component};

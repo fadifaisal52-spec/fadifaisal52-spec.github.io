@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-BTpc-Lm6.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CVJJ-Baz.js";var t=e;export{t as component};
