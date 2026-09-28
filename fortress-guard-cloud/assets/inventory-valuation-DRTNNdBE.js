@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-lFosDxDo.js";var t=e;export{t as component};

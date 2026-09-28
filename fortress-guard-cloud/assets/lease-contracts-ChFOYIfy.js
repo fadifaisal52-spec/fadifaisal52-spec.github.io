@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-CN00MTSU.js";var t=e;export{t as component};
