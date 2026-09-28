@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-ClCh_QbA.js";var t=e;export{t as component};
