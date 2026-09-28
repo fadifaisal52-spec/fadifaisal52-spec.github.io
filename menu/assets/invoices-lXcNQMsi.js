@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-CoCbi-4R.js";var t=e;export{t as component};
