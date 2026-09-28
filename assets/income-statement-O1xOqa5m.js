@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-ClPNwadj.js";var t=e;export{t as component};

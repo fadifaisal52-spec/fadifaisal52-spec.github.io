@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-CrUb7-FY.js";var t=e;export{t as component};

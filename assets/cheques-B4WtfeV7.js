@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-HWlB8b62.js";var t=e;export{t as component};
