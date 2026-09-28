@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DihpPHat.js";var t=e;export{t as component};

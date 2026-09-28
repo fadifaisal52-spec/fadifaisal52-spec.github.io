@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-k7wQliTY.js";var t=e;export{t as component};

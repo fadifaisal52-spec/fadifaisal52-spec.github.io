@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CfsKE5Pm.js";var t=e;export{t as component};
