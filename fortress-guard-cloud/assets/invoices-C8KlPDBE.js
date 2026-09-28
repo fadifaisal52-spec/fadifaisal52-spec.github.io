@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-BJ22Zmvi.js";var t=e;export{t as component};

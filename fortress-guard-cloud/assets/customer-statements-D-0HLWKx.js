@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-plrMFFiL.js";var t=e;export{t as component};
