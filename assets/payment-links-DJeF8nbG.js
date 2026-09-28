@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-Biec1vpn.js";var t=e;export{t as component};

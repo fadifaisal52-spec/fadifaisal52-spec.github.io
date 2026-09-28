@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DnLahg50.js";var t=e;export{t as component};

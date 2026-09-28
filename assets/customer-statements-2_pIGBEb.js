@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BoHDKv82.js";var t=e;export{t as component};

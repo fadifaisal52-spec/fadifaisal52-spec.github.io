@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-SCPegh4y.js";var t=e;export{t as component};
