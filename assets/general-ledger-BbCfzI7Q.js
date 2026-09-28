@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-pAw-RpZG.js";var t=e;export{t as component};

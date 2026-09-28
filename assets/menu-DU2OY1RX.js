@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-BDBg87um.js";var t=e;export{t as component};
