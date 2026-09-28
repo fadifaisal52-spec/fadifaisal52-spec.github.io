@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CRH_W4AN.js";var t=e;export{t as component};

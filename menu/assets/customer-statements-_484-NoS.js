@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-PgkdMQbC.js";var t=e;export{t as component};

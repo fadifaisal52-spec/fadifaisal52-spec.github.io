@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-Fru4kHPF.js";var t=e;export{t as component};

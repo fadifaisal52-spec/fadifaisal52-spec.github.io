@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-CXBs_k54.js";var t=e;export{t as component};

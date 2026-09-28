@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-DFxHIT-n.js";var t=e;export{t as component};
