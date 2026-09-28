@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DGv-NOUd.js";var t=e;export{t as component};

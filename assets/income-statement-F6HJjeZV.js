@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-Ce-s-zzf.js";var t=e;export{t as component};

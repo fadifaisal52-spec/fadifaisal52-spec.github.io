@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-Cx-BYC-d.js";var t=e;export{t as component};
