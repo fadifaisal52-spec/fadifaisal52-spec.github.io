@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-Dy4CSWG1.js";var t=e;export{t as component};

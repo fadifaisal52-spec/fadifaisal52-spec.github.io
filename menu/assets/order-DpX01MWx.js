@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-B1uhjfAW.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CTZ_0mgu.js";var t=e;export{t as component};

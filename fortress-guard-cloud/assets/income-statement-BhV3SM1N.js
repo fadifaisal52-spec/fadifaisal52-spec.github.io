@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DmNAiIMf.js";var t=e;export{t as component};

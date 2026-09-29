@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-BoMOAGN4.js";var t=e;export{t as component};
