@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-D-SQfu4e.js";var t=e;export{t as component};

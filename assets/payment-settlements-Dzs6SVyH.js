@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-il_OZph-.js";var t=e;export{t as component};

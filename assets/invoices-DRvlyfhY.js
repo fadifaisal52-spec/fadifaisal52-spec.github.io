@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-gdowP4yh.js";var t=e;export{t as component};

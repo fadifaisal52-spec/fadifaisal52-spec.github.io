@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-DnxPA4UP.js";var t=e;export{t as component};

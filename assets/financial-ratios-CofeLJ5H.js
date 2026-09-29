@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-lWy__sld.js";var t=e;export{t as component};

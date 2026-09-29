@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-DsS91-Wo.js";var t=e;export{t as component};

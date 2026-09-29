@@ -1,1 +1,0 @@
-import e from"./Payroll-BBJG-gs3.js";var t=e;export{t as component};
