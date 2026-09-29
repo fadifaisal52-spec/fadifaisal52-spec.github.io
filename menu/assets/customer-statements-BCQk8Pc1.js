@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CHoWaTmz.js";var t=e;export{t as component};

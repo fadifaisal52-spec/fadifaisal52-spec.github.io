@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Bcb26-pF.js";var t=e;export{t as component};
