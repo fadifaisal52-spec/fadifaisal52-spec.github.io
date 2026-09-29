@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CiML3Mju.js";var t=e;export{t as component};

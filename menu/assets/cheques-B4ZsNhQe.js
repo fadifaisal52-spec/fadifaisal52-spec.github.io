@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-4fPUGi6M.js";var t=e;export{t as component};

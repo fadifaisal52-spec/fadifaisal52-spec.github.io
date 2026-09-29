@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DaLeC_eL.js";var t=e;export{t as component};
