@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Brno1LNQ.js";var t=e;export{t as component};

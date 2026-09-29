@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-BYBS4E-m.js";var t=e;export{t as component};

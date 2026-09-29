@@ -1,0 +1,1 @@
+import{t as e}from"./BotNotes-C-XtxQLC.js";var t=e;export{t as component};
