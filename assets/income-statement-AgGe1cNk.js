@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-CRCShxab.js";var t=e;export{t as component};
