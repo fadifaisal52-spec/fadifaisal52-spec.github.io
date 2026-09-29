@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-BlaMgIHr.js";var t=e;export{t as component};

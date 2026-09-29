@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DONuy4FO.js";var t=e;export{t as component};

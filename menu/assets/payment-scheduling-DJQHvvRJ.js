@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-BtEtQt_Z.js";var t=e;export{t as component};
