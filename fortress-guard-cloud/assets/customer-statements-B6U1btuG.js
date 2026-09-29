@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Dqgm_OCB.js";var t=e;export{t as component};

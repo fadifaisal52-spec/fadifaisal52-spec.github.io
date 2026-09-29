@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-Dsmb04pA.js";var t=e;export{t as component};
