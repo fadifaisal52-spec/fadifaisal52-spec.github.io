@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-Bnhok-Gj.js";var t=e;export{t as component};

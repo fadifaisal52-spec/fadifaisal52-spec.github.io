@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CBI8-eXE.js";var t=e;export{t as component};

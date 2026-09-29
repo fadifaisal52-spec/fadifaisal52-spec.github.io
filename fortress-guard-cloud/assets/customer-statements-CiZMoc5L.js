@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DMzsHVOc.js";var t=e;export{t as component};
