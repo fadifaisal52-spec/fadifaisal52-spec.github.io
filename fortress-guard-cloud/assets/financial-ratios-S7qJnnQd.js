@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-BOA0-FDW.js";var t=e;export{t as component};

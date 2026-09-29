@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-DNVYU668.js";var t=e;export{t as component};
