@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CIVu0dAb.js";var t=e;export{t as component};
