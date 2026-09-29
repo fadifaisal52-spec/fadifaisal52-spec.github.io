@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-DmuiIf2M.js";var t=e;export{t as component};

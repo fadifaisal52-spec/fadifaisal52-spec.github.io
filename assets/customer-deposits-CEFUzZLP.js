@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-Y2ngcINT.js";var t=e;export{t as component};

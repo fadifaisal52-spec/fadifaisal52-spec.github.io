@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-BptSOCr3.js";var t=e;export{t as component};
