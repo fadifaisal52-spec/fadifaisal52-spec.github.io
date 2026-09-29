@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-QKAiIpus.js";var t=e;export{t as component};

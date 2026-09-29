@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CBdws22k.js";var t=e;export{t as component};

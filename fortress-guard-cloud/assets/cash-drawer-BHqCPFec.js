@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-N8N-NlEo.js";var t=e;export{t as component};

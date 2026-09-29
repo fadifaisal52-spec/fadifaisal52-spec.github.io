@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DlLIkhuW.js";var t=e;export{t as component};

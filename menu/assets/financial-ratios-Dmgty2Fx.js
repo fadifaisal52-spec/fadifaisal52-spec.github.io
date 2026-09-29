@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BtEf_MoQ.js";var t=e;export{t as component};
