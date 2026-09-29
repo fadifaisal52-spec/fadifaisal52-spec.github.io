@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-Bi-SisHA.js";var t=e;export{t as component};
