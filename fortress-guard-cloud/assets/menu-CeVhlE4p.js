@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-md99BuMt.js";var t=e;export{t as component};

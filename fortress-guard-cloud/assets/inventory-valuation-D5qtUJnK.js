@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-C4SCJLCU.js";var t=e;export{t as component};

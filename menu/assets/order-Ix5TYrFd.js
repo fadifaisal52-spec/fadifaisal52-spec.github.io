@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-Ce__Kl8g.js";var t=e;export{t as component};

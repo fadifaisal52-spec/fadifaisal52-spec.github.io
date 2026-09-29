@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CsS2HaJt.js";var t=e;export{t as component};
