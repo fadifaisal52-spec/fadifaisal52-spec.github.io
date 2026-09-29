@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-CLsmCITw.js";var t=e;export{t as component};

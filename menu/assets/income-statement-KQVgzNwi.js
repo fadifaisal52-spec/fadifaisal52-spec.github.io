@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-Cgv04vdt.js";var t=e;export{t as component};
