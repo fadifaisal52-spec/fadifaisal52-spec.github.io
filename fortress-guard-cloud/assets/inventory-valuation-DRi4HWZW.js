@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-RgiCWiO9.js";var t=e;export{t as component};

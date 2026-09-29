@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-Dyt-l4YS.js";var t=e;export{t as component};

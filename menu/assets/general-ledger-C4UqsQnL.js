@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DHPj8_Wi.js";var t=e;export{t as component};

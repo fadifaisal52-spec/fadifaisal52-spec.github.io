@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-O5n-cap5.js";var t=e;export{t as component};
