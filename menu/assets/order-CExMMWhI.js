@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-DE5Lyiak.js";var t=e;export{t as component};

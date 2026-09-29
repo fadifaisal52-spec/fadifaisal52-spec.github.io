@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-BJ4KONFy.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-BMDUeHpp.js";var t=e;export{t as component};

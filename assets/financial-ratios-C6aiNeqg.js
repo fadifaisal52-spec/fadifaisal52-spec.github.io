@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-Dmrl_-Xd.js";var t=e;export{t as component};

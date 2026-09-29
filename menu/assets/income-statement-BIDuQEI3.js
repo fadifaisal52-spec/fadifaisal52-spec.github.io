@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-ctEp-lz9.js";var t=e;export{t as component};
