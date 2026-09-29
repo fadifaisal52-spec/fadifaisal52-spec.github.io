@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BoEp3Ssl.js";var t=e;export{t as component};

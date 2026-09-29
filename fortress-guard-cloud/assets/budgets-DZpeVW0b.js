@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-DT944Dfs.js";var t=e;export{t as component};

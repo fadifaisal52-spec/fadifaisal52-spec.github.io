@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-BE2ehoi2.js";var t=e;export{t as component};
