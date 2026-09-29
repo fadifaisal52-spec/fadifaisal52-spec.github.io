@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-As9ZWITI.js";var t=e;export{t as component};
