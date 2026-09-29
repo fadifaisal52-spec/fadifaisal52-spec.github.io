@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-Jw_DmuEf.js";var t=e;export{t as component};

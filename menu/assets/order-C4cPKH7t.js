@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-C8TOCR4D.js";var t=e;export{t as component};
