@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Camcekue.js";var t=e;export{t as component};

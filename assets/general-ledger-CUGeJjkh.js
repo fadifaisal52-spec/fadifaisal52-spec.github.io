@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-CpULMA3L.js";var t=e;export{t as component};

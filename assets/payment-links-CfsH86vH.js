@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentLinks-DKG3921_.js";var t=e;export{t as component};

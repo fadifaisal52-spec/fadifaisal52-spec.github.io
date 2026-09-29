@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-tveriUjn.js";var t=e;export{t as component};
