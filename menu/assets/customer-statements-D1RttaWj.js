@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-TqnwLASk.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-ims5WpUM.js";var t=e;export{t as component};

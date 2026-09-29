@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentLinks-DnmpxGYA.js";var t=e;export{t as component};
