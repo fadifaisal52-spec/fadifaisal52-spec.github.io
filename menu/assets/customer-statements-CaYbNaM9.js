@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-D0KQ-Usr.js";var t=e;export{t as component};

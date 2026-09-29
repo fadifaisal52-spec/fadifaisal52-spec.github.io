@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-qUsBLI-_.js";var t=e;export{t as component};

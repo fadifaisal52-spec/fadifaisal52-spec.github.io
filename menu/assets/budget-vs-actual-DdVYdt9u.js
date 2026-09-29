@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-BD_hPLPN.js";var t=e;export{t as component};
