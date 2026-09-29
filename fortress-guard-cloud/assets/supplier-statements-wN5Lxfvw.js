@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DiCOlAJG.js";var t=e;export{t as component};

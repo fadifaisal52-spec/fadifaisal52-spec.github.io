@@ -1,0 +1,1 @@
+import{t as e}from"./WorkflowAutomation-C2_Rcoha.js";var t=e;export{t as component};
