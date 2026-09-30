@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CKrQMALe.js";var t=e;export{t as component};

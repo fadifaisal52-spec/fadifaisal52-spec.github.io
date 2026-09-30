@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-Bl-_RAbU.js";var t=e;export{t as component};

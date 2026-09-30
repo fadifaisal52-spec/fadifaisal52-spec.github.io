@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CQq-vrzC.js";var t=e;export{t as component};
