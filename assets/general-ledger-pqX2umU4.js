@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-Dx4_8fiP.js";var t=e;export{t as component};
