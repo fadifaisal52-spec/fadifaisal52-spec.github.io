@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-wo2xumHM.js";var t=e;export{t as component};

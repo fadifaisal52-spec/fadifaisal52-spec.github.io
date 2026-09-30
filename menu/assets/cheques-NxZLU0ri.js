@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-DD2PkRUI.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BMoxaM2B.js";var t=e;export{t as component};

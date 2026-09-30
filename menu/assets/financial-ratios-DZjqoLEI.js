@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DUI1II35.js";var t=e;export{t as component};

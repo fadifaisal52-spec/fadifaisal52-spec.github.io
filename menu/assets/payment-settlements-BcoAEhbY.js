@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Cpv3M_fF.js";var t=e;export{t as component};
