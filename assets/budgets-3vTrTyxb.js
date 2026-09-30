@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-D8a_aBnt.js";var t=e;export{t as component};

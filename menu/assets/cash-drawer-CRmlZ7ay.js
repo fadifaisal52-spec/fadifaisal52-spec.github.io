@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-SDA727WB.js";var t=e;export{t as component};
