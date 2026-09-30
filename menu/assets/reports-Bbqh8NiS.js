@@ -1,1 +1,0 @@
-import{t as e}from"./Reports-BiuiD__2.js";var t=e;export{t as component};
