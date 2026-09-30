@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DdvG-HMX.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DCyRvWir.js";var t=e;export{t as component};

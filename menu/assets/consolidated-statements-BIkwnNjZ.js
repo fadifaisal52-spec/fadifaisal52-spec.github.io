@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DnYo0pER.js";var t=e;export{t as component};
