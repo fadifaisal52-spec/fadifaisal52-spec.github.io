@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-GGYw_xcg.js";var t=e;export{t as component};
