@@ -1,1 +1,0 @@
-import e from"./InventoryValuation-7xt8divf.js";var t=e;export{t as component};
