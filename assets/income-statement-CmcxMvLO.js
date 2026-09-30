@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-CIsPdhM-.js";var t=e;export{t as component};
