@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-BF_wE-LF.js";var t=e;export{t as component};

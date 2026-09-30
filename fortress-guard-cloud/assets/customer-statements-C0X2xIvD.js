@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-JP3Eelre.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-DRca_si4.js";var t=e;export{t as component};

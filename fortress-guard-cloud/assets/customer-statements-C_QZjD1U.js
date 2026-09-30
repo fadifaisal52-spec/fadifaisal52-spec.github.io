@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-jNrdUuGi.js";var t=e;export{t as component};
