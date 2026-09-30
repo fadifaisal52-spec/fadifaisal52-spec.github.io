@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-QqDp-jeV.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentLinks-WS1JisaV.js";var t=e;export{t as component};

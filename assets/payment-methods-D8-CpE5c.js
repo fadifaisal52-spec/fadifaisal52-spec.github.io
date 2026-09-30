@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-A1ryTo43.js";var t=e;export{t as component};

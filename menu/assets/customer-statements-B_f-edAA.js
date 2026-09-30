@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-e_K-OvHS.js";var t=e;export{t as component};
