@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BR-BxEig.js";var t=e;export{t as component};

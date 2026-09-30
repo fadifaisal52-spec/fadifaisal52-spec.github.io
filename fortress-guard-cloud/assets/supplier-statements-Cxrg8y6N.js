@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-BticX-Gr.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CmTI-U0c.js";var t=e;export{t as component};

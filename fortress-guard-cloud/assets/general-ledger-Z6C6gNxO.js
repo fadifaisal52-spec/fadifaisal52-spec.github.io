@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-Bt8K-5mt.js";var t=e;export{t as component};
