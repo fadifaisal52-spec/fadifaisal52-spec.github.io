@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CcXDM25s.js";var t=e;export{t as component};

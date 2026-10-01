@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DTWiCPI_.js";var t=e;export{t as component};

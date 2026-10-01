@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-wax2Rykd.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CSH4cmab.js";var t=e;export{t as component};
