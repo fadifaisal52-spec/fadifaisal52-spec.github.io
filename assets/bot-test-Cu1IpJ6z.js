@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-MZeSit2d.js";var t=e;export{t as component};

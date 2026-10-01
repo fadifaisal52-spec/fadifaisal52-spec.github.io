@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-DDnx_oCB.js";var t=e;export{t as component};

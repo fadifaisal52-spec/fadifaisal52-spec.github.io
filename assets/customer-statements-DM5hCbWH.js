@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Dg76MLC7.js";var t=e;export{t as component};

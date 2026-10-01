@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-gD8_ITkt.js";var t=e;export{t as component};
