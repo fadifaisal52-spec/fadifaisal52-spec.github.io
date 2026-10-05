@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CY32-8rk.js";var t=e;export{t as component};

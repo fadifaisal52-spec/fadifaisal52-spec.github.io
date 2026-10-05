@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-Db_Cm_pR.js";var t=e;export{t as component};
