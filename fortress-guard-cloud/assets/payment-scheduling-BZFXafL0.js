@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-CAK_n-HN.js";var t=e;export{t as component};

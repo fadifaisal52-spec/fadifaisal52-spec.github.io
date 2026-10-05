@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CDtD6-zo.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DrP-IQ2x.js";var t=e;export{t as component};
