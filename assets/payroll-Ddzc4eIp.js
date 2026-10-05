@@ -1,0 +1,1 @@
+import e from"./Payroll-DKs4NIRH.js";var t=e;export{t as component};
