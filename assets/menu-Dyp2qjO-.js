@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-fezo-8go.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-CbmymnC6.js";var t=e;export{t as component};

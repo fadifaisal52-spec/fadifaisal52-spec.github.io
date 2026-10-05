@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-D-F2g_vs.js";var t=e;export{t as component};

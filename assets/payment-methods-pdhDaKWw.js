@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DcSV_1BF.js";var t=e;export{t as component};

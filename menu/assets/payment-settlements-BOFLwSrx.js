@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-Be4Xritb.js";var t=e;export{t as component};
