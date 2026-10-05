@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-54-IMAWo.js";var t=e;export{t as component};
