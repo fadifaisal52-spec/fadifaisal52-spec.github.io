@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-D_acmoyC.js";var t=e;export{t as component};

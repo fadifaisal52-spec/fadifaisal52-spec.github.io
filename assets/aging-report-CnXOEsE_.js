@@ -1,0 +1,1 @@
+import e from"./AgingReport-D_1GNGDL.js";var t=e;export{t as component};
