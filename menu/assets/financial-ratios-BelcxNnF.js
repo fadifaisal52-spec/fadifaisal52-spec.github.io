@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DeCPv5lj.js";var t=e;export{t as component};

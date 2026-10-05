@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CWOSH4TD.js";var t=e;export{t as component};

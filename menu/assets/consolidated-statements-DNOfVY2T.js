@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BilTpi4v.js";var t=e;export{t as component};

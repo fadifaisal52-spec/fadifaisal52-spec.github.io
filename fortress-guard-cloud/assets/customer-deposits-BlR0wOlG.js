@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DRagi2fU.js";var t=e;export{t as component};

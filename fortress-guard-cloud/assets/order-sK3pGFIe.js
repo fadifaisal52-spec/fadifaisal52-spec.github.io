@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-C4fBt-hC.js";var t=e;export{t as component};

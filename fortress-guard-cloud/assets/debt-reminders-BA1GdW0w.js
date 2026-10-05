@@ -1,1 +1,0 @@
-import e from"./DebtReminders-DvYyACSa.js";var t=e;export{t as component};
