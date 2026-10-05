@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-CfcuIrmm.js";var t=e;export{t as component};

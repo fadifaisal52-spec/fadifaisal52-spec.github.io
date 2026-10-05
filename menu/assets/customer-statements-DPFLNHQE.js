@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-Bf8PLLR1.js";var t=e;export{t as component};

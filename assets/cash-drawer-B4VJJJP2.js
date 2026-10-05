@@ -1,1 +1,0 @@
-import{t as e}from"./CashDrawer-pkI_0_Gy.js";var t=e;export{t as component};

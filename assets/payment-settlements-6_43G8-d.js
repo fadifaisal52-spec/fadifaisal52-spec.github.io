@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-DuOB-9c4.js";var t=e;export{t as component};
