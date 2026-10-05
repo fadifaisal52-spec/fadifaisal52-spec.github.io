@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-CdCT_Cmy.js";var t=e;export{t as component};
