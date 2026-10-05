@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-BelE_PVK.js";var t=e;export{t as component};
