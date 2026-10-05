@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-2r8p_way.js";var t=e;export{t as component};

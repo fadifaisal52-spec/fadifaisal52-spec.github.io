@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BikwW-hj.js";var t=e;export{t as component};

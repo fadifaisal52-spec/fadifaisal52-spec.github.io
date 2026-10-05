@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-jSH8-gEg.js";var t=e;export{t as component};

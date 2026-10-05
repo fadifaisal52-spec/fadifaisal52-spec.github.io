@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-DP5Q-eLO.js";var t=e;export{t as component};
