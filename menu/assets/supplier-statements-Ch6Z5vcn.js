@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-20PObnEt.js";var t=e;export{t as component};

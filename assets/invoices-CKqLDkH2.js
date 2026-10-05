@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-JN4KIN-B.js";var t=e;export{t as component};
