@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-JpM1tlcp.js";var t=e;export{t as component};

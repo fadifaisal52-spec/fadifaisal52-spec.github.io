@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-CVGa26bf.js";var t=e;export{t as component};

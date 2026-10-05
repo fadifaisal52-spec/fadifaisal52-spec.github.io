@@ -1,1 +1,0 @@
-import e from"./InventoryValuation-Bizha_Mx.js";var t=e;export{t as component};
