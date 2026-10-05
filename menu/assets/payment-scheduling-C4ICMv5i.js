@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-atoiW1_q.js";var t=e;export{t as component};

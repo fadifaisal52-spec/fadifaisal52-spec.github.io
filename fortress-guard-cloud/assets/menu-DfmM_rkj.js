@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-CrScOGl_.js";var t=e;export{t as component};

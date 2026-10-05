@@ -1,0 +1,1 @@
+import{t as e}from"./CashDrawer-pQLVFd-P.js";var t=e;export{t as component};

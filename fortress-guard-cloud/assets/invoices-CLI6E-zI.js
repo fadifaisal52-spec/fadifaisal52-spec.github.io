@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-CPx1SXTV.js";var t=e;export{t as component};
