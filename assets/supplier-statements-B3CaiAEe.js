@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DpceG_Wy.js";var t=e;export{t as component};
