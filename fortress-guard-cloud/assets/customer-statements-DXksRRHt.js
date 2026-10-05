@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CWqdrayc.js";var t=e;export{t as component};

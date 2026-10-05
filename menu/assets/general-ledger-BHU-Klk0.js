@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DUsf-WOn.js";var t=e;export{t as component};

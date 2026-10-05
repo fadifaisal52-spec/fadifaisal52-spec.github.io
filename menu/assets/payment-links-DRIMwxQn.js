@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-WcTtc_xN.js";var t=e;export{t as component};
