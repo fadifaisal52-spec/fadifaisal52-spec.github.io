@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-MbOH-lGz.js";var t=e;export{t as component};
