@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-BnO99frd.js";var t=e;export{t as component};

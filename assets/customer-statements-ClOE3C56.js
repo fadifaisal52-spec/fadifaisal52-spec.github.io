@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BxV_cclv.js";var t=e;export{t as component};

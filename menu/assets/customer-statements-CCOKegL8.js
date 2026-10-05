@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-C-BpKaQu.js";var t=e;export{t as component};

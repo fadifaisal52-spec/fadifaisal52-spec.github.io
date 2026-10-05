@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DEXk_vm8.js";var t=e;export{t as component};
