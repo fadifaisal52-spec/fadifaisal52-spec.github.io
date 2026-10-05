@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Dsqm_UUR.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-DLEEM7v-.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-DOcs_3td.js";var t=e;export{t as component};

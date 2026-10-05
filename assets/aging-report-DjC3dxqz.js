@@ -1,0 +1,1 @@
+import e from"./AgingReport-Ct1Snck-.js";var t=e;export{t as component};

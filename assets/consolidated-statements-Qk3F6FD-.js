@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CVTW1Upy.js";var t=e;export{t as component};

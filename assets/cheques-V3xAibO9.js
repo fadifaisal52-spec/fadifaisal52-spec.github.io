@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-BMaHp-9g.js";var t=e;export{t as component};
