@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-V7pzb-Ug.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{f as e,n as t,r as n,t as r}from"./generateCategoricalChart-DgzRi_T_.js";import{t as i}from"./Line-CfxFXcgR.js";var a=r({chartName:`LineChart`,GraphicalChild:i,axisComponents:[{axisType:`xAxis`,AxisComp:n},{axisType:`yAxis`,AxisComp:t}],formatAxisMap:e});export{a as t};

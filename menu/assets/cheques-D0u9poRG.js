@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-DYrigKWS.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-BnZU_ldy.js";var t=e;export{t as component};
