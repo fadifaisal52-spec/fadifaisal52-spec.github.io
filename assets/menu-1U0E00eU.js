@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-BCB0-jIA.js";var t=e;export{t as component};

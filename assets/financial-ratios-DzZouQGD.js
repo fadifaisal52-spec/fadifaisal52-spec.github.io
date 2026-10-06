@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CLvQ50MA.js";var t=e;export{t as component};

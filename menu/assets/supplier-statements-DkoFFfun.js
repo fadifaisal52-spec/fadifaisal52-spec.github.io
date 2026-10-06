@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DLvWF3kg.js";var t=e;export{t as component};
