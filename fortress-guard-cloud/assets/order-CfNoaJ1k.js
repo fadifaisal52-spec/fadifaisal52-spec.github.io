@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-k29U_tcf.js";var t=e;export{t as component};

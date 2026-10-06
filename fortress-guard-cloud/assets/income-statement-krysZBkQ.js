@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-Dpd7QPud.js";var t=e;export{t as component};
