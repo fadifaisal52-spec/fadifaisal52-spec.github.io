@@ -1,0 +1,1 @@
+import e from"./Payroll-aMCIG_uX.js";var t=e;export{t as component};

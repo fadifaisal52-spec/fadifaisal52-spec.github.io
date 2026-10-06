@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CcBHPR-e.js";var t=e;export{t as component};

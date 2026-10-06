@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-GogWTUTf.js";var t=e;export{t as component};
