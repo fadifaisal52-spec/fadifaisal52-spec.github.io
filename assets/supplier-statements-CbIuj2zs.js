@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-TakY_6TZ.js";var t=e;export{t as component};
