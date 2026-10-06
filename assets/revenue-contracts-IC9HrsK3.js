@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-Czoka_ay.js";var t=e;export{t as component};

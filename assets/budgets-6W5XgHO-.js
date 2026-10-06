@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-Dd5USTMV.js";var t=e;export{t as component};

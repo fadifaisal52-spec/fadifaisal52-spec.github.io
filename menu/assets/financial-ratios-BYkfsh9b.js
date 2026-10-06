@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-C3D8_95d.js";var t=e;export{t as component};
