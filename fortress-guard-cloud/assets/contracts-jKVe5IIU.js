@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-DHk1eldF.js";var t=e;export{t as component};

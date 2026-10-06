@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-Bt1_rPQr.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-T2-xtvOH.js";var t=e;export{t as component};
