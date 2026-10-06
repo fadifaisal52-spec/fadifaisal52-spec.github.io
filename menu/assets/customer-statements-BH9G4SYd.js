@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-Cav3s1Mq.js";var t=e;export{t as component};

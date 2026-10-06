@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CLc95DRb.js";var t=e;export{t as component};
