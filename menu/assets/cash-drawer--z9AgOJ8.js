@@ -1,0 +1,1 @@
+import{t as e}from"./CashDrawer-Ct2_BZ10.js";var t=e;export{t as component};
