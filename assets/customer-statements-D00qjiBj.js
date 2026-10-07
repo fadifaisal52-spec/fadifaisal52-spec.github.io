@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BPM_8yMz.js";var t=e;export{t as component};
