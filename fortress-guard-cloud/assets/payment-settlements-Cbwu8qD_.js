@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Dejc6Use.js";var t=e;export{t as component};

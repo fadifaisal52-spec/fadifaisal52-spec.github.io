@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-D3RkeL_k.js";var t=e;export{t as component};
