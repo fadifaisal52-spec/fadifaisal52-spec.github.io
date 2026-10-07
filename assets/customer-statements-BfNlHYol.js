@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-Dh17asfb.js";var t=e;export{t as component};

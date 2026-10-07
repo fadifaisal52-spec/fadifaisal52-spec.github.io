@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-Bsp28KUM.js";var t=e;export{t as component};
