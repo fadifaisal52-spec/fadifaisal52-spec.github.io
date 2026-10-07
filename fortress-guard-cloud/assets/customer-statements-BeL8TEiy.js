@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DOL_ZUSf.js";var t=e;export{t as component};

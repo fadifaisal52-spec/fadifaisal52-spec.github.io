@@ -1,0 +1,1 @@
+import e from"./Payroll-CrTC-xvK.js";var t=e;export{t as component};

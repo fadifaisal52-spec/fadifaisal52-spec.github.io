@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-O_Quku-m.js";var t=e;export{t as component};
