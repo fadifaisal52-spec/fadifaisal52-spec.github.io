@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-BVDLGA9Y.js";var t=e;export{t as component};

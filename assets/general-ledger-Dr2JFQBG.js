@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-S_oxFlbS.js";var t=e;export{t as component};

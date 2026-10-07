@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DiSE5-Hu.js";var t=e;export{t as component};
