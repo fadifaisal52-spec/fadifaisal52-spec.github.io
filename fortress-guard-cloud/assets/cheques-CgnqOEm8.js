@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-X1-9iNWG.js";var t=e;export{t as component};

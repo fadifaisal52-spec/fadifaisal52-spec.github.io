@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-C_GEMBW5.js";var t=e;export{t as component};
