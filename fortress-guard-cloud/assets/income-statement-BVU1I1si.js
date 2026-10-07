@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-CPNlk_Re.js";var t=e;export{t as component};
