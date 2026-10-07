@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-B12Scr5T.js";var t=e;export{t as component};

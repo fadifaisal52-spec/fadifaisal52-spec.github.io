@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-niTV3fJH.js";var t=e;export{t as component};
