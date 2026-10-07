@@ -1,0 +1,1 @@
+import e from"./DebtReminders-DxD3S_1K.js";var t=e;export{t as component};

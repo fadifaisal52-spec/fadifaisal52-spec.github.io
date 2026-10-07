@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DPuuKyxy.js";var t=e;export{t as component};

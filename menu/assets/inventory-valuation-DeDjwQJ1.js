@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-kDqj-oMB.js";var t=e;export{t as component};
