@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-B4SDNuog.js";var t=e;export{t as component};

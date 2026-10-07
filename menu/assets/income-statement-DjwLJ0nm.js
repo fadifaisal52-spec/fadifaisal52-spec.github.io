@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CVs-8pY_.js";var t=e;export{t as component};
