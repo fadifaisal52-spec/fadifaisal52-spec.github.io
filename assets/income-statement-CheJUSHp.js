@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DEjd_UcV.js";var t=e;export{t as component};

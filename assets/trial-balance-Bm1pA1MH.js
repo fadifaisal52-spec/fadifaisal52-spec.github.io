@@ -1,1 +1,0 @@
-import e from"./TrialBalance--ofxBdd-.js";var t=e;export{t as component};

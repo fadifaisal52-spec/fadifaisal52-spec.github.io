@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-SMIa_OTn.js";var t=e;export{t as component};
