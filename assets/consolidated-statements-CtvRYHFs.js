@@ -1,1 +1,0 @@
-import e from"./ConsolidatedStatements-CElOcV1o.js";var t=e;export{t as component};

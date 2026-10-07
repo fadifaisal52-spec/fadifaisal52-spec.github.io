@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DLieF88O.js";var t=e;export{t as component};
