@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-B3SNVApu.js";var t=e;export{t as component};

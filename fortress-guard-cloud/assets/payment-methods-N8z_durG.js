@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-Oo2Fovom.js";var t=e;export{t as component};
