@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-BBIndixd.js";var t=e;export{t as component};

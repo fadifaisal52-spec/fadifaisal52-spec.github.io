@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DX-ODgSq.js";var t=e;export{t as component};
