@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-ri2cldeV.js";var t=e;export{t as component};

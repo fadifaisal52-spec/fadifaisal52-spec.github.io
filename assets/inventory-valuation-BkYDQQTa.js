@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CA6N_oKS.js";var t=e;export{t as component};
