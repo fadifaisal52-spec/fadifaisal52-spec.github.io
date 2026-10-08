@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-BLnx-Fs5.js";var t=e;export{t as component};

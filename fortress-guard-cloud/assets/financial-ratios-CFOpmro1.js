@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DL5_Ru-e.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-GYr2Tcvs.js";var t=e;export{t as component};
