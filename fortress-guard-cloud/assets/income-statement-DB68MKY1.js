@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-CREi8ylp.js";var t=e;export{t as component};

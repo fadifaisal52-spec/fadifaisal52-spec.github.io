@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-DNP45BTe.js";var t=e;export{t as component};
