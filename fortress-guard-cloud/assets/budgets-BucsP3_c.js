@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-Qtv2wSaS.js";var t=e;export{t as component};
