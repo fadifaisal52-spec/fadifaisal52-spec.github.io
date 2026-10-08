@@ -1,0 +1,1 @@
+import{t as e}from"./BotNotes-QuVo_gZg.js";var t=e;export{t as component};

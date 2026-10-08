@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-Bmb5Iem7.js";var t=e;export{t as component};
