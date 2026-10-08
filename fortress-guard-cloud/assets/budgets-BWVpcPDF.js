@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-DMO4ft3c.js";var t=e;export{t as component};

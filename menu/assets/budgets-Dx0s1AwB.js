@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-YqLl-hwd.js";var t=e;export{t as component};

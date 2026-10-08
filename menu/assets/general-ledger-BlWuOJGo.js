@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DubR-vOt.js";var t=e;export{t as component};

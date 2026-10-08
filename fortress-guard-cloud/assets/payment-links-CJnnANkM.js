@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentLinks-CG4_SI1x.js";var t=e;export{t as component};
