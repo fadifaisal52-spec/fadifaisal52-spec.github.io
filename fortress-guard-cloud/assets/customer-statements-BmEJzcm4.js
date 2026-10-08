@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DK77_lQs.js";var t=e;export{t as component};

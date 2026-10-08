@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-B2l_fb41.js";var t=e;export{t as component};

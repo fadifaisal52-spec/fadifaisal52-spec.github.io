@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-Cu2gqaM1.js";var t=e;export{t as component};

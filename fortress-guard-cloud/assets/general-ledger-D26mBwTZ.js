@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-B2wVM_Wz.js";var t=e;export{t as component};
