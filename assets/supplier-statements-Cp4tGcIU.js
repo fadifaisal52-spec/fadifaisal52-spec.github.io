@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Bnr_MRD9.js";var t=e;export{t as component};

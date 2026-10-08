@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CYdiALXp.js";var t=e;export{t as component};

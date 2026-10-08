@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-D09Apygi.js";var t=e;export{t as component};
