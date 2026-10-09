@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-5OdD-Dp7.js";var t=e;export{t as component};

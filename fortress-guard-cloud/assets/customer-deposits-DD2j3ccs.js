@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-DHR3_P5D.js";var t=e;export{t as component};

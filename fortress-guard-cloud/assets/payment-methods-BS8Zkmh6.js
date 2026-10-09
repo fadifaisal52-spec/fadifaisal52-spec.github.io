@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DPW3_1M_.js";var t=e;export{t as component};
