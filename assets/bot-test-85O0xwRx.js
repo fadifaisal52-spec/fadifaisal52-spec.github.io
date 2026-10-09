@@ -1,1 +1,0 @@
-import{t as e}from"./BotTest-CSePiq4y.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-BlS_CJuc.js";var t=e;export{t as component};
