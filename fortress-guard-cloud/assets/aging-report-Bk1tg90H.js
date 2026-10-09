@@ -1,0 +1,1 @@
+import e from"./AgingReport-CMyukkod.js";var t=e;export{t as component};

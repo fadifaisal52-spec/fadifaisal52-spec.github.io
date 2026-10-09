@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CG_RIFgT.js";var t=e;export{t as component};

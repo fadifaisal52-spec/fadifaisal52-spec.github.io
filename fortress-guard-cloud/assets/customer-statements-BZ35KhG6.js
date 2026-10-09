@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CWwdF_Nb.js";var t=e;export{t as component};
