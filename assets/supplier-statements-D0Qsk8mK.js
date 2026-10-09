@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Bossjo_9.js";var t=e;export{t as component};

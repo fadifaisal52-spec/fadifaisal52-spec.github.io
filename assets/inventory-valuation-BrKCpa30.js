@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-KU-L264H.js";var t=e;export{t as component};

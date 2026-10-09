@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-7PleRMfr.js";var t=e;export{t as component};

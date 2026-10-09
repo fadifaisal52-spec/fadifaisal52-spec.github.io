@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-DXcTO-2G.js";var t=e;export{t as component};

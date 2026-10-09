@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BvL-S2SO.js";var t=e;export{t as component};
