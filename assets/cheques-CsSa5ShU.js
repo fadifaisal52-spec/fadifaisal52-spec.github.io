@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-BylBe-XL.js";var t=e;export{t as component};

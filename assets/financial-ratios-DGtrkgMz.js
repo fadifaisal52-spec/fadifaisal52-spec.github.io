@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-m_2LEfEc.js";var t=e;export{t as component};
