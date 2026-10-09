@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-CdTrb4wu.js";var t=e;export{t as component};

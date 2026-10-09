@@ -1,0 +1,1 @@
+import e from"./BalanceSheet-S60qMhfr.js";var t=e;export{t as component};
