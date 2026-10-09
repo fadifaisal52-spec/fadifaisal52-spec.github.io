@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-CGGO9DMR.js";var t=e;export{t as component};

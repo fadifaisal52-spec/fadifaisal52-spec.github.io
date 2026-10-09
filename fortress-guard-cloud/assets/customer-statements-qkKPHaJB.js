@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BijR_Lb9.js";var t=e;export{t as component};

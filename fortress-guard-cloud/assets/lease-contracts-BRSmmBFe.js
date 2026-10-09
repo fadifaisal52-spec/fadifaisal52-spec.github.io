@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-BSLIlVu8.js";var t=e;export{t as component};
