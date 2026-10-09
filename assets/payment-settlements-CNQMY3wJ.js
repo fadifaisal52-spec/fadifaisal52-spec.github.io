@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-CnMq-bIc.js";var t=e;export{t as component};

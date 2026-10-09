@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-0UD_KMBo.js";var t=e;export{t as component};
