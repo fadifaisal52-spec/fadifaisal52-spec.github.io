@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DW1W_lPu.js";var t=e;export{t as component};

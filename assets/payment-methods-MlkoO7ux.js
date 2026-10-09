@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-BMBdBuf3.js";var t=e;export{t as component};

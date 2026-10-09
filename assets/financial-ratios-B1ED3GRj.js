@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-Diqd-JQM.js";var t=e;export{t as component};

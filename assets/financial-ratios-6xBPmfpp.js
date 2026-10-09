@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CokLr-IE.js";var t=e;export{t as component};

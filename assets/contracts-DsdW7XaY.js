@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-Cg8FaLts.js";var t=e;export{t as component};
