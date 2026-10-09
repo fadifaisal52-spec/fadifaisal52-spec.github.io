@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-CtH48IRL.js";var t=e;export{t as component};
