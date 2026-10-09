@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-BOSk_hKS.js";var t=e;export{t as component};
