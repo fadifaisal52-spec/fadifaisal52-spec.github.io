@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-Dpr4Cxsg.js";var t=e;export{t as component};

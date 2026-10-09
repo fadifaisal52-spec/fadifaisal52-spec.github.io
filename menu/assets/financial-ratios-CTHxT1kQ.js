@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BzbM2kjU.js";var t=e;export{t as component};

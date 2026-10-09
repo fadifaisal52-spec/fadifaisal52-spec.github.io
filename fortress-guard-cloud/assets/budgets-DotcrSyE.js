@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CNMR3xuB.js";var t=e;export{t as component};

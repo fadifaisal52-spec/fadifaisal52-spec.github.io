@@ -1,1 +1,0 @@
-import e from"./InventoryValuation-Xc2L_3gt.js";var t=e;export{t as component};

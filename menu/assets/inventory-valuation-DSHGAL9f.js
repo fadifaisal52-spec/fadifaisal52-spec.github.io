@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-Drq4__l4.js";var t=e;export{t as component};
