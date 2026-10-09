@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-_0JF3moR.js";var t=e;export{t as component};

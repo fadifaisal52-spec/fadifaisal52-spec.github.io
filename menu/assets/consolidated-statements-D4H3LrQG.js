@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-B3-OTVAQ.js";var t=e;export{t as component};

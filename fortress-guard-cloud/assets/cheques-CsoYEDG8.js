@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-DDT99Oau.js";var t=e;export{t as component};
