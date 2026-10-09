@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-GfmaMsoy.js";var t=e;export{t as component};

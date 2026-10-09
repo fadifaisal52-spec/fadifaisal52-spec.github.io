@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-Bx2WJOs4.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DaHWSvBT.js";var t=e;export{t as component};

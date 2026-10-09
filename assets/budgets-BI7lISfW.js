@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-BQSA4Mdp.js";var t=e;export{t as component};
