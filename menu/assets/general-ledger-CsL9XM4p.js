@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-Coa9-mDN.js";var t=e;export{t as component};

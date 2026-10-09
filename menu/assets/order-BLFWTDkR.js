@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-Cdb_qySL.js";var t=e;export{t as component};

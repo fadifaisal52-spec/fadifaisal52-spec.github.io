@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-_wBaSom7.js";var t=e;export{t as component};
