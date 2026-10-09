@@ -1,0 +1,1 @@
+import e from"./Payroll-Cfa1Rvay.js";var t=e;export{t as component};
