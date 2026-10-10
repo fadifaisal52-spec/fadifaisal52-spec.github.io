@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BSNbX-rb.js";var t=e;export{t as component};
