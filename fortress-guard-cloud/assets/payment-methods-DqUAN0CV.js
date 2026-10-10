@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DRAB8CMW.js";var t=e;export{t as component};
