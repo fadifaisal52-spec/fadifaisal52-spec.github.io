@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-B_wgexRE.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-DEjXmytj.js";var t=e;export{t as component};

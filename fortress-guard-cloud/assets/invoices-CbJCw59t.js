@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-BIoQe7-3.js";var t=e;export{t as component};

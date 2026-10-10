@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-ClmM_i7V.js";var t=e;export{t as component};
