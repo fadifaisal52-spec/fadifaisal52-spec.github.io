@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-CsU__NTI.js";var t=e;export{t as component};

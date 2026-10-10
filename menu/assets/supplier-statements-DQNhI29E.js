@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CU8Fldg-.js";var t=e;export{t as component};

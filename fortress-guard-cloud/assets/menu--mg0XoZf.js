@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DxTbux4B.js";var t=e;export{t as component};

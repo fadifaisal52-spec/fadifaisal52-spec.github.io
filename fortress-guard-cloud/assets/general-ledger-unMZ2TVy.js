@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DKjeu_I7.js";var t=e;export{t as component};
