@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-BteckFTH.js";var t=e;export{t as component};

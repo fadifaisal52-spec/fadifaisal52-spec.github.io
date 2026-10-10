@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DxOk273v.js";var t=e;export{t as component};

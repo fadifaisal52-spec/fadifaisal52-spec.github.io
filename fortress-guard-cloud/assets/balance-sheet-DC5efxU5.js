@@ -1,0 +1,1 @@
+import e from"./BalanceSheet-DPKI_MvA.js";var t=e;export{t as component};

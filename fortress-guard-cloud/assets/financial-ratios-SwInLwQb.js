@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DnVoXHyP.js";var t=e;export{t as component};

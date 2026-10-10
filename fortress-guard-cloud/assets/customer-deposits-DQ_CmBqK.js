@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CMgSP-Jj.js";var t=e;export{t as component};
