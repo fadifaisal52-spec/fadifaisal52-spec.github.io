@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-vmeF_QAY.js";var t=e;export{t as component};

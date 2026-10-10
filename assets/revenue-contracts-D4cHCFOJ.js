@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-BYZ96y5j.js";var t=e;export{t as component};
