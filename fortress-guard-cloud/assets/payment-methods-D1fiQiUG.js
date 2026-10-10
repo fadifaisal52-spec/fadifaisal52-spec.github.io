@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-Dem6EHPc.js";var t=e;export{t as component};

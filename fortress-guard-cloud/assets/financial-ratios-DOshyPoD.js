@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-JTuuTA_G.js";var t=e;export{t as component};

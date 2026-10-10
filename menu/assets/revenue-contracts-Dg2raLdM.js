@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-sip4g_r0.js";var t=e;export{t as component};

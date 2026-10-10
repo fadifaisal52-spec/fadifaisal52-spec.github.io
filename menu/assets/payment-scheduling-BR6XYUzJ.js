@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-B44Zx-WP.js";var t=e;export{t as component};
