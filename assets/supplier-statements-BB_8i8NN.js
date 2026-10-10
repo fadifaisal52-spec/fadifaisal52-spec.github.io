@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CQ4S_rbn.js";var t=e;export{t as component};
