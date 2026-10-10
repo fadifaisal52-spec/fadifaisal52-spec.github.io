@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BeOdty17.js";var t=e;export{t as component};
