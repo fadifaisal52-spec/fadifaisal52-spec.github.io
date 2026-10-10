@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-r50PGOTk.js";var t=e;export{t as component};
