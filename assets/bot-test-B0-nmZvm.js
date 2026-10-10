@@ -1,0 +1,1 @@
+import{t as e}from"./BotTest-BRxd7FIL.js";var t=e;export{t as component};

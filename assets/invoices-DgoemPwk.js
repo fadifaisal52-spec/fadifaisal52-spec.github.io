@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-DI4heigi.js";var t=e;export{t as component};

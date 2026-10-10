@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DFx8_uqt.js";var t=e;export{t as component};
