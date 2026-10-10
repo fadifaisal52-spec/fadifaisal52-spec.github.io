@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-SbvmHDOV.js";var t=e;export{t as component};

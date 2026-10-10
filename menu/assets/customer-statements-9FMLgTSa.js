@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CpcpNrWM.js";var t=e;export{t as component};

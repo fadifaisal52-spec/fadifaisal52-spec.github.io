@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-QRmWiaEX.js";var t=e;export{t as component};

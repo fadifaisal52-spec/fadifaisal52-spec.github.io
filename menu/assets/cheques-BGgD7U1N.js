@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-CHSN_awK.js";var t=e;export{t as component};
