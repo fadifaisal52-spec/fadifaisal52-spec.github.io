@@ -1,0 +1,1 @@
+import e from"./AgingReport-BWKcZb6e.js";var t=e;export{t as component};

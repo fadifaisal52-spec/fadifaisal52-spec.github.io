@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-n2vaHaND.js";var t=e;export{t as component};
