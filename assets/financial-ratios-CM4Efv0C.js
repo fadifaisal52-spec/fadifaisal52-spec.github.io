@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CvA4giLb.js";var t=e;export{t as component};

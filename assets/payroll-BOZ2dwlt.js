@@ -1,0 +1,1 @@
+import e from"./Payroll-BzP_aPRS.js";var t=e;export{t as component};
