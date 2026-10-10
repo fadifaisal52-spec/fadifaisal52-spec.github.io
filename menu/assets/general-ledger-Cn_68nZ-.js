@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DDA1YTL2.js";var t=e;export{t as component};

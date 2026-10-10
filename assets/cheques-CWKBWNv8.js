@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-CC3MxJ_C.js";var t=e;export{t as component};

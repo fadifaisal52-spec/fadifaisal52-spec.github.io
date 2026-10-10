@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-WvNPDTGl.js";var t=e;export{t as component};
