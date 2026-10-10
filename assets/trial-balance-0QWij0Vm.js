@@ -1,1 +1,0 @@
-import e from"./TrialBalance-CrZKmlF1.js";var t=e;export{t as component};
