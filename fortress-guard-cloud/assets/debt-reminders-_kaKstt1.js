@@ -1,0 +1,1 @@
+import e from"./DebtReminders-CK1TuJWk.js";var t=e;export{t as component};
