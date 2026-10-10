@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CTC3dMVG.js";var t=e;export{t as component};
