@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DMnykB2b.js";var t=e;export{t as component};

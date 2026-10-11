@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-Cnexc2m2.js";var t=e;export{t as component};
