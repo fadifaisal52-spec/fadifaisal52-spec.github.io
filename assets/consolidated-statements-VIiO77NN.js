@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BINe66Lq.js";var t=e;export{t as component};

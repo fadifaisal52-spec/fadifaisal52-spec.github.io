@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Dyf4NYva.js";var t=e;export{t as component};

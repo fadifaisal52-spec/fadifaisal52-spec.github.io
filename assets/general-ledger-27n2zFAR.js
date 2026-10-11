@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Dzk9_eep.js";var t=e;export{t as component};
