@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Cedg-D8T.js";var t=e;export{t as component};
