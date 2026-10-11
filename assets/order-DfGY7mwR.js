@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DvT5XiUp.js";var t=e;export{t as component};

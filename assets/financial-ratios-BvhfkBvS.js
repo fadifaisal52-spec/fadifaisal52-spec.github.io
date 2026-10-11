@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-Clqw_gkh.js";var t=e;export{t as component};
