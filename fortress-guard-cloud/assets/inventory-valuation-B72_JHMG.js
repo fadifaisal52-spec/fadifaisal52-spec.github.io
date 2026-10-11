@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-Dd4-hDUJ.js";var t=e;export{t as component};

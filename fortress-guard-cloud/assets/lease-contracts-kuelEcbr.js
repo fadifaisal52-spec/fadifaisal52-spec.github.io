@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-h2lpvABP.js";var t=e;export{t as component};
