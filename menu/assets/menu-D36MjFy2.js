@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-D5p-pNly.js";var t=e;export{t as component};

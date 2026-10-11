@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CsM05Eth.js";var t=e;export{t as component};

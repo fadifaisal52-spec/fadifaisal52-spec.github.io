@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-ifxswa2w.js";var t=e;export{t as component};

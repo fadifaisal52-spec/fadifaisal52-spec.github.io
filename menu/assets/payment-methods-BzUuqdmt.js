@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-quR_kAWf.js";var t=e;export{t as component};
