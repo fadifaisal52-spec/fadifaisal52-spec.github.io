@@ -1,0 +1,1 @@
+import e from"./InventoryValuation-CHT--wgY.js";var t=e;export{t as component};

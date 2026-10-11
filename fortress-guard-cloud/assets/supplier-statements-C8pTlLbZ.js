@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-mlJ3D20w.js";var t=e;export{t as component};
