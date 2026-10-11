@@ -1,0 +1,1 @@
+import e from"./Payroll-_-9rqtia.js";var t=e;export{t as component};

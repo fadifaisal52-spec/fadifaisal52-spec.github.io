@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Gm4cSybu.js";var t=e;export{t as component};
