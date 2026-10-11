@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DLdR_ICa.js";var t=e;export{t as component};

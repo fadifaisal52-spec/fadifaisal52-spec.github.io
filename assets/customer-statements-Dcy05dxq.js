@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CAbNf8mc.js";var t=e;export{t as component};
