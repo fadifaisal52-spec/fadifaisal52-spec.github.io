@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Ddh-zfqf.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DQt4Uwmb.js";var t=e;export{t as component};

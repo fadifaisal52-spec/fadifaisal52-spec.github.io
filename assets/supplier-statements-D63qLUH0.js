@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Du2vrGTS.js";var t=e;export{t as component};

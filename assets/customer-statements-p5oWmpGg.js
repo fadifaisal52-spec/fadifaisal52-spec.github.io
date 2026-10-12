@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CKcrk3xt.js";var t=e;export{t as component};
