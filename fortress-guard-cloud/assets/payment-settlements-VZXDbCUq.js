@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-BLEK6Fok.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-BKQ_axoV.js";var t=e;export{t as component};

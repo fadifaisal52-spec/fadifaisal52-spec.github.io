@@ -1,0 +1,1 @@
+import e from"./AgingReport-Ci7_-YmU.js";var t=e;export{t as component};
