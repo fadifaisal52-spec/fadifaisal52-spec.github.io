@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-CBZ-hs5t.js";var t=e;export{t as component};

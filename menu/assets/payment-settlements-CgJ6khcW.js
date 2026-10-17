@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CWmu-Mlo.js";var t=e;export{t as component};

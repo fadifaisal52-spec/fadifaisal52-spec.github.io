@@ -1,0 +1,1 @@
+import e from"./BalanceSheet-Co2fChpr.js";var t=e;export{t as component};

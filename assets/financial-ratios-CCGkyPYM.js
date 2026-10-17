@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-Brg2_gRP.js";var t=e;export{t as component};

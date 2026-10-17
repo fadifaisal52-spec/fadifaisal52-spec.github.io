@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-4s-WQaRl.js";var t=e;export{t as component};
