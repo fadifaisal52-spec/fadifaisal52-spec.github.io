@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CrrueQgB.js";var t=e;export{t as component};

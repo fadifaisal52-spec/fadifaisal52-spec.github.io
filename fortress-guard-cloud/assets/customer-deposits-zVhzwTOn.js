@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-BRosgVzr.js";var t=e;export{t as component};

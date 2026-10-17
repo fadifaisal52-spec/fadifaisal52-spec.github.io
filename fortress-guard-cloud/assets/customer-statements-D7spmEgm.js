@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DZ-PIbtq.js";var t=e;export{t as component};
