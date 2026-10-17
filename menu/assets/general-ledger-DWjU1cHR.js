@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DBcrxHG7.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./Payroll-De2_Cnms.js";var t=e;export{t as component};
