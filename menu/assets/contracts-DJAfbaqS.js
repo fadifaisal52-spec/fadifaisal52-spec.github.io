@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-CemfM_aD.js";var t=e;export{t as component};

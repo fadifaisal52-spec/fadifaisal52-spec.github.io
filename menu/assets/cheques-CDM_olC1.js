@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-DP7ppFf6.js";var t=e;export{t as component};

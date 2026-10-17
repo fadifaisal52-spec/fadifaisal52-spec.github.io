@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BMWSwdzi.js";var t=e;export{t as component};
