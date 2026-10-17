@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BONNQ2eu.js";var t=e;export{t as component};
