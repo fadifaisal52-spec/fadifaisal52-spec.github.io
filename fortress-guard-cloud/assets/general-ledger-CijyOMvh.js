@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-CS1-KmF4.js";var t=e;export{t as component};

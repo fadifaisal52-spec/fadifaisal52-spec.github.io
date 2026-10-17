@@ -1,0 +1,1 @@
+import e from"./Payroll-gSt-ax6a.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-hiaG_J5k.js";var t=e;export{t as component};

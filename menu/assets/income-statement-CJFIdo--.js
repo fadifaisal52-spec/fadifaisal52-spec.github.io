@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-HTT0-TLp.js";var t=e;export{t as component};

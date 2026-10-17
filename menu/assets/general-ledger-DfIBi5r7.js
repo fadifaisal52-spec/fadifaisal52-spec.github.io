@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DWal-SAE.js";var t=e;export{t as component};
