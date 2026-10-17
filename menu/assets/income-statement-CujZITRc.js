@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CM7cucis.js";var t=e;export{t as component};
