@@ -1,0 +1,1 @@
+import e from"./TrialBalance-D0_bbiHD.js";var t=e;export{t as component};

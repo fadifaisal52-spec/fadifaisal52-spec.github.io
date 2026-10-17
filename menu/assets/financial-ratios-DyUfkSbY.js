@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CPasTBUL.js";var t=e;export{t as component};

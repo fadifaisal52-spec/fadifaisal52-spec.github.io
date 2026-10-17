@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-IA14-ZVO.js";var t=e;export{t as component};

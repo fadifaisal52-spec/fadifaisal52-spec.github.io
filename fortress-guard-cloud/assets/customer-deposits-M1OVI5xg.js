@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-Dts1Mj2l.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-LvBDVAbI.js";var t=e;export{t as component};
