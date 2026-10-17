@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-BYW_PypD.js";var t=e;export{t as component};
