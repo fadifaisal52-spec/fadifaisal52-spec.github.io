@@ -1,1 +1,0 @@
-import{k as e}from"./index-CHgt_DqA.js";import{i as t}from"./Messaging-BBxPocmf.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

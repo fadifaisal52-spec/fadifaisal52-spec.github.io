@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-Cc0elNAI.js";var t=e;export{t as component};
