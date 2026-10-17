@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-ES3taMdH.js";var t=e;export{t as component};

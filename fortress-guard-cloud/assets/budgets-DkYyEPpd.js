@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-hgnF0ard.js";var t=e;export{t as component};

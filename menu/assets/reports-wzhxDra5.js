@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-CVlkyS1r.js";var t=e;export{t as component};
