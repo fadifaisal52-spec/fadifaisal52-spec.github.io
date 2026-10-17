@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-xGIv1x7V.js";var t=e;export{t as component};

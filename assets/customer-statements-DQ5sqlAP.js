@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-wFBBDaPU.js";var t=e;export{t as component};

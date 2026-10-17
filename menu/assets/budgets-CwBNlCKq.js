@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-BziN-IGw.js";var t=e;export{t as component};

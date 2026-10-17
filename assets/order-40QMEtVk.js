@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-DzDANOUX.js";var t=e;export{t as component};
