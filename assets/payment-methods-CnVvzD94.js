@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-CGXjsE4d.js";var t=e;export{t as component};
