@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-Cpg1SMj6.js";var t=e;export{t as component};
