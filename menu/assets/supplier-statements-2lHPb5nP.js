@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-DQwpCDLR.js";var t=e;export{t as component};
