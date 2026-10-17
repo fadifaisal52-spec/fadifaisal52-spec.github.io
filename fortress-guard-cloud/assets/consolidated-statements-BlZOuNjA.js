@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-C2HrNdig.js";var t=e;export{t as component};

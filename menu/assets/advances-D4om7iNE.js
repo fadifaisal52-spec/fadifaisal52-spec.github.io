@@ -1,0 +1,1 @@
+import{t as e}from"./Advances-C_aU_L40.js";var t=e;export{t as component};
