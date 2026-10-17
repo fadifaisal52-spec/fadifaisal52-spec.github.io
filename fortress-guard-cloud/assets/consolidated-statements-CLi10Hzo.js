@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DRLu__sn.js";var t=e;export{t as component};
