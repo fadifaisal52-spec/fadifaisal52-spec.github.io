@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-CR5BDKAP.js";var t=e;export{t as component};
