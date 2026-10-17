@@ -1,0 +1,1 @@
+import{t as e}from"./LeaseContracts-CND8rina.js";var t=e;export{t as component};
