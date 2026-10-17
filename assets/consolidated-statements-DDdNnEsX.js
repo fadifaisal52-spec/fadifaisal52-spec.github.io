@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BIMDu8dB.js";var t=e;export{t as component};

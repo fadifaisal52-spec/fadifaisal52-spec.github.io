@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-CiKSpy2a.js";var t=e;export{t as component};

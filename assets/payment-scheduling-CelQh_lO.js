@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-Nnh4_Nir.js";var t=e;export{t as component};
