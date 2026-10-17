@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-BVvt-R9Z.js";var t=e;export{t as component};
