@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-CIVY4PoG.js";var t=e;export{t as component};
