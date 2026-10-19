@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Df3a_Cu0.js";var t=e;export{t as component};
