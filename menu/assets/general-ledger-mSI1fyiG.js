@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-laIA7i_k.js";var t=e;export{t as component};
