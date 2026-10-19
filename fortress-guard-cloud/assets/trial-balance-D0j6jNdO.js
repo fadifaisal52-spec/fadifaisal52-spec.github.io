@@ -1,1 +1,0 @@
-import e from"./TrialBalance-CxdtOi4F.js";var t=e;export{t as component};

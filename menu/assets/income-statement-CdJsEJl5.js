@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-AZeaW2pi.js";var t=e;export{t as component};
