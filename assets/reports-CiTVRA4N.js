@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-CWiFB_eR.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-DfCtt22C.js";var t=e;export{t as component};

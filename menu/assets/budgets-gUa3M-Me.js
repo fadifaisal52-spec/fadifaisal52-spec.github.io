@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-BpCtuB14.js";var t=e;export{t as component};
