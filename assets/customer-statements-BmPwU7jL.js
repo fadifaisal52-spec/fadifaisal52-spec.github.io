@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-DtvBAuiy.js";var t=e;export{t as component};

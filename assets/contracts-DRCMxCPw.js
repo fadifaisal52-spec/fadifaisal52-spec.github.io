@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-BRELO9Ih.js";var t=e;export{t as component};
