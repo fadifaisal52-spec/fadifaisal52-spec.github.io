@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DxAyeUne.js";var t=e;export{t as component};

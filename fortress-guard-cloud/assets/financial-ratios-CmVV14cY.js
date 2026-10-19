@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CPKKmg71.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Advances-BWObD31N.js";var t=e;export{t as component};
