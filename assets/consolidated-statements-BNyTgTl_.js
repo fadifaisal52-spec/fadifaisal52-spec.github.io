@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BA1SdHDA.js";var t=e;export{t as component};
