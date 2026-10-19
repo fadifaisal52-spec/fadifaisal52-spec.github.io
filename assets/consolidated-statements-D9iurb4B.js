@@ -1,1 +1,0 @@
-import e from"./ConsolidatedStatements-BVFa8Ktg.js";var t=e;export{t as component};

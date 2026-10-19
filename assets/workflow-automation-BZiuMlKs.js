@@ -1,0 +1,1 @@
+import{t as e}from"./WorkflowAutomation-BC2_bfxH.js";var t=e;export{t as component};
