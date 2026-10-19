@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DOleX7SF.js";var t=e;export{t as component};

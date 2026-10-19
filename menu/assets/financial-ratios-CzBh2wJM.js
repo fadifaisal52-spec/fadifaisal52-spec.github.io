@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CuGGH3_t.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CcAB6_Ql.js";var t=e;export{t as component};

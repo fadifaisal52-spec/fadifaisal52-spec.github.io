@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-_qdlP-sx.js";var t=e;export{t as component};
