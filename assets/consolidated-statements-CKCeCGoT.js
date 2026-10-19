@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DTnB_ADK.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-DKX3CigC.js";var t=e;export{t as component};
