@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-C-VniBb_.js";var t=e;export{t as component};

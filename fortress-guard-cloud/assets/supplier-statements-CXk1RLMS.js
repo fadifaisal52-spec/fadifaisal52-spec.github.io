@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-VeLpm2GR.js";var t=e;export{t as component};

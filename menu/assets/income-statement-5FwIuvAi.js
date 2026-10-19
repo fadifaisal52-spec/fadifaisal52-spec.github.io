@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-CASm_yk6.js";var t=e;export{t as component};
