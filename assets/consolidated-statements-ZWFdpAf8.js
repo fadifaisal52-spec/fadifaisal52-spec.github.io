@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-Cygl4uKe.js";var t=e;export{t as component};
