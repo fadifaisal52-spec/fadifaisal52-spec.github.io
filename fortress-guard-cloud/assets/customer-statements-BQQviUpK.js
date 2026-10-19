@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-AwSf2-wm.js";var t=e;export{t as component};

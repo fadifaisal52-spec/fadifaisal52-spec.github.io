@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-XL0alCit.js";var t=e;export{t as component};

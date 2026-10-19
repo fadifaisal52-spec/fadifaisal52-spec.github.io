@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-CCA32yXm.js";var t=e;export{t as component};

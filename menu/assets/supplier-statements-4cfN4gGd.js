@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DVZVmOf2.js";var t=e;export{t as component};
