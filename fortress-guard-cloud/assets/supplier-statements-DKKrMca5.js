@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CKeB_O9r.js";var t=e;export{t as component};

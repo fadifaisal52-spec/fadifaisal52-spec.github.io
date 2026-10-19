@@ -1,0 +1,1 @@
+import{t as e}from"./WorkflowAutomation-DS2It22-.js";var t=e;export{t as component};
