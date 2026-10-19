@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DfUXMC_q.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-D_LkiBNE.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-9KnsLdDQ.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-zlbU-_RH.js";var t=e;export{t as component};
