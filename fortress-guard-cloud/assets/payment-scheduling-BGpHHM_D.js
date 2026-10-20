@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-COI_3-wo.js";var t=e;export{t as component};

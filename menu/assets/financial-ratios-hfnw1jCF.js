@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BSv_FAYv.js";var t=e;export{t as component};

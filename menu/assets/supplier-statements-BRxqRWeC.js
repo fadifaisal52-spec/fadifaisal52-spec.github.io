@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CblokE_p.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-CAckVoRA.js";var t=e;export{t as component};

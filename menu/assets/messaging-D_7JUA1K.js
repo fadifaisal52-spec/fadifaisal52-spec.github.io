@@ -1,0 +1,1 @@
+import{k as e}from"./index-CLI-Xtmy.js";import{i as t}from"./Messaging-DMO22fV8.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

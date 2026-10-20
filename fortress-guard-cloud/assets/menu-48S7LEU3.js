@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-iGr0H4gl.js";var t=e;export{t as component};
