@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-tLeU_j2g.js";var t=e;export{t as component};
