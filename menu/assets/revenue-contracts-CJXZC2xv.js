@@ -1,1 +1,0 @@
-import{t as e}from"./RevenueContracts-DSgPk_wm.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BicbtD4H.js";var t=e;export{t as component};
