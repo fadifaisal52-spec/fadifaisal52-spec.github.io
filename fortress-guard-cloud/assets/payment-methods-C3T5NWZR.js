@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-Cl97yWPF.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DyZ4-7V5.js";var t=e;export{t as component};

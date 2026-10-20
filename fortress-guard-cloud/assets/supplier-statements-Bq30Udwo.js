@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-Nve_YP9u.js";var t=e;export{t as component};

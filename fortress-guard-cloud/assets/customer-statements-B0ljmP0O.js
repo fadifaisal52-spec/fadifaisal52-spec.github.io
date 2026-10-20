@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CvMr_q-P.js";var t=e;export{t as component};
