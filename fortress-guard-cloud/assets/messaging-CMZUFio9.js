@@ -1,1 +1,0 @@
-import{k as e}from"./index-CTRYSOgr.js";import{i as t}from"./Messaging-BTB9h3nZ.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

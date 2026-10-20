@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-D_T2AfBI.js";var t=e;export{t as component};

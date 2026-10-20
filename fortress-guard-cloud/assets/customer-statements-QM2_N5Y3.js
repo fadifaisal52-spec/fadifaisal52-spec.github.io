@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-ByNT_KcS.js";var t=e;export{t as component};

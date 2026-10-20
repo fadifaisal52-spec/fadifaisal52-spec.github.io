@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-DvdUsAxm.js";var t=e;export{t as component};

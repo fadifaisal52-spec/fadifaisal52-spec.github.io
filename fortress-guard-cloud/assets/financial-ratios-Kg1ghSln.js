@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CRGCgiAx.js";var t=e;export{t as component};

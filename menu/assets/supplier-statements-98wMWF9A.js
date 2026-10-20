@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-KLkDf_tw.js";var t=e;export{t as component};
