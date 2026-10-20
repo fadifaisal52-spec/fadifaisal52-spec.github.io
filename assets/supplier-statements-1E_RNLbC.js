@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-BF31mnyf.js";var t=e;export{t as component};

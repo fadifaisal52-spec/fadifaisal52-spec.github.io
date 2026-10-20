@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-DOAwyjw1.js";var t=e;export{t as component};
