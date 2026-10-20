@@ -1,1 +1,0 @@
-import e from"./Payroll-Cow3qlg-.js";var t=e;export{t as component};

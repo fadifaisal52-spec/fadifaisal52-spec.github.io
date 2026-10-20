@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-DS2_GaUm.js";var t=e;export{t as component};

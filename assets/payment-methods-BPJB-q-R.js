@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-B4z-ygr9.js";var t=e;export{t as component};
