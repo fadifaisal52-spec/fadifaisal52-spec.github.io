@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CS4MMxPP.js";var t=e;export{t as component};

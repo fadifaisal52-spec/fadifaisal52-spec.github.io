@@ -1,0 +1,1 @@
+import{t as e}from"./LeaseContracts-C1H4-uno.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-AHAp2Drl.js";var t=e;export{t as component};

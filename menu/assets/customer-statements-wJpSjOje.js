@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-UTh_9IFC.js";var t=e;export{t as component};
