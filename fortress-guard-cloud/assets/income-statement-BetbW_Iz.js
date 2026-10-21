@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DoKUBaEC.js";var t=e;export{t as component};

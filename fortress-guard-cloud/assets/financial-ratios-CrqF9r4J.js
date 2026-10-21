@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-CUkAbDew.js";var t=e;export{t as component};

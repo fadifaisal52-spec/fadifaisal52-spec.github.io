@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-SGtgliXy.js";var t=e;export{t as component};
