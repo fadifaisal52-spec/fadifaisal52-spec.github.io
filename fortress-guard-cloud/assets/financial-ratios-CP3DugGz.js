@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-BpPz-42N.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Drff3_OM.js";var t=e;export{t as component};

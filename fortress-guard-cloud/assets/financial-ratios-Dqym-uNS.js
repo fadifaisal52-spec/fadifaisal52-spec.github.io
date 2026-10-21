@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-Pyf2KepU.js";var t=e;export{t as component};
