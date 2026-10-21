@@ -1,1 +1,0 @@
-function e(e,t){let n=new Map,r=n.get(e);if(r)return r;let i=(async()=>{try{return await t()}finally{n.delete(e)}})();return n.set(e,i),i}export{e as t};

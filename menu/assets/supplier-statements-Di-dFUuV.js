@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-WD525cDz.js";var t=e;export{t as component};

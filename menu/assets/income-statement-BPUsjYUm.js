@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-unjF-TkE.js";var t=e;export{t as component};
