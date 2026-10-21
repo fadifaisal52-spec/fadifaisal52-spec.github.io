@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-DsEsmOSO.js";var t=e;export{t as component};
