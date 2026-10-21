@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DjPhppZl.js";var t=e;export{t as component};

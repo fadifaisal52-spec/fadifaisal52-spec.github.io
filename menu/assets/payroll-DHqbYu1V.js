@@ -1,1 +1,0 @@
-import e from"./Payroll-C3s4EGGa.js";var t=e;export{t as component};

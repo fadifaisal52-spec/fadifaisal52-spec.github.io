@@ -1,0 +1,1 @@
+import e from"./Payroll-Cux0ui05.js";var t=e;export{t as component};
