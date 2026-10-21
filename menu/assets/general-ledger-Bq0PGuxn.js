@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DpEoCmOr.js";var t=e;export{t as component};

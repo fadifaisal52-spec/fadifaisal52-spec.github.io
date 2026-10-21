@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Bani2pSq.js";var t=e;export{t as component};

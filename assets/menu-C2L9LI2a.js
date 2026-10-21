@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-xiGC4kFi.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-DpT_X5-t.js";var t=e;export{t as component};

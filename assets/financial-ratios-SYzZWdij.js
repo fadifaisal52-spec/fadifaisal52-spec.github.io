@@ -1,0 +1,1 @@
+import e from"./FinancialRatios--pyhdISe.js";var t=e;export{t as component};
