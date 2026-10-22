@@ -1,0 +1,1 @@
+import e from"./BalanceSheet-Bh2OycAl.js";var t=e;export{t as component};
