@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-CvNEDO__.js";var t=e;export{t as component};

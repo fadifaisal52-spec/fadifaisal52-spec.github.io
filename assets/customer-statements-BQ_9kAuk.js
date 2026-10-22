@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DCmMl-Q7.js";var t=e;export{t as component};

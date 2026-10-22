@@ -1,1 +1,0 @@
-import{k as e}from"./index-D2pt967C.js";import{i as t}from"./Messaging-_lsEopss.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
