@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-Cpmjv_mL.js";var t=e;export{t as component};

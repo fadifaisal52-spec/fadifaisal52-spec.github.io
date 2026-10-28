@@ -1,1 +1,0 @@
-import{k as e}from"./index-CIRSvf2s.js";import{i as t}from"./Messaging-Db2nag0Y.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

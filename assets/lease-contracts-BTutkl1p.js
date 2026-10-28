@@ -1,0 +1,1 @@
+import{t as e}from"./LeaseContracts-DanbS4-K.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-Bp-JaoLS.js";var t=e;export{t as component};
