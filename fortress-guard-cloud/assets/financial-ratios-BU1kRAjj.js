@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-DpBP-veM.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-jOvRC-Wf.js";var t=e;export{t as component};

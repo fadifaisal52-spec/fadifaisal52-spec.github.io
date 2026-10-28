@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-sEFQMiru.js";var t=e;export{t as component};

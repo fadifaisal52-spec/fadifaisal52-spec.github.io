@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-C6y-go6_.js";var t=e;export{t as component};

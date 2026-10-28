@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-f5wUnSIq.js";var t=e;export{t as component};
