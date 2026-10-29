@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-DC_RsOBH.js";var t=e;export{t as component};
