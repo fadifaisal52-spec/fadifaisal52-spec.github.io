@@ -1,0 +1,1 @@
+import{x as e}from"./index-CUT2n_Uv.js";import{i as t}from"./Messaging-DGWsluyD.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
