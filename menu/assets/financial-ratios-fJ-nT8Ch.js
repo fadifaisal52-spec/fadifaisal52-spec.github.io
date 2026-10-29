@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-cWdowGJX.js";var t=e;export{t as component};

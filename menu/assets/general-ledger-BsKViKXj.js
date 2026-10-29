@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-tURnoBAO.js";var t=e;export{t as component};

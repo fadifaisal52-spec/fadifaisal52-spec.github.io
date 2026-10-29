@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Bd8-QRRK.js";var t=e;export{t as component};

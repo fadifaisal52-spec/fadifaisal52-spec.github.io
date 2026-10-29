@@ -1,0 +1,1 @@
+import e from"./Payroll-BscFIGkT.js";var t=e;export{t as component};

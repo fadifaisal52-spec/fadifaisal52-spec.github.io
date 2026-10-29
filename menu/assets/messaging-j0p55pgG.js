@@ -1,1 +1,0 @@
-import{x as e}from"./index-gv332uuf.js";import{i as t}from"./Messaging-CBq-dGsv.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
