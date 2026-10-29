@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-fad9p_Pc.js";var t=e;export{t as component};
