@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CV5ELDyk.js";var t=e;export{t as component};
