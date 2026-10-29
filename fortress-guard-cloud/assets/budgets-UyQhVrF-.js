@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-Dt0VetAo.js";var t=e;export{t as component};
