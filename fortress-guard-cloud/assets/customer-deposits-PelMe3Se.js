@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BoWLvREl.js";var t=e;export{t as component};

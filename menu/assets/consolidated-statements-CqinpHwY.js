@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-D-p2md-i.js";var t=e;export{t as component};
