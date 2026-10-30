@@ -1,1 +1,0 @@
-import{x as e}from"./index-BdLeXhkC.js";import{i as t}from"./Messaging-CImwxpLU.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

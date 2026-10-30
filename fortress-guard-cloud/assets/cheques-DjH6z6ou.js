@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-ogpru1TL.js";var t=e;export{t as component};

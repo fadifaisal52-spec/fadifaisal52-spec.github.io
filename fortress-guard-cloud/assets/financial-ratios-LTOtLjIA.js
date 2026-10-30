@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-DnXmOD21.js";var t=e;export{t as component};
