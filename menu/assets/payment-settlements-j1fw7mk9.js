@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CnE_2A-L.js";var t=e;export{t as component};

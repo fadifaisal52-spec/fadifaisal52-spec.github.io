@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-DBm18eOp.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Advances-BVPVTWGv.js";var t=e;export{t as component};

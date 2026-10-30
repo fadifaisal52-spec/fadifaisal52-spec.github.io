@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-coaF4AJS.js";var t=e;export{t as component};
