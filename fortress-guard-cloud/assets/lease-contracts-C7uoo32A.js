@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-diN_Q3tn.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-DnIc6_EI.js";var t=e;export{t as component};

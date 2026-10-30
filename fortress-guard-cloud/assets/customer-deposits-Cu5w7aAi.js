@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-C5_TvnCS.js";var t=e;export{t as component};
