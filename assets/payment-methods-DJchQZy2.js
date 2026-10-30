@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-rBho3Bab.js";var t=e;export{t as component};

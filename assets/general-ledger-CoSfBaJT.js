@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-CHFIietD.js";var t=e;export{t as component};

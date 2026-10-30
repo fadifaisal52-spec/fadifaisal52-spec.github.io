@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-DXfBlCN-.js";var t=e;export{t as component};
