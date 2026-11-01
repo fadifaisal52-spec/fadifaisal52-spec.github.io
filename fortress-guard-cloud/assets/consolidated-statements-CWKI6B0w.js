@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-DREpoCcD.js";var t=e;export{t as component};

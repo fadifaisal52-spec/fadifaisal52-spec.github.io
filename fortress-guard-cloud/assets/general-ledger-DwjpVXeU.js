@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DNSS-f6v.js";var t=e;export{t as component};

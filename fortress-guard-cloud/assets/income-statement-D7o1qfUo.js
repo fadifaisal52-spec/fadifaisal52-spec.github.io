@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-f2_CiWT_.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CmkEN7EH.js";var t=e;export{t as component};
