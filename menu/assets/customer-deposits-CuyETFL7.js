@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BgsVU_lo.js";var t=e;export{t as component};
