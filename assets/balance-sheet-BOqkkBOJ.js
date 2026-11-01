@@ -1,0 +1,1 @@
+import e from"./BalanceSheet-BuW_My1o.js";var t=e;export{t as component};

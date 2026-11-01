@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-Cw-hDCDr.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-x7rtt_Vy.js";var t=e;export{t as component};

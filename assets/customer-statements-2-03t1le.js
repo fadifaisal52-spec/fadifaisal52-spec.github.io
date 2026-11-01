@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-rx_f58UN.js";var t=e;export{t as component};

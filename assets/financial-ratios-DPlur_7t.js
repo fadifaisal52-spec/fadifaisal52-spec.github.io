@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CDaPribb.js";var t=e;export{t as component};
