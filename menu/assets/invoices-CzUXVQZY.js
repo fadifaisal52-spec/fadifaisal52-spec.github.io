@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-CPVxiSdq.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CV3RGLmi.js";var t=e;export{t as component};

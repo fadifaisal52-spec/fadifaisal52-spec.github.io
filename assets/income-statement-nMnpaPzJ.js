@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-BzIR_FAP.js";var t=e;export{t as component};
