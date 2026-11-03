@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-Dv-Ib88-.js";var t=e;export{t as component};

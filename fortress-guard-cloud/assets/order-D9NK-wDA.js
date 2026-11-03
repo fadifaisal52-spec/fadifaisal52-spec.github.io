@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-CPR-G6HY.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-D_UR3ZIN.js";var t=e;export{t as component};
