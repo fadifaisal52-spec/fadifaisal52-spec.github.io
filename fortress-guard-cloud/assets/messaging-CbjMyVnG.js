@@ -1,1 +1,0 @@
-import{x as e}from"./index-fifdsKRD.js";import{i as t}from"./Messaging-hRlwvrs2.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

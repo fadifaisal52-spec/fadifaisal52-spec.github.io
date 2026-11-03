@@ -1,0 +1,1 @@
+import e from"./TrialBalance-BM_mv4t3.js";var t=e;export{t as component};

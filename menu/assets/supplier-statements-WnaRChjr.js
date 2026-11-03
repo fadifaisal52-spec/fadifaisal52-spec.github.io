@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-YZN-I1SI.js";var t=e;export{t as component};
