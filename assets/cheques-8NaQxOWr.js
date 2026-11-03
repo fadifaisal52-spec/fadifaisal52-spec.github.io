@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-XW-rAT6c.js";var t=e;export{t as component};
