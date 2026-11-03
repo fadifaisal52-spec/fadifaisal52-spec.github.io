@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentScheduling-BaARXcz2.js";var t=e;export{t as component};
