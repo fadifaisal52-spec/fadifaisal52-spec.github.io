@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-CA95on3-.js";var t=e;export{t as component};

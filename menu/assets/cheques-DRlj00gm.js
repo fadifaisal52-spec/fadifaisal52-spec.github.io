@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-Ba-LcSvf.js";var t=e;export{t as component};

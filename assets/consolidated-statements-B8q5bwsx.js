@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CIIGWCNa.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-BKMnE_L2.js";var t=e;export{t as component};

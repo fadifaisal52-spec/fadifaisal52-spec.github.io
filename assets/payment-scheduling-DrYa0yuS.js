@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-hxzb-HTv.js";var t=e;export{t as component};
