@@ -1,0 +1,1 @@
+import e from"./DebtReminders-CGROJsIe.js";var t=e;export{t as component};

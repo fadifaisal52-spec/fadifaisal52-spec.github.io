@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-OB32itt5.js";var t=e;export{t as component};

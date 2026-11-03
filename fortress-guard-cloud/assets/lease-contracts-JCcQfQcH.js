@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-DUBlm0Pi.js";var t=e;export{t as component};

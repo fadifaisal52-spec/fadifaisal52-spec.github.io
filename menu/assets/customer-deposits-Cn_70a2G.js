@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits--Pkla3If.js";var t=e;export{t as component};
