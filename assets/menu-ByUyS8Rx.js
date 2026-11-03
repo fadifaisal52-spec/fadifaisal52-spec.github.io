@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-DXirng6d.js";var t=e;export{t as component};

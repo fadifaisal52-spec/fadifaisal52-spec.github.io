@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-DbHUM6II.js";var t=e;export{t as component};

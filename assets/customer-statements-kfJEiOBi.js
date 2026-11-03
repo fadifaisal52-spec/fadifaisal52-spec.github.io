@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CgHeDtI_.js";var t=e;export{t as component};
