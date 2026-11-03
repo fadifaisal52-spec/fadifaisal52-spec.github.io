@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CaCNfLPD.js";var t=e;export{t as component};

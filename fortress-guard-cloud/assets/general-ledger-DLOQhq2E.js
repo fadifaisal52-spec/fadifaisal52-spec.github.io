@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-CDcp8OxS.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-ChKbCsAI.js";var t=e;export{t as component};
