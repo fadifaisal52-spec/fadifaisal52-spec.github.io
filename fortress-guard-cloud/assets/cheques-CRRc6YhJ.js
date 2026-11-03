@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-Cmayb_7E.js";var t=e;export{t as component};
