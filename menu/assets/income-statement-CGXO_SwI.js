@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-C_ETFBo0.js";var t=e;export{t as component};

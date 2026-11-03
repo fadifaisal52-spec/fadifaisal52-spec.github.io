@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-Cpcpo3JD.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-DFmi_oHZ.js";var t=e;export{t as component};
