@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-2X--knmz.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-Bcd_NiSo.js";var t=e;export{t as component};

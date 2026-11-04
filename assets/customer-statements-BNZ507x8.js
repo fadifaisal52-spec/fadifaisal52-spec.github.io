@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BTAD_TW4.js";var t=e;export{t as component};
