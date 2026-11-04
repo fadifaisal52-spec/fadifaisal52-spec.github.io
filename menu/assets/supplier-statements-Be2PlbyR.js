@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-BTa4EVX1.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{x as e}from"./index--pFx_MEq.js";import{i as t}from"./Messaging-8HxboOSf.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
