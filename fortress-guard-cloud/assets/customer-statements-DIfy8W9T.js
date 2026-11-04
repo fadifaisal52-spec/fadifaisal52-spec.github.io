@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BUJK0mk8.js";var t=e;export{t as component};

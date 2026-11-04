@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-Ci-m2Bdr.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-tRk4vG_p.js";var t=e;export{t as component};
