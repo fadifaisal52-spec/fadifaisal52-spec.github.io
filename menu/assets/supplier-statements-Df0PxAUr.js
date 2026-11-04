@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-COEUOlrR.js";var t=e;export{t as component};

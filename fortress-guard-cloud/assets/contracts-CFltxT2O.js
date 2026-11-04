@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-DVMLLEXZ.js";var t=e;export{t as component};

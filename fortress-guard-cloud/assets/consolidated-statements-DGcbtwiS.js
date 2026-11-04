@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-Cvs2LXJP.js";var t=e;export{t as component};
