@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-C3dtMudC.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-Co6Isgi-.js";var t=e;export{t as component};

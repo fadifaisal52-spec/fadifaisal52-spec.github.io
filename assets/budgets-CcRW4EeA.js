@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-dQml8Weg.js";var t=e;export{t as component};
