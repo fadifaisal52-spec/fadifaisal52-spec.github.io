@@ -1,0 +1,1 @@
+import e from"./Payroll-CQYt-f_k.js";var t=e;export{t as component};
