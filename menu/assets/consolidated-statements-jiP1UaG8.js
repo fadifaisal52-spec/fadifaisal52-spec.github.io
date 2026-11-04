@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-CPsK_xQn.js";var t=e;export{t as component};

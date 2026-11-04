@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-CF-iUmQO.js";var t=e;export{t as component};
