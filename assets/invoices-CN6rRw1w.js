@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-w481NgLH.js";var t=e;export{t as component};

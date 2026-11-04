@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BlePNRAJ.js";var t=e;export{t as component};

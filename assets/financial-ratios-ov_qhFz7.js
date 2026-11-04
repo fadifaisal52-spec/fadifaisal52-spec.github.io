@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CfvES2Ld.js";var t=e;export{t as component};

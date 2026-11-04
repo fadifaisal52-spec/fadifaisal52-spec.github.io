@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-CT32X8EZ.js";var t=e;export{t as component};

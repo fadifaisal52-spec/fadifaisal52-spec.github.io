@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-eMZit1cn.js";var t=e;export{t as component};
