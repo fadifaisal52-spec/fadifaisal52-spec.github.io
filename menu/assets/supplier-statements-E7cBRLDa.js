@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-Btmx48C-.js";var t=e;export{t as component};
