@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts--qLK_i72.js";var t=e;export{t as component};

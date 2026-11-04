@@ -1,1 +1,0 @@
-import e from"./SupplierStatements-BUki4acw.js";var t=e;export{t as component};

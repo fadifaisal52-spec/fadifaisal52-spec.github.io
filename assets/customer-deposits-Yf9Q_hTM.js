@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-BM4Nklei.js";var t=e;export{t as component};
