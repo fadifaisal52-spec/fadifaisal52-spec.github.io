@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BgsrV_w0.js";var t=e;export{t as component};
