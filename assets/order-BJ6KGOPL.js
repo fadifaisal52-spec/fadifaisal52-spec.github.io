@@ -1,0 +1,1 @@
+import{t as e}from"./Menu-DSLEx1Wv.js";var t=e;export{t as component};
