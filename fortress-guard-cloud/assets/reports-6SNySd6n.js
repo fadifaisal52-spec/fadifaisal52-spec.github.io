@@ -1,1 +1,0 @@
-import{t as e}from"./Reports-CKMY7H7m.js";var t=e;export{t as component};

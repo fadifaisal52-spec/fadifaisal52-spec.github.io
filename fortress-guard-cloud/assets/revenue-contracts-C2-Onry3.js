@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-CAKWtR61.js";var t=e;export{t as component};

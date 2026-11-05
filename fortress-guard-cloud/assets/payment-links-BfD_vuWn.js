@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-CAMnQ5BG.js";var t=e;export{t as component};
