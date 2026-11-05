@@ -1,0 +1,1 @@
+import{t as e}from"./Advances-Bpg2-L_u.js";var t=e;export{t as component};

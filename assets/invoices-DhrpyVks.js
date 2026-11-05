@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-Cfo_CUZF.js";var t=e;export{t as component};

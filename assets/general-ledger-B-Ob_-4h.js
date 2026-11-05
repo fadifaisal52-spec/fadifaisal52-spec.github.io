@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Dk5Dg_pn.js";var t=e;export{t as component};
