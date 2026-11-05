@@ -1,0 +1,1 @@
+import e from"./Payroll-estpkLEX.js";var t=e;export{t as component};

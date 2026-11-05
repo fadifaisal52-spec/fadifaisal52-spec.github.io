@@ -1,1 +1,0 @@
-import{t as e}from"./Menu-D2tGVWPc.js";var t=e;export{t as component};

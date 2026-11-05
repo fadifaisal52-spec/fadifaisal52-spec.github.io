@@ -1,0 +1,1 @@
+import e from"./AgingReport-Detcl_wl.js";var t=e;export{t as component};
