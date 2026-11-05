@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-DapVEaBG.js";var t=e;export{t as component};

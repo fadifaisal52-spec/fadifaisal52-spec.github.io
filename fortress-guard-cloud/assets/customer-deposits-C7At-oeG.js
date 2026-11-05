@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-m8-hAkEc.js";var t=e;export{t as component};
