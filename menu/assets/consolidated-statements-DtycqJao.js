@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-Buxmir5X.js";var t=e;export{t as component};

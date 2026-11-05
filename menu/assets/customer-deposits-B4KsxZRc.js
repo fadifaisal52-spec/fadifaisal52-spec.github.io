@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CDQf5lNg.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-DlPr2y-4.js";var t=e;export{t as component};

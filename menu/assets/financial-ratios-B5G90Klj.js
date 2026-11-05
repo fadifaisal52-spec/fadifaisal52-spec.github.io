@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-D3_Dstec.js";var t=e;export{t as component};
