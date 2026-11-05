@@ -1,0 +1,1 @@
+import{t as e}from"./Invoices-BsgQB_vs.js";var t=e;export{t as component};

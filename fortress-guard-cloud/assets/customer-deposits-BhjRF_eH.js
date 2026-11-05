@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-BVext-AL.js";var t=e;export{t as component};

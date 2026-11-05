@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-DbCrx19s.js";var t=e;export{t as component};
