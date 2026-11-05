@@ -1,1 +1,0 @@
-import{t as e}from"./BudgetVsActual-BEF2_q5q.js";var t=e;export{t as component};

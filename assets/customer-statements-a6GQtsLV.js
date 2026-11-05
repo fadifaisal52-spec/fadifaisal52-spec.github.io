@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Dlhdy04P.js";var t=e;export{t as component};
