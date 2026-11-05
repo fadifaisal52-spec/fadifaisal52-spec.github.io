@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-D3w-yiNh.js";var t=e;export{t as component};

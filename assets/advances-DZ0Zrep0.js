@@ -1,0 +1,1 @@
+import{t as e}from"./Advances-BmxUj8xD.js";var t=e;export{t as component};
