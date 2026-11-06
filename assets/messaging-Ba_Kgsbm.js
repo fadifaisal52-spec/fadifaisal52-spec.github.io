@@ -1,1 +1,0 @@
-import{x as e}from"./index-CG-pxfpK.js";import{i as t}from"./Messaging-DheIsy_x.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

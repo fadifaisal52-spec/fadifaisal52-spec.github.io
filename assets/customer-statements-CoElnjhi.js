@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-Doev_PAc.js";var t=e;export{t as component};
