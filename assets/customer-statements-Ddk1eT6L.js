@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-DQwd_urP.js";var t=e;export{t as component};

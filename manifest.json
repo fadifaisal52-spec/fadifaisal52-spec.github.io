@@ -2,7 +2,7 @@
   "name": "أفق - كل عملياتك في مكان واحد",
   "short_name": "أفق",
   "description": "نظام محاسبة ونقاط بيع متكامل لإدارة المبيعات والمشتريات والمخزون والموظفين والتقارير المالية.",
-  "start_url": "./dashboard",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#0f172a",
