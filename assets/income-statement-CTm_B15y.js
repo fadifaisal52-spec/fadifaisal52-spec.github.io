@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-BRfpr6sp.js";var t=e;export{t as component};
