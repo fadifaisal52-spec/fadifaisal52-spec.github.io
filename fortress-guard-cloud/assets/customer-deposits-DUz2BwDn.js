@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CfD40-hA.js";var t=e;export{t as component};

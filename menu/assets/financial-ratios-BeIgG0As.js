@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DrpFEXWP.js";var t=e;export{t as component};

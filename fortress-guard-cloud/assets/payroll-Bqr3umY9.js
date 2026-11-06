@@ -1,0 +1,1 @@
+import e from"./Payroll-7xSmddvp.js";var t=e;export{t as component};
