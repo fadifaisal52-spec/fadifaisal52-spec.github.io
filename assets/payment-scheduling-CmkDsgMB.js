@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-Ga-fnvOk.js";var t=e;export{t as component};
