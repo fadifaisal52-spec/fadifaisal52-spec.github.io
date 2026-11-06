@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-C1R-Lcyn.js";var t=e;export{t as component};

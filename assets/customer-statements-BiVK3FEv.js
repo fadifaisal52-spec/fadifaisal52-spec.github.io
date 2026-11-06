@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-DM32n4o_.js";var t=e;export{t as component};
