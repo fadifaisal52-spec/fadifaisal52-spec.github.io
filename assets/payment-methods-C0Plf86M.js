@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-p653hawo.js";var t=e;export{t as component};

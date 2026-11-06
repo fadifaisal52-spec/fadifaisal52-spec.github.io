@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DKso2FwI.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-C6PEAcTa.js";var t=e;export{t as component};
