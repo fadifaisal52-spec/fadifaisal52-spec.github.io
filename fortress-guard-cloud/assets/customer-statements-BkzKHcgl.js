@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BITZ9TIs.js";var t=e;export{t as component};

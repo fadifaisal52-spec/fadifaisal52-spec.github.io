@@ -1,0 +1,1 @@
+import{t as e}from"./Reports-Dsc3TOfy.js";var t=e;export{t as component};
