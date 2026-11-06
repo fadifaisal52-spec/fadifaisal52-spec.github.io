@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BEA_WyTG.js";var t=e;export{t as component};

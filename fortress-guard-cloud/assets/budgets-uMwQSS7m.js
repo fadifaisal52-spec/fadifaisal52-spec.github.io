@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-DUFR-1V1.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentLinks-CADSghTI.js";var t=e;export{t as component};

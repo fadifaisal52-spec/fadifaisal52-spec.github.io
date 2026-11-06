@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-Dhypmv8a.js";var t=e;export{t as component};
