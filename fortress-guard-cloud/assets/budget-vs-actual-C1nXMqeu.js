@@ -1,0 +1,1 @@
+import{t as e}from"./BudgetVsActual-C6-UISPT.js";var t=e;export{t as component};
