@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DT265CVc.js";var t=e;export{t as component};

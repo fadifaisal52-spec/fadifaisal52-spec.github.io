@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentMethodsConfig-CfSek6V7.js";var t=e;export{t as component};
