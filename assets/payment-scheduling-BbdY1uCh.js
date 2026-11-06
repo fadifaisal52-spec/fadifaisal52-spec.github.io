@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentScheduling-By_mHDiZ.js";var t=e;export{t as component};

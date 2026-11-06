@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-C8B_ikbd.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DtjPBXxd.js";var t=e;export{t as component};
