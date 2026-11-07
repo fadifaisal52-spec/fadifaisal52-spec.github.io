@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-D4-tlO-o.js";var t=e;export{t as component};

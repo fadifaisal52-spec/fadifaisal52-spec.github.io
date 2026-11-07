@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-DBs2DTYq.js";var t=e;export{t as component};

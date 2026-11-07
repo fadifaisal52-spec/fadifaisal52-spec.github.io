@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CD56PxPc.js";var t=e;export{t as component};

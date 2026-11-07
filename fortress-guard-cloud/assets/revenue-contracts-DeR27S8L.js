@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-CDel62MQ.js";var t=e;export{t as component};
