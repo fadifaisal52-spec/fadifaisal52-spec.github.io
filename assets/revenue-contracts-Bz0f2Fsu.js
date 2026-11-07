@@ -1,0 +1,1 @@
+import{t as e}from"./RevenueContracts-rp-HpPs3.js";var t=e;export{t as component};

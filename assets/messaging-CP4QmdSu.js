@@ -1,0 +1,1 @@
+import{w as e}from"./index-BATGo2Ai.js";import{i as t}from"./Messaging-KbacWAGG.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

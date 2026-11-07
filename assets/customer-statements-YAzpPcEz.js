@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-mpGimeAi.js";var t=e;export{t as component};

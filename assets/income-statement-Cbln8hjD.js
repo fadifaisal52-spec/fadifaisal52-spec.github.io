@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-CaLvU2cs.js";var t=e;export{t as component};
