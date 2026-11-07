@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-BclxCONx.js";var t=e;export{t as component};

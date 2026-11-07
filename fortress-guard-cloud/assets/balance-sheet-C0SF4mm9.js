@@ -1,0 +1,1 @@
+import e from"./BalanceSheet-xd5Wicaq.js";var t=e;export{t as component};
