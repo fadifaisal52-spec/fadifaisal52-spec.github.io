@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-AvCswROP.js";var t=e;export{t as component};
