@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-wrt-w7vg.js";var t=e;export{t as component};

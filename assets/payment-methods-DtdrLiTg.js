@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-BGlagu-u.js";var t=e;export{t as component};

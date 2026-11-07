@@ -1,0 +1,1 @@
+import{w as e}from"./index-CROBm_qz.js";import{i as t}from"./Messaging-r3geUne2.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

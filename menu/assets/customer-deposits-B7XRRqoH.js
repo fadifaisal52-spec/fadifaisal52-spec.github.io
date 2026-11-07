@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-DytTEx3o.js";var t=e;export{t as component};
