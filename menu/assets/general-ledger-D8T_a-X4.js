@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-CNHDO5_j.js";var t=e;export{t as component};
