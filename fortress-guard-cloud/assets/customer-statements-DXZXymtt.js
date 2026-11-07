@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-Cm2vakGl.js";var t=e;export{t as component};

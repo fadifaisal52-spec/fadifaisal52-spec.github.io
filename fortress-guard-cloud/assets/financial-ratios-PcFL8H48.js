@@ -1,0 +1,1 @@
+import e from"./FinancialRatios-DVPNy8Ml.js";var t=e;export{t as component};
