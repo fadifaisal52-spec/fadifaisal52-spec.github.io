@@ -1,0 +1,1 @@
+import{t as e}from"./ContractsHub-DuR40-tz.js";var t=e;export{t as component};

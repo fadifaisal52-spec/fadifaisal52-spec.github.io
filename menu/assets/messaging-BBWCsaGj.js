@@ -1,1 +1,0 @@
-import{w as e}from"./index-C-TCVPM1.js";import{i as t}from"./Messaging-CxhSuo03.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

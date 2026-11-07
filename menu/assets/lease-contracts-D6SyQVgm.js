@@ -1,1 +1,0 @@
-import{t as e}from"./LeaseContracts-TYcS13Ng.js";var t=e;export{t as component};
