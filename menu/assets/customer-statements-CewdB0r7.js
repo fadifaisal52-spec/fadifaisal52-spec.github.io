@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CGWgPC-J.js";var t=e;export{t as component};
