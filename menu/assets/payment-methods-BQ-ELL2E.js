@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DAN_0yTE.js";var t=e;export{t as component};
