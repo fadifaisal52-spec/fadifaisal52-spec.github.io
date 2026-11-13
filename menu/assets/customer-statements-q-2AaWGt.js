@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-CCMOAnTp.js";var t=e;export{t as component};
