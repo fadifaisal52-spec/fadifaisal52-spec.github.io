@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-C0h_KSPB.js";var t=e;export{t as component};

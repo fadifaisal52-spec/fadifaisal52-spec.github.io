@@ -1,1 +1,0 @@
-import{t as e}from"./Cheques-GbSTVvlj.js";var t=e;export{t as component};
