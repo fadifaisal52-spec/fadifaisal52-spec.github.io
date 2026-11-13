@@ -1,1 +1,0 @@
-import{t as e}from"./WorkflowAutomation-DHq9k9fj.js";var t=e;export{t as component};
