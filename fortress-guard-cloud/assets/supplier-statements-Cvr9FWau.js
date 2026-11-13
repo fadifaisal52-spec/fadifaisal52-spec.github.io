@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-KAs-PhDY.js";var t=e;export{t as component};

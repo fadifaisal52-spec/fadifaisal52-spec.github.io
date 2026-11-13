@@ -1,0 +1,1 @@
+import{h as e}from"./index-Cz4Vyvip.js";var t=e(`chevron-up`,[[`path`,{d:`m18 15-6-6-6 6`,key:`153udz`}]]);export{t};

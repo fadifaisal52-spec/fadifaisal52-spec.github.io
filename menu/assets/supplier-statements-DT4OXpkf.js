@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DoPSepC-.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{h as e}from"./index-Beaj0_3_.js";var t=e(`menu`,[[`path`,{d:`M4 5h16`,key:`1tepv9`}],[`path`,{d:`M4 12h16`,key:`1lakjw`}],[`path`,{d:`M4 19h16`,key:`1djgab`}]]);export{t};
