@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-BGMfTCFS.js";var t=e;export{t as component};
