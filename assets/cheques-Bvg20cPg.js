@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-xq_Sghlb.js";var t=e;export{t as component};

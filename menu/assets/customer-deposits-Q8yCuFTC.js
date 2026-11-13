@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-Kr--GnSx.js";var t=e;export{t as component};
