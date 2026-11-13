@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DB_V6MNA.js";var t=e;export{t as component};

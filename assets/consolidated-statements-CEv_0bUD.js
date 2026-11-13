@@ -1,0 +1,1 @@
+import e from"./ConsolidatedStatements-BAW2_aLB.js";var t=e;export{t as component};

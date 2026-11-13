@@ -1,1 +1,0 @@
-import{w as e}from"./index-Bcgw-fMI.js";import{i as t}from"./Messaging-CD7sEJS3.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

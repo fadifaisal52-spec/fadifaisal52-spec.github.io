@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-BE-1Idfc.js";var t=e;export{t as component};
