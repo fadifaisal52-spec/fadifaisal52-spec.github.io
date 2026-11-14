@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-CV_up4En.js";var t=e;export{t as component};

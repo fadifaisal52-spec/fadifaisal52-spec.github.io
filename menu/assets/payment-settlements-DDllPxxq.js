@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-CLeJX1qu.js";var t=e;export{t as component};

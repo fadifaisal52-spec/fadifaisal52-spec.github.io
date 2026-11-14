@@ -1,0 +1,1 @@
+import e from"./Payroll-ImUK9-wy.js";var t=e;export{t as component};
