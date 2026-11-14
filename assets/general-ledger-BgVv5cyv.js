@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-DeOAiS1_.js";var t=e;export{t as component};

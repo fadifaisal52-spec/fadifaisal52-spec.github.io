@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-C8OKdtgi.js";var t=e;export{t as component};

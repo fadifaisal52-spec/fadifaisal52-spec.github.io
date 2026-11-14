@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-Gssa3klt.js";var t=e;export{t as component};

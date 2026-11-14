@@ -1,0 +1,1 @@
+import e from"./IncomeStatement-CxtBAG4h.js";var t=e;export{t as component};

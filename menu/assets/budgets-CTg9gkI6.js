@@ -1,1 +1,0 @@
-import{t as e}from"./Budgets-CjORx_Wr.js";var t=e;export{t as component};
