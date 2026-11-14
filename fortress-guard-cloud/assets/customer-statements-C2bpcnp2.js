@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-cd-hveMa.js";var t=e;export{t as component};

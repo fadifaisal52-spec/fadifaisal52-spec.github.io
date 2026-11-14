@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-BDV2RuOx.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./PaymentSettlements-Dybl5Pk2.js";var t=e;export{t as component};

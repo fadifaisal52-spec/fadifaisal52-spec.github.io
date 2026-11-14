@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-LSQ-1FTE.js";var t=e;export{t as component};
