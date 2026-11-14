@@ -1,0 +1,1 @@
+import{w as e}from"./index-BS-HPB9_.js";import{i as t}from"./Messaging-BB9EAwB9.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

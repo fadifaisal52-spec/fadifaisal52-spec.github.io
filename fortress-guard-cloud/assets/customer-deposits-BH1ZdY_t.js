@@ -1,1 +1,0 @@
-import e from"./CustomerDeposits-DYa2aIKL.js";var t=e;export{t as component};

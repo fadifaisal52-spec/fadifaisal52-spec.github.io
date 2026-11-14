@@ -1,0 +1,1 @@
+import{t as e}from"./menu-oV-geMTI.js";var t=e;export{t as component};

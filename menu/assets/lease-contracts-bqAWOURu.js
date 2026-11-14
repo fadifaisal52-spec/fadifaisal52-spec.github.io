@@ -1,0 +1,1 @@
+import{t as e}from"./LeaseContracts-DfBLUqe2.js";var t=e;export{t as component};

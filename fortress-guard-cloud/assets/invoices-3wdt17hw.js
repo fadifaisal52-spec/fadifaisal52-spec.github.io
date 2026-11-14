@@ -1,1 +1,0 @@
-import{t as e}from"./Invoices-ngpX95pu.js";var t=e;export{t as component};
