@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Jx-_xkb7.js";var t=e;export{t as component};
