@@ -1,0 +1,1 @@
+import e from"./Payroll-9oNHigim.js";var t=e;export{t as component};

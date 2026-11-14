@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-BU8_pR7j.js";var t=e;export{t as component};

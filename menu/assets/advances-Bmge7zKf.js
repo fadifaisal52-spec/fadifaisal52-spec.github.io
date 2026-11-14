@@ -1,1 +1,0 @@
-import{t as e}from"./Advances-D6-R-pwg.js";var t=e;export{t as component};
