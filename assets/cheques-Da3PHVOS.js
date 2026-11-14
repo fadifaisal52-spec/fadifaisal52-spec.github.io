@@ -1,0 +1,1 @@
+import{t as e}from"./Cheques-CGm34lVN.js";var t=e;export{t as component};

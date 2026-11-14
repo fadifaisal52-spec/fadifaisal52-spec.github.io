@@ -1,0 +1,1 @@
+import{t as e}from"./menu-hCVrvWWs.js";var t=e;export{t as component};

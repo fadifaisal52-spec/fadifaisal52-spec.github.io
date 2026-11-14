@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-C3g_VOPe.js";var t=e;export{t as component};

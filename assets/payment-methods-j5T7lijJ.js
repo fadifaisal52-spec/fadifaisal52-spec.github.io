@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DRiVdp9a.js";var t=e;export{t as component};

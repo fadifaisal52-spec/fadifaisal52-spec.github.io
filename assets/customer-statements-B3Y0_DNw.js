@@ -1,0 +1,1 @@
+import e from"./CustomerStatements-Lr-vaYbb.js";var t=e;export{t as component};
