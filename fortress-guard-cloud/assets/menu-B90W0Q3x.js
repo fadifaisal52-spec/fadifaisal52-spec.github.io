@@ -1,1 +1,0 @@
-import{t as e}from"./menu-BV4ngr-6.js";var t=e;export{t as component};

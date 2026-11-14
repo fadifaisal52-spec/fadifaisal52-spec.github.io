@@ -1,1 +1,0 @@
-import e from"./CustomerStatements-CBK04xPg.js";var t=e;export{t as component};

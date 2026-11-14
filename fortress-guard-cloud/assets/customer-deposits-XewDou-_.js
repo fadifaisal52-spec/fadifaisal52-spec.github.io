@@ -1,0 +1,1 @@
+import e from"./CustomerDeposits-DN-SNbl3.js";var t=e;export{t as component};
