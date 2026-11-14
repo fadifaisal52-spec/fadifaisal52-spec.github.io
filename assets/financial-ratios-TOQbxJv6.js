@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-CeUG-xBY.js";var t=e;export{t as component};
