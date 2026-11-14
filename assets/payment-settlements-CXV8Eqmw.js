@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-DrK_LXGW.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./menu-BryIQ40d.js";var t=e;export{t as component};

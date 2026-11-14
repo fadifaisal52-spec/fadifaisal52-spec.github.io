@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-JCb1iD-p.js";var t=e;export{t as component};

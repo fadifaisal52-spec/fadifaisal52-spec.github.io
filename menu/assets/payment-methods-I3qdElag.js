@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentMethodsConfig-DHxCS_Cf.js";var t=e;export{t as component};
