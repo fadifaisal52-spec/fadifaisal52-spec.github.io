@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-DBl_PeFc.js";var t=e;export{t as component};

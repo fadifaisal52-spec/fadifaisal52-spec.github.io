@@ -1,1 +1,0 @@
-import e from"./FinancialRatios-BCUBRBIB.js";var t=e;export{t as component};
