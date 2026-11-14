@@ -1,0 +1,1 @@
+import e from"./SupplierStatements-DTek1Api.js";var t=e;export{t as component};

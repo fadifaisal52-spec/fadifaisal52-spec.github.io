@@ -1,1 +1,0 @@
-import{t as e}from"./PaymentSettlements-CboR-R_W.js";var t=e;export{t as component};

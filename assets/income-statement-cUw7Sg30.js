@@ -1,1 +1,0 @@
-import e from"./IncomeStatement-ChnKLOET.js";var t=e;export{t as component};
