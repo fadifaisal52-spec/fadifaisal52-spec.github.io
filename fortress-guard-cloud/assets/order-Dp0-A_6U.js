@@ -1,1 +1,0 @@
-import{t as e}from"./menu-DPfa1Z52.js";var t=e;export{t as component};

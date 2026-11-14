@@ -1,0 +1,1 @@
+import{t as e}from"./Budgets-CR--lIV3.js";var t=e;export{t as component};

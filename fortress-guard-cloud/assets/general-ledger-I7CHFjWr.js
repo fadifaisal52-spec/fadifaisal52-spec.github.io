@@ -1,1 +1,0 @@
-import e from"./GeneralLedger-Dakki1OD.js";var t=e;export{t as component};

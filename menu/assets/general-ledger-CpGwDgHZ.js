@@ -1,0 +1,1 @@
+import e from"./GeneralLedger-DbNUB657.js";var t=e;export{t as component};
